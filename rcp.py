@@ -7,7 +7,7 @@ import requests
 workbook = xlsxwriter.Workbook('polls.xlsx')
 date = workbook.add_format({'num_format': 'mm/dd/yy'})
 
-races = set()
+races = {'https://www.realclearpolitics.com/epolls/2020/president/us/general_election_trump_vs_biden-6247.html'}
 
 soup = BeautifulSoup(requests.get("https://www.realclearpolitics.com/epolls/latest_polls/state_president/").text, 'html.parser')
 for t in soup.find_all('td', {'class': 'lp-race'}):
@@ -16,7 +16,7 @@ for t in soup.find_all('td', {'class': 'lp-race'}):
 for race in races:
 	labels = []
 	soup = BeautifulSoup(requests.get(race).text, 'html.parser')
-	sheet = workbook.add_worksheet(soup.find('h1', {'class': 'page_title'}).string.split(':')[0])
+	sheet = workbook.add_worksheet('National' if race == 'https://www.realclearpolitics.com/epolls/2020/president/us/general_election_trump_vs_biden-6247.html' else soup.find('h1', {'class': 'page_title'}).string.split(':')[0])
 	row = 1
 	for t in soup.find_all('div', {'id': 'polling-data-full'}):
 		n = 0
@@ -48,7 +48,6 @@ for race in races:
 				continue
 			if 'RCP Average' in str(children[0]): continue
 			n += 1
-
 			for i in range(len(labels)):
 				if labels[i] == 'poll':
 					sheet.write_string(n, 0, children[i].find('a', {'class': 'normal_pollster_name'}).string)
