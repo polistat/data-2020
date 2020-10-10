@@ -23,4 +23,4 @@ for result in reader:
 
 writer = csv.writer(open('538.csv', 'w', newline=''))
 writer.writerow(columns)
-writer.writerows(filter(lambda p: p[0], polls.values()))
+writer.writerows(filter(lambda p: p[0] and p[7] and p[8], polls.values()))
