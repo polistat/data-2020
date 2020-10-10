@@ -1,0 +1,812 @@
+State,Poll,Source,Start Date,End Date,Sample Size,Sample Type,MoE,Biden,Trump
+Maine,Bangor Daily News*,https://drive.google.com/file/d/1rgOpdiCIcbEBjnt2pVvQO7ztkbfsNB90/view,2020-09-25 00:00:00,2020-10-04 00:00:00,466,LV,,51.0,40.0
+Maine,Colby College,http://www.colby.edu/government/2020-polling/,2020-09-17 00:00:00,2020-09-23 00:00:00,847,LV,3.4,50.0,39.0
+Maine,Boston Globe/Suffolk*,https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2020/9_21_2020_marginals_pdftxt.pdf?la=en&hash=39B5DD413EBA980C41ADC86DB59EC6372ED1D155,2020-09-17 00:00:00,2020-09-20 00:00:00,500,LV,4.4,51.0,39.0
+Maine,NY Times/Siena,https://int.nyt.com/data/documenttools/az-me-nc-0920-crosstabs/72d074246b272695/full.pdf,2020-09-11 00:00:00,2020-09-16 00:00:00,663,LV,5.1,55.0,38.0
+Maine,Quinnipiac,https://poll.qu.edu/kentucky/release-detail?ReleaseID=3673,2020-09-10 00:00:00,2020-09-14 00:00:00,1183,LV,2.9,59.0,38.0
+Maine,Bangor Daily News,https://drive.google.com/file/d/1QvLIr-Xi1OsOA_Ulz6jtWJnCZSN-1JyH/view,2020-07-28 00:00:00,2020-08-09 00:00:00,500,RV,,44.0,36.0
+Maine,Quinnipiac,https://poll.qu.edu/2020-presidential-swing-state-polls/release-detail?ReleaseID=3670,2020-07-30 00:00:00,2020-08-03 00:00:00,807,RV,3.5,52.0,37.0
+Maine,Colby College,http://www.colby.edu/government/2020-polling/,2020-07-18 00:00:00,2020-06-24 00:00:00,888,LV,3.9,50.0,38.0
+Maine,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2020/07/MaineJuly2020Poll.pdf,2020-07-02 00:00:00,2020-07-03 00:00:00,1022,RV,3.1,53.0,42.0
+Maine,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2020/03/MaineResults.pdf,2020-03-02 00:00:00,2020-03-03 00:00:00,872,RV,3.3,52.0,42.0
+Maine,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2019/10/PPP_Release_ME_101519.pdf,2020-10-11 00:00:00,2020-10-13 00:00:00,939,RV,3.2,54.0,42.0
+Maine,Gravis,http://orlando-politics.com/wp-content/uploads/2019/06/Maine-Jun-26-2019.pdf,2020-06-24 00:00:00,2020-06-24 00:00:00,767,RV,3.5,54.0,46.0
+Ohio,NY Times/Siena*,https://int.nyt.com/data/documenttools/oh-nv-crosstabs/d91c22da8b8953eb/full.pdf,2020-10-02 00:00:00,2020-10-06 00:00:00,661,LV,4.3,45.0,44.0
+Ohio,Trafalgar Group (R)*,https://www.thetrafalgargroup.org/news/oh-pres-1020/,2020-10-01 00:00:00,2020-10-03 00:00:00,1035,LV,3.0,44.0,48.0
+Ohio,CBS News/YouGov,https://drive.google.com/file/d/1zlfkGVj_8gdcyNPvQ5hTCDtpZXkJDyxB/view,2020-09-30 00:00:00,2020-10-02 00:00:00,1114,LV,3.7,47.0,47.0
+Ohio,FOX News,https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Fox_September-20-23-2020_Complete_Ohio_Topline_September-24-Release.pdf,2020-09-20 00:00:00,2020-09-23 00:00:00,830,LV,3.0,50.0,45.0
+Ohio,Quinnipiac,https://poll.qu.edu/images/polling/oh/oh09242020_bgfx53.pdf,2020-09-17 00:00:00,2020-09-21 00:00:00,1085,LV,3.0,48.0,47.0
+Ohio,Rasmussen Reports,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/ohio_biden_49_trump_45,2020-09-01 00:00:00,2020-09-02 00:00:00,1000,LV,3.0,49.0,45.0
+Ohio,CBS News/YouGov,https://drive.google.com/file/d/1Vbmv7EXnwqeubTuvBYNiBvq565sOxi_9/view,2020-07-21 00:00:00,2020-07-24 00:00:00,1211,LV,,45.0,46.0
+Ohio,Rasmussen Reports,https://kittyhawk.amgreatness.com/app/uploads/2020/07/Toplines-American-Greatness-Ohio-July-15-16%5EJ-2020.pdf,2020-07-15 00:00:00,2020-07-16 00:00:00,750,LV,3.5,50.0,46.0
+Ohio,Ohio Media Collaborative,https://www.toledoblade.com/local/politics/2020/08/03/2020-election-ohio-poll-trump-biden-voters-concerns/stories/20200728120,2020-06-24 00:00:00,2020-07-15 00:00:00,1037,RV,3.0,46.0,42.0
+Ohio,Quinnipiac,https://poll.qu.edu/images/polling/oh/oh06242020_trends_okuy92.pdf,2020-06-18 00:00:00,2020-06-22 00:00:00,1139,RV,2.9,46.0,45.0
+Ohio,FOX News,https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Fox_May-30-June-2-2020_Complete_Ohio_Topline_June-3-Release.pdf,2020-05-30 00:00:00,2020-06-02 00:00:00,803,RV,3.5,45.0,43.0
+Ohio,Emerson,https://emersonpolling.reportablenews.com/pr/ohio-texas-and-california-2020-trump-with-narrow-leads-in-ohio-and-texas-but-has-widespread-expectation-of-being-re-elected,2020-05-08 00:00:00,2020-05-10 00:00:00,725,RV,3.5,43.0,46.0
+Ohio,NBC News/Marist,http://maristpoll.marist.edu/wp-content/uploads/2020/03/NBC-News_Marist-Poll_OH-NOS-and-Tables_2003150954.pdf,2020-03-10 00:00:00,2020-03-15 00:00:00,1710,RV,2.9,49.0,45.0
+Ohio,Emerson,https://emersonpolling.reportablenews.com/pr/ohio-2020-statistical-dead-heat-with-biden-sanders-and-warren-in-democratic-primary,2020-09-29 00:00:00,2020-10-02 00:00:00,837,RV,3.2,53.0,47.0
+Ohio,Quinnipiac,https://poll.qu.edu/images/polling/oh/oh07252019_omwb36.pdf/,2020-07-17 00:00:00,2020-07-22 00:00:00,1431,RV,3.2,50.0,42.0
+West Virginia,WMOV,https://www.wowktv.com/news/elections/poll-shows-incumbents-leading-races-for-surveyed-wv-voters/,2020-09-29 00:00:00,2020-09-30 00:00:00,525,RV,4.3,38.0,56.0
+Wisconsin,Marquette*,https://twitter.com/MULawPoll/status/1313891408521068544,2020-09-30 00:00:00,2020-10-04 00:00:00,700,LV,4.2,46.0,41.0
+Wisconsin,CNBC/Change Research (D),https://www.cnbc.com/2020/10/06/2020-election-polls-biden-leads-trump-after-debate-coronavirus-diagnosis.html,2020-10-02 00:00:00,2020-10-04 00:00:00,,LV,,51.0,44.0
+Wisconsin,Reuters/Ipsos,https://www.reuters.com/article/us-usa-election-battlegrounds-poll/reuters-ipsos-poll-shows-biden-leading-in-pennsylvania-wisconsin-idUSKBN26Q2ZT,2020-09-29 00:00:00,2020-10-05 00:00:00,601,LV,5.0,50.0,44.0
+Wisconsin,Susquehanna,https://amgreatness.com/2020/09/28/trump-biden-in-statistical-dead-heat-in-wisconsin/,2020-09-23 00:00:00,2020-09-26 00:00:00,500,LV,4.3,48.0,46.0
+Wisconsin,Trafalgar Group (R)*,https://www.thetrafalgargroup.org/news/wi-pres-0920/,2020-09-22 00:00:00,2020-09-24 00:00:00,1189,LV,2.8,48.0,45.0
+Wisconsin,NBC News/Marist,http://maristpoll.marist.edu/wp-content/uploads/2020/09/NBC-News_Marist-Poll_WI-Adults-Registered-Voters-NOS-and-Tables_202009251237.pdf,2020-09-20 00:00:00,2020-09-24 00:00:00,727,LV,4.6,54.0,44.0
+Wisconsin,CNBC/Change Research (D),https://changeresearch.com/post/states-of-play-battleground-wave-14/,2020-09-18 00:00:00,2020-09-20 00:00:00,571,LV,,51.0,42.0
+Wisconsin,Univ. of Wis/YouGov,https://madison.com/news/local/govt-and-politics/new-poll-finds-big-gulf-on-top-issues-between-biden-trump-voters-in-battleground-states/article_e6b561d5-c142-535e-8354-139805638fb6.html,2020-09-10 00:00:00,2020-09-21 00:00:00,664,LV,,50.0,46.0
+Wisconsin,Reuters/Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/topline_reuters_wisconsin_state_poll_w1_09_21_2020.pdf,2020-09-11 00:00:00,2020-09-16 00:00:00,609,LV,4.5,48.0,43.0
+Wisconsin,ABC News/Wash Post,https://www.langerresearch.com/wp-content/uploads/1216a12020StateBattlegrounds-WIMN.pdf,2020-09-08 00:00:00,2020-09-13 00:00:00,605,LV,4.5,52.0,46.0
+Wisconsin,CNN*,http://cdn.cnn.com/cnn/2020/images/09/15/rel1_nc.pdf,2020-09-09 00:00:00,2020-09-13 00:00:00,816,LV,4.2,52.0,42.0
+Wisconsin,NY Times/Siena*,https://int.nyt.com/data/documenttools/crosstabs-MN-NH-NV-WI.pdf/80f8e4634fe6f880/full.pdf,2020-09-08 00:00:00,2020-09-10 00:00:00,760,LV,4.7,48.0,43.0
+Wisconsin,Emerson,https://emersonpolling.reportablenews.com/pr/wisconsin-2020-biden-maintains-seven-point-lead,2020-09-06 00:00:00,2020-09-08 00:00:00,823,LV,3.4,51.0,44.0
+Wisconsin,CNBC/Change Research (D),https://www.cnbc.com/2020/09/09/2020-election-polls-trump-leads-biden-in-az-fl-mi-nc-pa-and-wi.html,2020-09-04 00:00:00,2020-09-06 00:00:00,,LV,,50.0,44.0
+Wisconsin,CBS News/YouGov,https://drive.google.com/file/d/1jPWxDDUmxXxfuiGU01I_2liTRiRQrlfS/view,2020-09-02 00:00:00,2020-09-04 00:00:00,978,LV,,50.0,44.0
+Wisconsin,Rasmussen Reports,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/wisconsin_biden_51_trump_43,2020-09-01 00:00:00,2020-09-02 00:00:00,1000,LV,3.0,51.0,43.0
+Wisconsin,Marquette*,https://www.youtube.com/watch?v=qd5LNhdapy0,2020-08-30 00:00:00,2020-09-03 00:00:00,688,LV,,47.0,43.0
+Wisconsin,FOX News*,https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Wisconsin.pdf,2020-08-29 00:00:00,2020-09-01 00:00:00,801,LV,3.5,50.0,42.0
+Wisconsin,CNBC/Change Research (D),https://changeresearch.com/wp-content/uploads/2020/08/CNBC-CR_Battleground-Toplines_Wave-12_August-21-23-Wave-12_-8_21-8_23.pdf,2020-08-21 00:00:00,2020-08-23 00:00:00,925,LV,,49.0,44.0
+Wisconsin,Trafalgar Group (R)*,https://www.thetrafalgargroup.org/news/wi-pres-0820/,2020-08-14 00:00:00,2020-08-23 00:00:00,1011,LV,3.0,45.0,46.0
+Wisconsin,CNBC/Change Research (D),https://9b1b5e59-cb8d-4d7b-8493-111f8aa90329.usrfiles.com/ugd/9b1b5e_41d9f1b0245c4c138aa26d496625d005.pdf,2020-08-07 00:00:00,2020-08-09 00:00:00,384,LV,,47.0,43.0
+Wisconsin,Marquette,https://law.marquette.edu/poll/wp-content/uploads/2020/08/MLSP62ToplinesLV.pdf,2020-08-04 00:00:00,2020-08-09 00:00:00,694,LV,4.2,50.0,46.0
+Wisconsin,CBS News/YouGov,https://www.cbsnews.com/news/biden-leads-wisconsin-pennsylvania-opinion-poll-covid-countrys-direction-09-08-2020/,2020-08-04 00:00:00,2020-08-07 00:00:00,1211,LV,3.8,48.0,42.0
+Wisconsin,Rasmussen Reports,https://amgreatness.com/2020/08/12/wisconsin-poll-shows-biden-with-lead/,2020-08-05 00:00:00,2020-08-06 00:00:00,750,LV,,55.0,43.0
+Wisconsin,Univ. of Wis/YouGov,https://drive.google.com/file/d/1fqH-jLCyrO5lZ6Mugvj_77fXDc9aVHtc/view,2020-07-26 00:00:00,2020-08-06 00:00:00,734,RV,4.9,49.0,43.0
+Wisconsin,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-10,2020-07-24 00:00:00,2020-07-26 00:00:00,392,LV,,48.0,43.0
+Wisconsin,Gravis,https://www.gravismarketing.com/wisconsin-poll-results/,2020-07-22 00:00:00,2020-07-22 00:00:00,796,RV,3.5,50.0,42.0
+Wisconsin,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-9,2020-07-10 00:00:00,2020-07-12 00:00:00,601,LV,,48.0,42.0
+Wisconsin,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-8,2020-06-26 00:00:00,2020-06-28 00:00:00,502,LV,,51.0,43.0
+Wisconsin,Trafalgar Group (R),https://drive.google.com/file/d/1F24BlPxjI_qqhY_aevu_2b0vDRTaJQHj/view,2020-06-23 00:00:00,2020-06-25 00:00:00,1021,LV,3.0,45.0,46.0
+Wisconsin,Marquette,https://law.marquette.edu/poll/wp-content/uploads/2020/06/MLSP61Toplines.pdf,2020-06-14 00:00:00,2020-06-18 00:00:00,805,RV,4.3,49.0,41.0
+Wisconsin,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-states-of-play-battleground-wave-7,2020-06-12 00:00:00,2020-06-14 00:00:00,231,LV,,48.0,44.0
+Wisconsin,NY Times/Siena,https://www.nytimes.com/2020/06/25/upshot/poll-2020-biden-battlegrounds.html,2020-06-08 00:00:00,2020-06-15 00:00:00,655,RV,4.3,49.0,38.0
+Wisconsin,FOX News,https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Fox_May-30-June-2-2020_Complete_Wisconsin_Topline_June-3-Release.pdf,2020-05-30 00:00:00,2020-06-02 00:00:00,801,RV,3.5,49.0,40.0
+Wisconsin,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-6,2020-05-29 00:00:00,2020-05-31 00:00:00,382,LV,,45.0,45.0
+Wisconsin,Marquette,https://law.marquette.edu/poll/wp-content/uploads/2020/05/MLSP60Toplines.pdf,2020-05-03 00:00:00,2020-05-07 00:00:00,811,RV,4.0,46.0,43.0
+Wisconsin,Marquette,https://law.marquette.edu/poll/wp-content/uploads/2020/04/MLSP59Toplines.pdf,2020-03-24 00:00:00,2020-03-29 00:00:00,813,RV,4.2,48.0,45.0
+Wisconsin,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2020/03/WisconsinGeneralResults.pdf,2020-03-10 00:00:00,2020-03-11 00:00:00,1727,RV,2.4,48.0,45.0
+Wisconsin,Yahoo News/YouGov,https://news.yahoo.com/new-yahoo-news-you-gov-poll-shows-biden-crushing-sanders-in-michigan-and-other-battleground-states-ahead-of-tuesdays-primary-180347138.html,2020-03-06 00:00:00,2020-03-08 00:00:00,,RV,,44.0,42.0
+Wisconsin,Marquette,https://law.marquette.edu/poll/2020/02/27/new-marquette-law-school-poll-finds-sanders-support-rising-among-democrats-and-tight-races-between-trump-and-each-democratic-candidate-for-president/,2020-02-19 00:00:00,2020-02-23 00:00:00,1000,RV,3.6,46.0,46.0
+Wisconsin,Univ. of Wis/YouGov,https://news.wisc.edu/battleground-state-poll-1/,2020-02-11 00:00:00,2020-02-20 00:00:00,936,RV,4.0,45.0,43.0
+Wisconsin,Quinnipiac,https://poll.qu.edu/2020-presidential-swing-state-polls/release-detail?ReleaseID=3656,2020-02-12 00:00:00,2020-02-18 00:00:00,823,RV,3.4,42.0,49.0
+Wisconsin,Marquette,https://law.marquette.edu/poll/wp-content/uploads/2020/01/MLSP57Toplines.pdf,2020-01-08 00:00:00,2020-01-12 00:00:00,800,RV,4.1,49.0,45.0
+Wisconsin,FOX News,https://www.foxnews.com/politics/fox-news-poll-races-tighten-between-trump-and-democrats-in-wisconsin,2020-01-05 00:00:00,2020-01-08 00:00:00,1504,RV,2.5,46.0,41.0
+Wisconsin,Marquette,https://law.marquette.edu/poll/wp-content/uploads/2019/12/MLSP56Toplines.pdf,2020-12-03 00:00:00,2020-12-08 00:00:00,800,RV,4.1,47.0,46.0
+Wisconsin,Marquette,https://law.marquette.edu/poll/wp-content/uploads/2019/11/MLSP55Toplines.pdf,2020-11-13 00:00:00,2020-11-17 00:00:00,801,RV,4.1,44.0,47.0
+Wisconsin,NY Times/Siena,https://github.com/ndcohn/battleground-poll-2019/blob/master/WI110419%20Crosstabs.pdf,2020-10-13 00:00:00,2020-10-26 00:00:00,651,LV,4.4,46.0,44.0
+Wisconsin,Marquette,https://law.marquette.edu/poll/2019/10/23/new-marquette-law-school-poll-finds-increased-support-for-trump-impeachment-hearings-since-the-spring-while-opinions-about-trump-have-changed-little/,2020-10-13 00:00:00,2020-10-17 00:00:00,799,RV,4.2,50.0,44.0
+Wisconsin,FOX News,https://www.foxnews.com/politics/fox-news-poll-results-september-29-october-2-2019-wisconsin,2020-09-29 00:00:00,2020-10-02 00:00:00,1512,RV,2.5,48.0,39.0
+Wisconsin,Marquette,https://law.marquette.edu/poll/wp-content/uploads/2019/09/MLSP53Toplines.pdf,2020-08-25 00:00:00,2020-08-29 00:00:00,800,RV,3.9,51.0,42.0
+Wisconsin,Emerson,https://emersonpolling.reportablenews.com/pr/wisconsin-2020-bernie-sanders-leads-democratic-field-trump-competitive-in-general-election,2020-03-15 00:00:00,2020-03-17 00:00:00,775,RV,3.5,54.0,46.0
+New Jersey,Fairleigh Dickinson,http://publicmind.fdu.edu/2020/201009/final.pdf,2020-09-30 00:00:00,2020-10-05 00:00:00,582,LV,4.6,53.0,38.0
+New Jersey,Emerson,https://emersonpolling.reportablenews.com/pr/new-jersey-2020-biden-and-booker-with-significant-leads-in-the-garden-state,2020-09-04 00:00:00,2020-09-07 00:00:00,500,LV,4.4,55.0,38.0
+New Jersey,Rutgers-Eagleton,https://eagletonpoll.rutgers.edu/wp-content/uploads/2020/05/Vote-By-Mail-NJ-Primaries-2020.pdf,2020-04-22 00:00:00,2020-05-02 00:00:00,1364,RV,3.0,56.0,33.0
+New Jersey,Quinnipiac,https://poll.qu.edu/images/polling/ct/tri05062020_bgfz62.pdf,2020-04-30 00:00:00,2020-05-04 00:00:00,941,RV,3.2,54.0,35.0
+New Jersey,Monmouth,https://www.monmouth.edu/polling-institute/reports/monmouthpoll_NJ_042320/,2020-04-16 00:00:00,2020-04-19 00:00:00,635,RV,3.9,54.0,38.0
+New Mexico,PPP (D),https://nmpoliticalreport.com/2020/10/06/biden-with-leads-trump-by-14-points-in-nm/,2020-09-30 00:00:00,2020-10-01 00:00:00,886,LV,3.3,53.0,39.0
+New Mexico,Albuquerque Journal,https://www.abqjournal.com/1493758/biden-holds-sizable-lead-over-trump-in-nm-journal-poll-finds.html,2020-08-26 00:00:00,2020-09-02 00:00:00,1123,LV,2.9,54.0,39.0
+New Mexico,PPP (D),https://www.realclearpolitics.com/docs/2020/PPP_New_Mexico_June_2020.pdf,2020-06-12 00:00:00,2020-06-13 00:00:00,740,RV,3.6,53.0,39.0
+New Mexico,Emerson,https://emersonpolling.reportablenews.com/pr/newmexicopoll,2020-01-03 00:00:00,2020-01-06 00:00:00,967,RV,3.1,54.0,46.0
+Washington,KOMO/Strategies 360,https://www.scribd.com/document/476985568/Strategies-360-KOMO-News-election-polling,2020-09-08 00:00:00,2020-09-14 00:00:00,501,RV,4.4,58.0,36.0
+Washington,KING-TV/SurveyUSA,http://www.surveyusa.com/client/PollReport.aspx?g=e1e5b213-5bff-45d9-8c44-33b8a8a42e13,2020-07-22 00:00:00,2020-07-27 00:00:00,534,LV,5.2,62.0,28.0
+Washington,KING-TV/SurveyUSA,http://www.surveyusa.com/client/PollReport.aspx?g=eb9c7a11-4c4c-469e-aad9-6fb9ce040a5b,2020-05-16 00:00:00,2020-05-19 00:00:00,530,LV,5.5,57.0,31.0
+Washington,KING-TV/SurveyUSA,http://www.surveyusa.com/client/PollReport.aspx?g=617c3b33-8fa1-472b-84b6-a8f35f8da814,2020-03-04 00:00:00,2020-03-06 00:00:00,992,RV,3.7,57.0,34.0
+Iowa,Quinnipiac,https://poll.qu.edu/florida/release-detail?ReleaseID=3678,2020-10-01 00:00:00,2020-10-05 00:00:00,1256,LV,2.8,50.0,45.0
+Iowa,WHO-TV 13,https://who13.com/news/joe-biden-leads-president-trump-by-two-points-in-nexstar-iowa-2020-raba-research-poll/,2020-09-23 00:00:00,2020-09-26 00:00:00,780,LV,4.0,48.0,46.0
+Iowa,Monmouth*,https://www.monmouth.edu/polling-institute/reports/monmouthpoll_IA_092420/,2020-09-18 00:00:00,2020-09-22 00:00:00,402,LV,4.9,46.0,49.0
+Iowa,NY Times/Siena*,https://int.nyt.com/data/documenttools/ga-ia-tx-crosstabs/ca61e64eaef883ac/full.pdf,2020-09-16 00:00:00,2020-09-21 00:00:00,501,LV,5.0,45.0,42.0
+Iowa,Des Moines Register,https://www.desmoinesregister.com/story/news/politics/iowa-poll/2020/09/22/iowa-poll-donald-trump-joe-biden-tied-iowa-presidential-race-2020/5839311002/,2020-09-14 00:00:00,2020-09-17 00:00:00,658,LV,3.8,47.0,47.0
+Iowa,Monmouth*,https://www.monmouth.edu/polling-institute/reports/monmouthpoll_IA_080520,2020-07-30 00:00:00,2020-08-03 00:00:00,401,LV,4.9,46.0,48.0
+Iowa,Des Moines Register,https://www.desmoinesregister.com/story/news/politics/iowa-poll/2020/06/15/iowa-poll-donald-trump-leads-joe-biden-1-point/3178743001/,2020-06-07 00:00:00,2020-06-10 00:00:00,674,LV,3.8,43.0,44.0
+Iowa,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2020/05/IowaResultsMay2020.pdf,2020-04-30 00:00:00,2020-05-01 00:00:00,1222,RV,2.8,46.0,48.0
+Iowa,Des Moines Register,https://www.desmoinesregister.com/story/news/politics/2020/03/11/trump-approval-favorable-ratings-break-even-iowa-poll/5000775002/,2020-03-02 00:00:00,2020-03-05 00:00:00,667,LV,3.8,41.0,51.0
+Iowa,NY Times/Siena,https://www.nytimes.com/2020/01/25/us/politics/democratic-iowa-poll-sanders.html,2020-01-20 00:00:00,2020-01-23 00:00:00,1689,RV,2.8,44.0,46.0
+Iowa,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2020/01/IowaJanuary2020.pdf,2020-12-29 00:00:00,2020-12-31 00:00:00,964,RV,3.2,46.0,49.0
+Iowa,Emerson,https://emersonpolling.reportablenews.com/pr/iowa-2020-warren-s-support-drops-while-sanders-rises,2020-12-07 00:00:00,2020-12-10 00:00:00,1043,RV,3.0,45.0,49.0
+Iowa,NY Times/Siena,https://github.com/ndcohn/battleground-poll-2019/blob/master/IA110419%20Crosstabs.pdf,2020-10-25 00:00:00,2020-10-30 00:00:00,1435,RV,3.1,44.0,45.0
+Iowa,Emerson,https://emersonpolling.reportablenews.com/pr/iowa-2020-dead-heat-with-biden-and-warren-mayor-pete-continues-to-build-and-sanders-slides,2020-10-13 00:00:00,2020-10-16 00:00:00,888,RV,3.2,49.0,51.0
+Iowa,Emerson,https://emersonpolling.reportablenews.com/pr/iowa-2020-biden-and-sanders-neck-and-neck-in-democratic-field-mayor-pete-jumps-to-double-digits,2020-03-21 00:00:00,2020-03-24 00:00:00,708,RV,3.6,53.0,47.0
+Iowa,Emerson,https://www.emerson.edu/news-events/emerson-college-today-unpublished/iowa-poll-one-year-out-caucus-biden-leads-democratic-field-third-party-candidacy-helps-trump#.XFYQ31xKhhE,2020-01-30 00:00:00,2020-02-02 00:00:00,831,RV,3.4,51.0,49.0
+Indiana,Indy Politics/Change Res. (D)*,http://indypolitics.org/polling-positions-part-one/,2020-09-03 00:00:00,2020-09-07 00:00:00,1033,LV,3.1,39.0,53.0
+Indiana,Indy Politics/Change Res. (D)*,http://indypolitics.org/poll-positions-9/,2020-04-10 00:00:00,2020-04-13 00:00:00,1021,LV,3.1,39.0,52.0
+Maine CD2,Bangor Daily News*,https://drive.google.com/file/d/1rgOpdiCIcbEBjnt2pVvQO7ztkbfsNB90/view,2020-09-25 00:00:00,2020-10-04 00:00:00,234,LV,,41.0,49.0
+Maine CD2,Colby College,http://www.colby.edu/government/2020-polling/,2020-09-17 00:00:00,2020-09-23 00:00:00,425,LV,,46.0,43.0
+Maine CD2,Boston Globe/Suffolk*,https://www.realclearpolitics.com/docs/2020/Suffolk_Maine_September_2020.pdf,2020-09-17 00:00:00,2020-09-20 00:00:00,233,LV,,47.0,45.0
+Maine CD2,NY Times/Siena,https://int.nyt.com/data/documenttools/az-me-nc-0920-crosstabs/72d074246b272695/full.pdf,2020-09-11 00:00:00,2020-09-16 00:00:00,440,LV,,47.0,45.0
+Maine CD2,Quinnipiac,https://poll.qu.edu/kentucky/release-detail?ReleaseID=3673,2020-09-10 00:00:00,2020-09-14 00:00:00,,LV,,53.0,44.0
+Maine CD2,Bangor Daily News,https://drive.google.com/file/d/1QvLIr-Xi1OsOA_Ulz6jtWJnCZSN-1JyH/view,2020-07-28 00:00:00,2020-08-09 00:00:00,249,RV,,39.0,38.0
+Maine CD2,Quinnipiac,https://poll.qu.edu/2020-presidential-swing-state-polls/release-detail?ReleaseID=3670,2020-07-30 00:00:00,2020-08-03 00:00:00,,RV,,44.0,45.0
+Maine CD2,Colby College,http://www.colby.edu/government/2020-polling/,2020-07-18 00:00:00,2020-06-24 00:00:00,449,LV,,45.0,42.0
+Maine CD2,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2019/10/PPP_Release_ME_101519.pdf,2020-10-11 00:00:00,2020-10-13 00:00:00,461,LV,,49.0,46.0
+Virginia,Christopher Newport Univ.,https://cnu.edu/wasoncenter/surveys/2020-09-24/,2020-09-09 00:00:00,2020-09-21 00:00:00,796,LV,3.3,48.0,43.0
+Virginia,VCU,https://oppo.vcu.edu/media/oppo/September2020Release1final.pdf,2020-08-28 00:00:00,2020-09-07 00:00:00,693,LV,6.2,53.0,39.0
+Virginia,Roanoke College,https://www.roanoke.edu/about/news/rc_poll_politics_aug_2020,2020-08-09 00:00:00,2020-08-22 00:00:00,566,LV,4.1,53.0,39.0
+Virginia,VCU,https://drive.google.com/file/d/13wln9QQfSmCV989SKli8CctsbVgx7Ien/view,2020-07-11 00:00:00,2020-07-19 00:00:00,725,LV,6.2,50.0,39.0
+Virginia,Roanoke College,https://www.roanoke.edu/about/news/rc_poll_politics_may_2020,2020-05-03 00:00:00,2020-05-17 00:00:00,563,LV,4.1,51.0,39.0
+Virginia,VCU,https://drive.google.com/file/d/1AqGAm2-OgF5nP6--TsNavnVAgas55jTJ/view,2020-03-25 00:00:00,2020-04-08 00:00:00,663,LV,5.7,51.0,41.0
+Virginia,Hampton University,http://news.hamptonu.edu/release/Nationally-Recognized-Hampton-University-Center-for-Public-Policy%27s-Latest-Poll-Shows-Joe-Biden-Leads-Democratic-Presidential-Nominees-Ahead-of-Super-Tuesday,2020-02-25 00:00:00,2020-02-28 00:00:00,768,RV,3.8,45.0,38.0
+Virginia,Roanoke College,https://www.roanoke.edu/about/news/rc_poll_news_politics_feb_2020,2020-02-09 00:00:00,2020-02-18 00:00:00,520,LV,4.3,48.0,40.0
+Virginia,Mason-Dixon,https://www.realclearpolitics.com/docs/2019/Mason_Dixon_Virginia_December_2019.pdf,2020-12-12 00:00:00,2020-12-16 00:00:00,625,RV,4.0,49.0,45.0
+Virginia,Univ. of Mary Washington,https://www.umw.edu/news/2019/09/27/biden-leads-democratic-nomination-in-virginia-umw-survey-finds/,2020-09-03 00:00:00,2020-09-15 00:00:00,882,RV,3.3,55.0,38.0
+Maine CD1,Bangor Daily News*,https://drive.google.com/file/d/1rgOpdiCIcbEBjnt2pVvQO7ztkbfsNB90/view,2020-09-25 00:00:00,2020-10-04 00:00:00,232,LV,,62.0,30.0
+Maine CD1,Colby College,http://www.colby.edu/government/2020-polling/,2020-09-17 00:00:00,2020-09-23 00:00:00,416,LV,,54.0,36.0
+Maine CD1,Boston Globe/Suffolk*,https://www.realclearpolitics.com/docs/2020/Suffolk_Maine_September_2020.pdf,2020-09-17 00:00:00,2020-09-20 00:00:00,267,LV,,54.0,33.0
+Maine CD1,Quinnipiac,https://poll.qu.edu/kentucky/release-detail?ReleaseID=3673,2020-09-10 00:00:00,2020-09-14 00:00:00,,LV,,64.0,32.0
+Maine CD1,Bangor Daily News,https://drive.google.com/file/d/1QvLIr-Xi1OsOA_Ulz6jtWJnCZSN-1JyH/view,2020-07-28 00:00:00,2020-08-09 00:00:00,249,RV,,49.0,33.0
+Maine CD1,Quinnipiac,https://poll.qu.edu/2020-presidential-swing-state-polls/release-detail?ReleaseID=3670,2020-07-30 00:00:00,2020-08-03 00:00:00,,RV,,61.0,30.0
+Maine CD1,Colby College,http://www.colby.edu/government/2020-polling/,2020-07-18 00:00:00,2020-07-24 00:00:00,425,LV,,55.0,35.0
+Maine CD1,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2019/10/PPP_Release_ME_101519.pdf,2020-10-11 00:00:00,2020-10-13 00:00:00,461,LV,,58.0,38.0
+Minnesota,Star Tribune/Mason-Dixon,https://www.mprnews.org/story/2020/09/26/minnesota-poll-biden-holds-on-to-lead-over-trump,2020-09-21 00:00:00,2020-09-23 00:00:00,800,LV,3.5,48.0,42.0
+Minnesota,USA Today/Suffolk*,https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2020/9_25_2020_marginals_pdftxt.pdf?la=en&hash=EA09FFF4A22FBF2A04A6A5776C86103A990C9C6A,2020-09-20 00:00:00,2020-09-24 00:00:00,500,LV,4.4,47.0,40.0
+Minnesota,ABC News/Wash Post,https://www.langerresearch.com/wp-content/uploads/1216a12020StateBattlegrounds-WIMN.pdf,2020-09-08 00:00:00,2020-09-13 00:00:00,615,LV,4.5,57.0,41.0
+Minnesota,CBS News/YouGov,https://drive.google.com/file/d/1HgXF5rfA2yev5hD6mi4sCVgTmof3XPJ4/view,2020-09-09 00:00:00,2020-09-11 00:00:00,1087,LV,,50.0,41.0
+Minnesota,NY Times/Siena*,https://int.nyt.com/data/documenttools/crosstabs-MN-NH-NV-WI.pdf/80f8e4634fe6f880/full.pdf,2020-09-08 00:00:00,2020-09-10 00:00:00,814,LV,3.9,50.0,41.0
+Minnesota,KSTP/SurveyUSA,http://www.surveyusa.com/client/PollReport.aspx?g=cc902191-9d67-498a-aa9c-d59233e2c85b,2020-09-04 00:00:00,2020-09-07 00:00:00,553,LV,5.2,49.0,40.0
+Minnesota,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2020/09/MinnesotaPoll9420.pdf,2020-09-03 00:00:00,2020-09-04 00:00:00,877,RV,3.3,52.0,44.0
+Minnesota,Trafalgar Group (R)*,https://www.thetrafalgargroup.org/news/mn-pres-0820/,2020-08-15 00:00:00,2020-08-18 00:00:00,1141,LV,3.0,47.0,47.0
+Minnesota,Emerson,https://emersonpolling.reportablenews.com/pr/minnesota-2020-north-star-state-in-play-for-presidential-and-us-senate-races,2020-08-08 00:00:00,2020-08-10 00:00:00,733,RV,3.6,50.0,47.0
+Minnesota,Trafalgar Group (R)*,https://www.thetrafalgargroup.org/news/mn-pres-0720/,2020-07-23 00:00:00,2020-07-25 00:00:00,1129,LV,2.8,49.0,44.0
+Minnesota,FOX News,https://static.foxnews.com/foxnews.com/content/uploads/2020/07/Fox_July-18-20-2020_Complete_Minnesota_Topline_July-23-Release.pdf,2020-07-18 00:00:00,2020-07-20 00:00:00,776,RV,3.5,51.0,38.0
+Minnesota,Gravis,https://www.gravismarketing.com/wp-content/uploads/2020/06/Minnesota-June-19-2020.pdf,2020-06-19 00:00:00,2020-06-19 00:00:00,600,RV,4.0,58.0,42.0
+Minnesota,Star Tribune/Mason-Dixon,https://www.startribune.com/star-tribune-mpr-news-kare-11-minnesota-poll-presidential-race/570571341/,2020-05-18 00:00:00,2020-05-20 00:00:00,800,RV,3.5,49.0,44.0
+Minnesota,Star Tribune/Mason-Dixon,http://www.startribune.com/minnesota-poll-trump-vs-democratic-candidates/563150861/,2020-10-14 00:00:00,2020-10-16 00:00:00,800,RV,3.5,50.0,38.0
+California,KGTV-TV/SurveyUSA,http://www.surveyusa.com/client/PollReport.aspx?g=d15fdb0d-701d-495c-a67f-e17bfcc3bf92,2020-09-26 00:00:00,2020-09-28 00:00:00,588,LV,5.3,59.0,32.0
+California,Berkeley IGS,https://escholarship.org/uc/item/51x5s5v6,2020-09-09 00:00:00,2020-09-15 00:00:00,5942,LV,2.0,67.0,28.0
+California,PPIC*,https://www.ppic.org/wp-content/uploads/ppic-statewide-survey-californians-and-their-government-september-2020.pdf,2020-09-04 00:00:00,2020-09-13 00:00:00,1168,LV,4.3,60.0,31.0
+California,Berkeley IGS,https://www.latimes.com/politics/story/2020-08-04/trumps-base-erodes-new-poll-california,2020-07-21 00:00:00,2020-07-27 00:00:00,6756,LV,2.0,67.0,28.0
+California,PPIC,https://www.ppic.org/wp-content/uploads/ppic-statewide-survey-californians-and-their-government-may-2020.pdf,2020-05-17 00:00:00,2020-05-26 00:00:00,1048,LV,4.6,57.0,33.0
+California,KGTV-TV/SurveyUSA,http://www.surveyusa.com/client/PollReport.aspx?g=4b9bd0e5-3f07-4da9-b86f-370c0255240e,2020-05-18 00:00:00,2020-05-19 00:00:00,537,LV,5.4,58.0,30.0
+California,Emerson,https://emersonpolling.reportablenews.com/pr/ohio-texas-and-california-2020-trump-with-narrow-leads-in-ohio-and-texas-but-has-widespread-expectation-of-being-re-elected,2020-05-08 00:00:00,2020-05-10 00:00:00,800,RV,3.4,59.0,29.0
+California,CNN,https://cdn.cnn.com/cnn/2020/images/02/28/rel1_tx.pdf,2020-02-22 00:00:00,2020-02-26 00:00:00,1003,RV,3.0,60.0,35.0
+California,CNN,https://cdn.cnn.com/cnn/2019/images/12/11/rel1_ca.pdf,2020-12-04 00:00:00,2020-12-08 00:00:00,1011,RV,3.7,56.0,36.0
+California,KGTV-TV/SurveyUSA,http://www.surveyusa.com/client/PollReport.aspx?g=0f19d585-788e-4f86-81d0-d09a5e046780,2020-11-20 00:00:00,2020-11-22 00:00:00,2039,RV,2.4,59.0,32.0
+California,KGTV-TV/SurveyUSA,http://www.surveyusa.com/client/PollReport.aspx?g=47bb5b60-e30b-43c0-8164-b83b56a9f2ed,2020-10-15 00:00:00,2020-10-16 00:00:00,1242,RV,3.8,59.0,32.0
+California,Emerson,https://emersonpolling.reportablenews.com/pr/california-2020-biden-sanders-warren-in-statistical-tie-in-democratic-primary-harris-struggles-in-home-state,2020-09-13 00:00:00,2020-09-16 00:00:00,830,RV,3.3,64.0,36.0
+California,KGTV-TV/SurveyUSA,http://www.surveyusa.com/client/PollReport.aspx?g=a5e19558-aca6-4cef-a5cb-33a58889d33c,2020-09-13 00:00:00,2020-09-16 00:00:00,1785,RV,3.2,57.0,31.0
+California,KGTV-TV/SurveyUSA,http://www.surveyusa.com/client/PollReport.aspx?g=e3191035-e21e-46b7-916a-21fda59627fd,2020-08-01 00:00:00,2020-08-05 00:00:00,2184,RV,2.7,61.0,27.0
+California,KABC/SurveyUSA,http://www.surveyusa.com/client/PollReport.aspx?g=82a67cd3-29dd-4a95-80fc-7c088ca84217,2020-03-22 00:00:00,2020-03-25 00:00:00,882,RV,3.2,56.0,33.0
+Vermont,Vermont Public Radio,http://projects.vpr.org/vpr-vermont-pbs-2020-polls-september,2020-09-03 00:00:00,2020-09-15 00:00:00,586,LV,4.0,56.0,32.0
+National,The Hill/HarrisX,https://thehill.com/hilltv/what-americas-thinking/520381-what-americas-thinking-october-9-2020,2020-10-03 00:00:00,2020-10-06 00:00:00,2841,RV,1.8,45.0,40.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/1qb5j6pdqd/econTabReport.pdf,2020-10-04 00:00:00,2020-10-06 00:00:00,1364,LV,4.8,51.0,42.0
+National,FOX News,https://static.foxnews.com/foxnews.com/content/uploads/2020/10/Fox_October-3-6-2020_Complete_National_Topline_October-7-Release-1.pdf,2020-10-03 00:00:00,2020-10-06 00:00:00,1012,LV,3.0,53.0,43.0
+National,Reuters/Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/2020_reuters_tracking_-_core_political_general_election_tracker_10_07_2020.pdf,2020-10-02 00:00:00,2020-10-06 00:00:00,882,LV,3.8,52.0,40.0
+National,CNBC/Change Research (D)*,https://www.cnbc.com/2020/10/05/biden-leads-by-greatest-margin-yet-nationally-according-to-cnbc/change-research-states-of-play-poll.html,2020-10-02 00:00:00,2020-10-04 00:00:00,2167,LV,2.1,52.0,42.0
+National,Rasmussen Reports,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_oct07,2020-09-30 00:00:00,2020-10-06 00:00:00,2500,LV,2.0,52.0,40.0
+National,JTN/RMG Research*,https://justthenews.com/politics-policy/polling/bidens-lead-over-trump-grows-following-debate-covid-diagnosis,2020-10-01 00:00:00,2020-10-03 00:00:00,763,LV,3.5,51.0,43.0
+National,SurveyUSA,https://cheddar.com/media/election-2020-biden-trump-cheddar-poll,2020-10-01 00:00:00,2020-10-04 00:00:00,1114,LV,3.6,53.0,43.0
+National,CNN,https://www.cnn.com/2020/10/06/politics/cnn-poll-biden-trump-2020-election/index.html,2020-10-01 00:00:00,2020-10-04 00:00:00,1001,LV,3.6,57.0,41.0
+National,IBD/TIPP,https://www.investors.com/news/joe-biden-lead-over-donald-trump-narrows-after-presidential-debate-ibd-tipp-poll/,2020-09-30 00:00:00,2020-10-01 00:00:00,1030,LV,3.5,49.0,46.0
+National,The Hill/HarrisX,https://thehill.com/hilltv/what-americas-thinking/519405-poll-trump-trail-biden-by-7-points-in-post-debate-national,2020-09-30 00:00:00,2020-10-01 00:00:00,928,RV,3.2,47.0,40.0
+National,NBC News/Wall St. Jrnl,https://www.documentcloud.org/documents/7221894-200781-NBCWSJ-October-Post-Debate-Poll-1b.html,2020-09-30 00:00:00,2020-10-01 00:00:00,800,RV,3.5,53.0,39.0
+National,USC Dornsife,https://election.usc.edu/,2020-09-25 00:00:00,2020-10-08 00:00:00,5161,LV,,53.0,42.0
+National,CNBC/Change Research (D),https://www.cnbc.com/2020/10/01/biden-leads-polls-voters-say-he-beat-trump-in-first-debate.html,2020-09-29 00:00:00,2020-09-30 00:00:00,925,LV,3.2,54.0,41.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/9k0tqsqgue/econTabReport.pdf,2020-09-27 00:00:00,2020-09-30 00:00:00,1350,LV,4.0,50.0,42.0
+National,Reuters/Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/2020_reuters_tracking_-_core_political_general_election_tracker_09_30_2020.pdf,2020-09-25 00:00:00,2020-09-29 00:00:00,864,LV,3.8,51.0,42.0
+National,Rasmussen Reports,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_sep30,2020-09-23 00:00:00,2020-09-29 00:00:00,3000,LV,2.0,51.0,43.0
+National,Monmouth*,https://www.monmouth.edu/polling-institute/reports/monmouthpoll_US_092820/,2020-09-24 00:00:00,2020-09-27 00:00:00,809,LV,3.5,50.0,45.0
+National,JTN/RMG Research*,https://justthenews.com/politics-policy/polling/biden-continues-steady-six-point-lead-against-trump-among-likely-voters,2020-09-24 00:00:00,2020-09-26 00:00:00,752,LV,3.6,51.0,45.0
+National,The Hill/HarrisX,https://thehill.com/hilltv/what-americas-thinking/518605-what-americas-thinking-september-28-2020,2020-09-22 00:00:00,2020-09-25 00:00:00,2768,RV,1.9,45.0,40.0
+National,NY Times/Siena,https://int.nyt.com/data/documenttools/us0920-crosstabs/e9c96a16d8951e8c/full.pdf,2020-09-22 00:00:00,2020-09-24 00:00:00,950,LV,3.5,49.0,41.0
+National,Harvard-Harris,https://thehill.com/homenews/campaign/518600-biden-holds-narrow-lead-over-trump-ahead-of-first-debate-poll?amp&__twitter_impression=true,2020-09-22 00:00:00,2020-09-24 00:00:00,,LV,,47.0,45.0
+National,Emerson,https://emersonpolling.reportablenews.com/pr/september-2020-biden-holds-his-lead-voters-split-on-supreme-court-nominee-timetable,2020-09-22 00:00:00,2020-09-23 00:00:00,1000,LV,3.0,48.0,44.0
+National,ABC News/Wash Post,https://www.washingtonpost.com/politics/poll-trump-biden-post-abc/2020/09/26/940ef678-ff7f-11ea-9ceb-061d646d9c67_story.html,2020-09-21 00:00:00,2020-09-24 00:00:00,739,LV,4.0,54.0,44.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/b8ow3q7r1e/econTabReport.pdf,2020-09-20 00:00:00,2020-09-22 00:00:00,1124,LV,3.6,49.0,42.0
+National,The Hill/HarrisX,https://thehill.com/hilltv/what-americas-thinking/518048-poll-biden-lead-trump-by-5-points-nationwide,2020-09-19 00:00:00,2020-09-21 00:00:00,2803,RV,1.9,45.0,40.0
+National,Reuters/Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/2020_reuters_tracking_-_core_political_general_election_tracker_09_25_2020_.pdf,2020-09-18 00:00:00,2020-09-22 00:00:00,889,LV,3.7,50.0,42.0
+National,Rasmussen Reports,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_sep23,2020-09-16 00:00:00,2020-09-22 00:00:00,3000,LV,2.5,48.0,47.0
+National,CNBC/Change Research (D)*,https://changeresearch.com/wp-content/uploads/2020/09/CNBC-CR_National-Toplines-Wave-14-Wave-14_-9_18-20.pdf,2020-09-18 00:00:00,2020-09-20 00:00:00,1430,LV,2.6,51.0,42.0
+National,Quinnipiac,https://poll.qu.edu/images/polling/us/us09232020_ufth12.pdf,2020-09-17 00:00:00,2020-09-21 00:00:00,1302,LV,2.7,52.0,42.0
+National,JTN/RMG Research*,https://justthenews.com/politics-policy/polling/biden-holds-steady-6-point-lead-over-trump-less-two-months-election,2020-09-17 00:00:00,2020-09-19 00:00:00,773,LV,2.8,50.0,44.0
+National,IBD/TIPP,https://www.investors.com/politics/joe-biden-leads-president-trump-race-tightens-ibd-tipp-election-poll/,2020-09-16 00:00:00,2020-09-19 00:00:00,962,LV,3.3,50.0,44.0
+National,NBC News/Wall St. Jrnl,https://www.documentcloud.org/documents/7213809-200625-NBCWSJ-September-Poll.html,2020-09-13 00:00:00,2020-09-16 00:00:00,1000,RV,3.1,51.0,43.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/t0hi1tcqs5/econTabReport.pdf,2020-09-13 00:00:00,2020-09-15 00:00:00,1062,LV,3.8,51.0,42.0
+National,NPR/PBS/Marist,http://maristpoll.marist.edu/wp-content/uploads/2020/09/NPR_PBS-NewsHour_Marist-Poll_USA-NOS-and-Tables_202009171415.pdf,2020-09-11 00:00:00,2020-09-16 00:00:00,723,LV,4.3,52.0,43.0
+National,Rasmussen Reports,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_sep16,2020-09-09 00:00:00,2020-09-15 00:00:00,2500,LV,2.0,46.0,47.0
+National,Reuters/Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/2020_reuters_tracking_-_core_political_general_election_tracker_09_16_2020.pdf,2020-09-11 00:00:00,2020-09-15 00:00:00,859,LV,3.8,50.0,41.0
+National,The Hill/HarrisX,https://thehill.com/hilltv/what-americas-thinking/516546-what-americas-thinking-september-15-2020,2020-09-10 00:00:00,2020-09-14 00:00:00,3758,RV,1.6,45.0,39.0
+National,JTN/RMG Research*,https://justthenews.com/politics-policy/polling/biden-maintains-5-point-lead-trump-among-likely-voters,2020-09-10 00:00:00,2020-09-12 00:00:00,941,LV,2.8,48.0,43.0
+National,FOX News,https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Fox_September-7-10-2020_Complete_National_Topline_September-13-Release.pdf,2020-09-07 00:00:00,2020-09-10 00:00:00,1191,LV,2.5,51.0,46.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/8nwf5tw7g2/econTabReport.pdf,2020-09-06 00:00:00,2020-09-08 00:00:00,1057,LV,3.8,52.0,43.0
+National,USC Dornsife,https://election.usc.edu/,2020-09-07 00:00:00,2020-09-13 00:00:00,2648,LV,,52.0,42.0
+National,The Hill/HarrisX,https://thehill.com/hilltv/what-americas-thinking/515732-poll-trump-trails-biden-by-8-points-in-new-national-survey,2020-09-05 00:00:00,2020-09-08 00:00:00,2832,RV,1.8,47.0,39.0
+National,CNBC/Change Research (D)*,https://changeresearch.com/post/states-of-play-battleground-wave-13/,2020-09-04 00:00:00,2020-09-06 00:00:00,1902,LV,2.3,49.0,43.0
+National,Monmouth*,https://www.monmouth.edu/polling-institute/reports/monmouthpoll_US_091020/,2020-09-03 00:00:00,2020-09-08 00:00:00,758,LV,3.6,51.0,44.0
+National,Reuters/Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/2020_reuters_tracking_-_core_political_general_election_tracker_09_09_2020_.pdf,2020-09-03 00:00:00,2020-09-08 00:00:00,823,LV,3.9,52.0,40.0
+National,Rasmussen Reports,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_sep09,2020-09-02 00:00:00,2020-09-08 00:00:00,2500,LV,2.0,48.0,46.0
+National,CBS News/YouGov,https://drive.google.com/file/d/1hmvwY-EJIMWKveUWPTdpx_-JL6VTqCcx/view,2020-09-02 00:00:00,2020-09-04 00:00:00,2433,LV,,52.0,42.0
+National,USC Dornsife,https://election.usc.edu/,2020-08-31 00:00:00,2020-09-06 00:00:00,2588,LV,,52.0,42.0
+National,Harvard-Harris,https://thehill.com/homenews/campaign/515192-biden-leads-trump-on-law-and-order-coronavirus-poll,2020-08-31 00:00:00,2020-09-02 00:00:00,,LV,,53.0,47.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/7kvpozbozh/econTabReport.pdf,2020-08-30 00:00:00,2020-09-01 00:00:00,1207,RV,3.6,51.0,40.0
+National,IBD/TIPP,https://www.investors.com/politics/joe-biden-holds-solid-lead-over-president-donald-trump-no-convention-bump-ibd-tipp-poll/,2020-08-29 00:00:00,2020-09-01 00:00:00,1033,RV,,49.0,41.0
+National,CNN,https://cdn.cnn.com/cnn/2020/images/09/02/rel9a.-.2020.pdf,2020-08-28 00:00:00,2020-09-01 00:00:00,997,RV,4.0,51.0,43.0
+National,Emerson,https://emersonpolling.reportablenews.com/pr/august-2020-presidential-race-tightens-after-party-conventions,2020-08-30 00:00:00,2020-08-31 00:00:00,1567,LV,2.4,49.0,47.0
+National,Reuters/Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/2020_reuters_tracking_-_core_political_presidential_approval_tracker_09_02_2020.pdf,2020-08-28 00:00:00,2020-09-01 00:00:00,1089,RV,3.4,47.0,40.0
+National,The Hill/HarrisX,https://thehill.com/hilltv/what-americas-thinking/514843-poll-trump-cuts-biden-lead-to-6-points-post-convention,2020-08-29 00:00:00,2020-08-31 00:00:00,2834,RV,1.8,46.0,40.0
+National,USA Today/Suffolk,https://www.usatoday.com/story/news/politics/elections/2020/09/02/biden-leads-trump-narrower-7-points-post-conventions-suffolk-poll/3446536001/,2020-08-28 00:00:00,2020-08-31 00:00:00,1000,RV,3.1,50.0,43.0
+National,Quinnipiac,https://poll.qu.edu/images/polling/us/us09022020_udmp37.pdf,2020-08-28 00:00:00,2020-08-31 00:00:00,1081,LV,3.0,52.0,42.0
+National,Rasmussen Reports,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_sep02,2020-08-26 00:00:00,2020-09-01 00:00:00,2500,LV,2.0,49.0,45.0
+National,Grinnell/Selzer,https://www.grinnell.edu/sites/default/files/docs/2020-09/Selzer%20Co%20GCNP%202219%20Methodology.pdf,2020-08-26 00:00:00,2020-08-30 00:00:00,827,LV,3.4,49.0,41.0
+National,The Hill/HarrisX,https://thehill.com/hilltv/what-americas-thinking/514399-what-americas-thinking-august-31-2020,2020-08-25 00:00:00,2020-08-28 00:00:00,2862,RV,1.8,47.0,38.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/sqqliantmw/econTabReport.pdf,2020-08-23 00:00:00,2020-08-25 00:00:00,1254,RV,3.8,50.0,41.0
+National,The Hill/HarrisX,https://thehill.com/hilltv/what-americas-thinking/513844-what-americas-thinking-august-26-2020,2020-08-22 00:00:00,2020-08-25 00:00:00,2861,RV,1.8,47.0,38.0
+National,Rasmussen Reports,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_aug26,2020-08-19 00:00:00,2020-08-25 00:00:00,2500,LV,2.0,46.0,45.0
+National,CNBC/Change Research (D)*,https://changeresearch.com/wp-content/uploads/2020/08/CNBC-CR_National-Toplines_Wave-12_August-21-23-Wave-12_-8_21-8_23.pdf,2020-08-21 00:00:00,2020-08-23 00:00:00,2362,LV,2.0,51.0,43.0
+National,CBS News/YouGov,https://www.cbsnews.com/news/republicans-economy-coronavirus-opinion-poll-cbs-news-battleground-tracker/,2020-08-20 00:00:00,2020-08-22 00:00:00,934,LV,3.7,52.0,42.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/c6n58wb53l/econTabReport.pdf,2020-08-16 00:00:00,2020-08-18 00:00:00,1246,RV,3.4,50.0,40.0
+National,The Hill/HarrisX,https://www.youtube.com/watch?v=tH2ItJNRPvI,2020-08-15 00:00:00,2020-08-18 00:00:00,2840,RV,1.8,46.0,38.0
+National,Rasmussen Reports,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_aug19,2020-08-12 00:00:00,2020-08-18 00:00:00,2500,LV,2.0,48.0,44.0
+National,The Hill/HarrisX,https://thehill.com/hilltv/what-americas-thinking/512611-poll-biden-leads-trump-by-6-points-nationwide,2020-08-11 00:00:00,2020-08-14 00:00:00,2823,RV,1.8,45.0,39.0
+National,CNN,https://cdn.cnn.com/cnn/2020/images/08/16/rel8a.-.2020.pdf,2020-08-12 00:00:00,2020-08-15 00:00:00,987,RV,4.0,50.0,46.0
+National,ABC News/Wash Post,https://abcnews.go.com/PollingUnit/election-advantage-stays-biden-enthusiasm-deficit-eases-remains/story?id=72356854&mc_cid=42713dcf7a&mc_eid=%5bUNIQID%5d,2020-08-12 00:00:00,2020-08-15 00:00:00,707,LV,,54.0,44.0
+National,CBS News/YouGov,https://drive.google.com/file/d/1PZk2TziNsU0tv0YI_77lY3RGnqM1eq9N/view,2020-08-12 00:00:00,2020-08-14 00:00:00,2152,LV,2.4,52.0,42.0
+National,NBC News/Wall St. Jrnl,https://assets.documentcloud.org/documents/7037941/200438-NBCWSJ-August-Poll-8-16-20-Release.pdf,2020-08-09 00:00:00,2020-08-12 00:00:00,900,RV,3.3,50.0,41.0
+National,FOX News,https://www.foxnews.com/politics/fox-news-poll-voters-pick-biden-yet-more-think-their-neighbors-back-trump,2020-08-09 00:00:00,2020-08-12 00:00:00,1000,RV,3.0,49.0,42.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/horeovzt7u/econTabReport.pdf,2020-08-09 00:00:00,2020-08-11 00:00:00,1208,RV,3.6,49.0,39.0
+National,The Hill/HarrisX,https://thehill.com/hilltv/what-americas-thinking/511751-poll-trump-trails-biden-by-4-points-in-new-national-survey,2020-08-08 00:00:00,2020-08-11 00:00:00,2828,RV,1.8,44.0,40.0
+National,CNBC/Change Research (D)*,https://9b1b5e59-cb8d-4d7b-8493-111f8aa90329.usrfiles.com/ugd/9b1b5e_60ae756d4809453cb978652c93db3747.pdf,2020-08-07 00:00:00,2020-08-09 00:00:00,2143,LV,2.1,50.0,44.0
+National,Monmouth*,https://www.monmouth.edu/polling-institute/reports/monmouthpoll_US_081120/,2020-08-06 00:00:00,2020-08-10 00:00:00,785,RV,3.5,51.0,41.0
+National,Rasmussen Reports,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_aug12,2020-08-05 00:00:00,2020-08-11 00:00:00,2500,LV,2.0,49.0,43.0
+National,NPR/PBS/Marist,http://maristpoll.marist.edu/wp-content/uploads/2020/08/NPR_PBS-NewsHour_Marist-Poll_USA-NOS-and-TABLES_202008121039.pdf,2020-08-03 00:00:00,2020-08-11 00:00:00,1108,RV,3.6,53.0,42.0
+National,The Hill/HarrisX,https://thehill.com/hilltv/what-americas-thinking/510762-what-americas-thinking-august-5-2020,2020-08-02 00:00:00,2020-08-05 00:00:00,2850,RV,1.8,43.0,40.0
+National,GU Politics/Battleground,https://drive.google.com/file/d/1TJmSXSAZM1IHeym5ZowB6tz7hg-uJ_Xb/view,2020-08-01 00:00:00,2020-08-06 00:00:00,1000,LV,3.1,53.0,40.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/t0qsgk3wcg/econTabReport.pdf,2020-08-02 00:00:00,2020-08-04 00:00:00,1229,RV,3.3,49.0,40.0
+National,Rasmussen Reports,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_aug05,2020-07-29 00:00:00,2020-08-04 00:00:00,2500,LV,2.0,48.0,45.0
+National,Emerson,https://emersonpolling.reportablenews.com/pr/july-national-poll-biden-maintains-lead-in-presidential-race-majority-support-nationwide-mask-mandate-in-public-spaces,2020-07-29 00:00:00,2020-07-30 00:00:00,964,LV,3.1,50.0,46.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/0nx7ztz02j/econTabReport.pdf,2020-07-26 00:00:00,2020-07-28 00:00:00,1260,RV,3.4,49.0,40.0
+National,IBD/TIPP,https://www.investors.com/news/president-trump-trails-joe-biden-2020-election-law-order/,2020-07-25 00:00:00,2020-07-28 00:00:00,1160,RV,3.1,48.0,41.0
+National,Rasmussen Reports,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_jul29,2020-07-22 00:00:00,2020-07-28 00:00:00,2500,LV,2.0,48.0,42.0
+National,CNBC/Change Research (D)*,https://9b1b5e59-cb8d-4d7b-8493-111f8aa90329.usrfiles.com/ugd/9b1b5e_94a0b32d467742a193ace4e532f353b9.pdf,2020-07-24 00:00:00,2020-07-26 00:00:00,1039,LV,3.0,51.0,42.0
+National,CBS News/YouGov,https://drive.google.com/file/d/1p7C6oD2-2d0TNMlFQADlMQV9bBkNXQ35/view,2020-07-21 00:00:00,2020-07-24 00:00:00,1401,LV,,51.0,41.0
+National,Harvard-Harris,https://thehill.com/homenews/coronavirus-report/509189-biden-has-10-point-lead-over-trump-its-the-virus-stupid,2020-07-21 00:00:00,2020-07-23 00:00:00,1932,RV,,55.0,45.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/8uw05wqpg2/econTabReport.pdf,2020-07-19 00:00:00,2020-07-21 00:00:00,1222,RV,3.2,48.0,41.0
+National,Rasmussen Reports,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_jul22,2020-07-15 00:00:00,2020-07-21 00:00:00,2500,LV,2.0,47.0,45.0
+National,The Hill/HarrisX,https://thehill.com/hilltv/what-americas-thinking/508568-poll-trump-trails-biden-by-7-points-in-new-national-survey,2020-07-17 00:00:00,2020-07-20 00:00:00,2829,RV,1.8,45.0,38.0
+National,FOX News,https://static.foxnews.com/foxnews.com/content/uploads/2020/07/Fox_July-12-15-2020_Complete_National_Topline_July-19-Release.pdf,2020-07-12 00:00:00,2020-07-15 00:00:00,1104,RV,3.0,49.0,41.0
+National,ABC News/Wash Post,https://abcnews.go.com/Politics/pandemic-surge-damages-trump-boosting-bidens-white-house/story?id=71779431&mc_cid=1ef5cc5cf4&mc_eid=%5bUNIQID%5d,2020-07-12 00:00:00,2020-07-15 00:00:00,673,LV,,54.0,44.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/hpupr0zhkl/econTabReport.pdf,2020-07-12 00:00:00,2020-07-14 00:00:00,1252,RV,3.3,49.0,40.0
+National,CNBC/Change Research (D)*,https://9b1b5e59-cb8d-4d7b-8493-111f8aa90329.usrfiles.com/ugd/9b1b5e_cabe0094cdf847dc8a2f12309173b8dd.pdf,2020-07-10 00:00:00,2020-07-12 00:00:00,1258,LV,2.8,51.0,41.0
+National,Rasmussen Reports,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_jul15,2020-07-08 00:00:00,2020-07-14 00:00:00,1500,LV,2.0,47.0,44.0
+National,Quinnipiac,https://poll.qu.edu/images/polling/us/us07152020_ulvz33.pdf,2020-07-09 00:00:00,2020-07-13 00:00:00,1273,RV,2.8,52.0,37.0
+National,NBC News/Wall St. Jrnl,https://www.nbcnews.com/politics/meet-the-press/biden-opens-11-point-national-lead-over-trump-nbc-news-n1233913,2020-07-09 00:00:00,2020-07-12 00:00:00,900,RV,3.3,51.0,40.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/lraqqdhd7j/econTabReport.pdf,2020-07-05 00:00:00,2020-07-07 00:00:00,1165,RV,3.6,49.0,40.0
+National,Rasmussen Reports,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_jul08,2020-07-05 00:00:00,2020-07-07 00:00:00,1500,LV,2.5,50.0,40.0
+National,The Hill/HarrisX,https://thehill.com/hilltv/what-americas-thinking/506431-what-americas-thinking-july-8-2020,2020-07-03 00:00:00,2020-07-04 00:00:00,933,RV,3.2,43.0,39.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/k05rp8ded6/econTabReport.pdf,2020-06-28 00:00:00,2020-06-30 00:00:00,1198,RV,3.4,49.0,40.0
+National,IBD/TIPP,https://www.investors.com/politics/joe-biden-lead-expands-over-president-donald-trump-coronavirus-protest-response/,2020-06-27 00:00:00,2020-06-30 00:00:00,1005,RV,3.1,48.0,40.0
+National,Monmouth,https://www.monmouth.edu/polling-institute/reports/monmouthpoll_US_070220/,2020-06-26 00:00:00,2020-06-30 00:00:00,733,RV,3.6,53.0,41.0
+National,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-8,2020-06-26 00:00:00,2020-06-28 00:00:00,1663,LV,1.6,49.0,41.0
+National,USA Today/Suffolk,https://www.usatoday.com/story/news/politics/elections/2020/06/30/poll-biden-widens-lead-but-trump-has-enthusiasm-edge/3234610001/,2020-06-25 00:00:00,2020-06-29 00:00:00,1000,RV,3.1,53.0,41.0
+National,NPR/PBS/Marist,http://maristpoll.marist.edu/wp-content/uploads/2020/06/NPR_PBS-NewsHour_Marist-Poll_USA-NOS-and-Tables_2006251102.pdf,2020-06-22 00:00:00,2020-06-24 00:00:00,1515,RV,3.5,52.0,44.0
+National,The Hill/HarrisX,https://thehill.com/hilltv/what-americas-thinking/504724-poll-bidens-2020-lead-narrows,2020-06-22 00:00:00,2020-06-23 00:00:00,951,RV,3.2,43.0,39.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/cjd35jrh5o/econTabReport.pdf,2020-06-21 00:00:00,2020-06-23 00:00:00,1230,RV,3.3,49.0,41.0
+National,CNBC,https://www.cnbc.com/2020/06/25/biden-leads-trump-on-all-issues-except-for-the-economy-according-to-the-cnbc-all-america-survey.html,2020-06-19 00:00:00,2020-06-22 00:00:00,800,RV,3.5,47.0,38.0
+National,NY Times/Siena,https://www.nytimes.com/2020/06/24/us/politics/trump-biden-poll-nyt-upshot-siena-college.html,2020-06-17 00:00:00,2020-06-22 00:00:00,1337,RV,3.0,50.0,36.0
+National,Harvard-Harris,https://mcusercontent.com/ca678077bc522bd7bd74bacbf/files/96f8852b-a896-41ba-82b0-1bd5e9aa064a/HHP_June20_pdf.pdf,2020-06-17 00:00:00,2020-06-18 00:00:00,,LV,,56.0,44.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/vgqowgynze/econTabReport.pdf,2020-06-14 00:00:00,2020-06-16 00:00:00,1160,RV,3.5,50.0,41.0
+National,FOX News,https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Fox_June-13-16-2020_National_Topline_June-18-Release.pdf,2020-06-13 00:00:00,2020-06-16 00:00:00,1343,RV,2.5,50.0,38.0
+National,Quinnipiac,https://poll.qu.edu/national/release-detail?ReleaseID=3664,2020-06-11 00:00:00,2020-06-15 00:00:00,1332,RV,2.7,49.0,41.0
+National,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-states-of-play-battleground-wave-7,2020-06-10 00:00:00,2020-06-12 00:00:00,1250,LV,2.8,51.0,41.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/ngcg634q9k/econTabReport.pdf,2020-06-07 00:00:00,2020-06-09 00:00:00,1241,RV,3.4,49.0,41.0
+National,CNN,https://cdn.cnn.com/cnn/2020/images/06/08/rel6a.-.race.and.2020.pdf,2020-06-02 00:00:00,2020-06-05 00:00:00,1125,RV,3.6,55.0,41.0
+National,NPR/PBS/Marist,http://maristpoll.marist.edu/wp-content/uploads/2020/06/NPR_PBS-NewsHour_Marist-Poll_USA-NOS-and-Tables_2006041039.pdf,2020-06-02 00:00:00,2020-06-03 00:00:00,958,RV,4.0,50.0,43.0
+National,Emerson,https://emersonpolling.reportablenews.com/pr/june-national-poll-voters-want-justice-for-george-floyd-as-trust-in-police-is-split,2020-06-02 00:00:00,2020-06-03 00:00:00,1431,RV,2.5,53.0,47.0
+National,The Hill/HarrisX,https://thehill.com/hilltv/what-americas-thinking/501704-what-americas-thinking-june-8-2020,2020-06-01 00:00:00,2020-06-04 00:00:00,2827,RV,1.8,47.0,37.0
+National,IBD/TIPP,https://www.investors.com/politics/joe-biden-regains-2020-election-lead-president-trump-job-approval-dives/,2020-05-31 00:00:00,2020-06-03 00:00:00,964,RV,2.9,45.0,42.0
+National,NBC News/Wall St. Jrnl,https://assets.documentcloud.org/documents/6938425/200266-NBCWSJ-June-Poll.pdf,2020-05-28 00:00:00,2020-06-02 00:00:00,1000,RV,3.1,49.0,42.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/c00sty9kik/econTabReport.pdf,2020-05-31 00:00:00,2020-06-02 00:00:00,1244,RV,3.2,47.0,40.0
+National,CNBC,https://drive.google.com/file/d/1HW8TCEMyqf7tAxb9BNoFchDohc3Mqa8o/view,2020-05-29 00:00:00,2020-05-31 00:00:00,1457,LV,2.6,48.0,41.0
+National,Monmouth,https://www.monmouth.edu/polling-institute/reports/monmouthpoll_US_060320/,2020-05-28 00:00:00,2020-06-01 00:00:00,742,RV,3.6,52.0,41.0
+National,CBS News/YouGov,https://www.cbsnews.com/news/americans-see-differences-in-how-police-treat-whites-and-blacks-cbs-news-poll/,2020-05-29 00:00:00,2020-06-01 00:00:00,1486,LV,2.6,47.0,43.0
+National,ABC News/Wash Post,https://www.washingtonpost.com/politics/biden-leads-trump-in-post-abc-poll-as-presidents-coronavirus-rating-slips/2020/05/29/37c0dac8-a1d1-11ea-9590-1858a893bd59_story.html,2020-05-25 00:00:00,2020-05-28 00:00:00,835,RV,4.0,53.0,43.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/5fsvmrvvhh/econTabReport.pdf,2020-05-23 00:00:00,2020-05-26 00:00:00,1157,RV,3.4,45.0,42.0
+National,FOX News,https://static.foxnews.com/foxnews.com/content/uploads/2020/05/Fox_May-17-20-2020_Complete_National_Topline_May-21-Release.pdf,2020-05-17 00:00:00,2020-05-20 00:00:00,1207,RV,3.0,48.0,40.0
+National,Rasmussen Reports,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/biden_tops_trump_in_vote_economic_confidence,2020-05-18 00:00:00,2020-05-19 00:00:00,1000,LV,3.0,48.0,43.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/q0t43bjops/econTabReport.pdf,2020-05-17 00:00:00,2020-05-19 00:00:00,1235,RV,3.2,47.0,42.0
+National,CNBC,https://1de9b613-f5ea-469f-bbea-e129fedcca0d.usrfiles.com/ugd/1de9b6_2c7f52f9aeb1454691efcd8186cbda47.pdf,2020-05-15 00:00:00,2020-05-17 00:00:00,1424,LV,2.6,48.0,45.0
+National,Quinnipiac,https://poll.qu.edu/images/polling/us/us05202020_ugjm33.pdf,2020-05-14 00:00:00,2020-05-18 00:00:00,1323,RV,2.7,50.0,39.0
+National,The Hill/HarrisX,https://thehill.com/hilltv/what-americas-thinking/498845-poll-older-voters-slip-from-trump-younger-voters-turn-away-from,2020-05-13 00:00:00,2020-05-14 00:00:00,950,RV,3.2,42.0,41.0
+National,Harvard-Harris,https://harvardharrispoll.com/wp-content/uploads/2020/05/May20_HHP_RegisteredVoters_Topline.pdf,2020-05-13 00:00:00,2020-05-14 00:00:00,1854,RV,2.0,53.0,47.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/sww5v5iven/econTabReport.pdf,2020-05-10 00:00:00,2020-05-12 00:00:00,1175,RV,3.4,47.0,43.0
+National,CNN,http://cdn.cnn.com/cnn/2020/images/05/13/rel5c.-.2020.pdf,2020-05-07 00:00:00,2020-05-10 00:00:00,1001,RV,3.7,51.0,46.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/5yope37lqh/econTabReport.pdf,2020-05-03 00:00:00,2020-05-05 00:00:00,1209,RV,3.3,46.0,42.0
+National,CNBC,https://1de9b613-f5ea-469f-bbea-e129fedcca0d.usrfiles.com/ugd/1de9b6_5baffa4f2b704803b6d1885849de36b0.pdf,2020-05-01 00:00:00,2020-05-03 00:00:00,1489,LV,2.5,47.0,44.0
+National,Monmouth,https://www.monmouth.edu/polling-institute/reports/monmouthpoll_US_050620/,2020-04-30 00:00:00,2020-05-04 00:00:00,739,RV,3.6,50.0,41.0
+National,CBS News/YouGov,https://www.cbsnews.com/news/2020-poll-joe-biden-vice-president-elizabeth-warren-democrats-wish-list/,2020-04-28 00:00:00,2020-05-01 00:00:00,1671,LV,2.5,49.0,43.0
+National,IBD/TIPP,https://www.investors.com/news/president-trump-joe-biden-tied-amid-coronavirus-crisis-ibd-tipp-poll/,2020-04-26 00:00:00,2020-04-29 00:00:00,948,RV,3.3,43.0,43.0
+National,Emerson,https://emersonpolling.reportablenews.com/pr/april-national-poll-trump-down-but-not-out-as-enthusiasm-and-expectation-favor-the-president,2020-04-26 00:00:00,2020-04-28 00:00:00,1200,RV,2.8,48.0,42.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/4qtpeqbqm8/econTabReport.pdf,2020-04-26 00:00:00,2020-04-28 00:00:00,1222,RV,3.2,47.0,41.0
+National,USA Today/Suffolk,https://www.usatoday.com/story/news/politics/elections/2020/04/27/biden-leads-trump-2020-amid-coronavirus-concerns/3029325001/,2020-04-21 00:00:00,2020-04-25 00:00:00,1000,RV,3.0,50.0,40.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/pwwefjdnsp/econTabReport.pdf,2020-04-19 00:00:00,2020-04-21 00:00:00,1144,RV,3.4,48.0,42.0
+National,The Hill/HarrisX,https://thehill.com/hilltv/what-americas-thinking/495503-what-americas-thinking-april-30-2020,2020-04-19 00:00:00,2020-04-20 00:00:00,958,RV,3.2,42.0,40.0
+National,NBC News/Wall St. Jrnl,https://www.documentcloud.org/documents/6842659-200203-NBCWSJ-April-Poll-4-19-20-Release.html,2020-04-13 00:00:00,2020-04-15 00:00:00,900,RV,3.3,49.0,42.0
+National,Harvard-Harris,https://mcusercontent.com/ca678077bc522bd7bd74bacbf/files/3407e677-0744-4341-96c6-1b94a6b571b0/HHP_Apr20_PRESENTATION_vF_April.pdf,2020-04-14 00:00:00,2020-04-16 00:00:00,,LV,,53.0,47.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/6fdl23u606/econTabReport.pdf,2020-04-12 00:00:00,2020-04-14 00:00:00,1166,RV,3.4,48.0,43.0
+National,Monmouth,https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_040920/,2020-04-03 00:00:00,2020-04-07 00:00:00,743,RV,3.6,48.0,44.0
+National,FOX News,https://www.foxnews.com/politics/fox-news-poll-april-4-7-2020,2020-04-04 00:00:00,2020-04-07 00:00:00,1107,RV,3.0,42.0,42.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/ogvntw3mu9/econTabReport.pdf,2020-04-05 00:00:00,2020-04-07 00:00:00,1147,RV,3.3,48.0,42.0
+National,CNBC,https://pos.org/wp-content/uploads/2020/04/FI12869a-CNBC-AAES-Q1-Topline.pdf,2020-04-03 00:00:00,2020-04-06 00:00:00,604,RV,4.0,44.0,39.0
+National,CNN,https://cdn.cnn.com/cnn/2020/images/04/09/rel4c.-.2020.pdf,2020-04-03 00:00:00,2020-04-06 00:00:00,875,RV,3.9,53.0,42.0
+National,Quinnipiac,https://poll.qu.edu/national/release-detail?ReleaseID=3658,2020-04-02 00:00:00,2020-04-06 00:00:00,2077,RV,2.2,49.0,41.0
+National,IBD/TIPP,https://www.investors.com/politics/americans-back-president-trump-on-coronavirus-crisis/,2020-03-29 00:00:00,2020-04-01 00:00:00,980,RV,3.2,47.0,41.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/p8nwhxp50n/econTabReport.pdf,2020-03-29 00:00:00,2020-03-31 00:00:00,1194,RV,3.2,46.0,42.0
+National,Grinnell/Selzer,https://www.grinnell.edu/sites/default/files/docs/2020-03/GCNP%20April%202020%20Toplines%20and%20Methodology.pdf,2020-03-27 00:00:00,2020-03-30 00:00:00,777,LV,3.5,47.0,43.0
+National,Harvard-Harris,https://harvardharrispoll.com/wp-content/uploads/2020/03/HHP_March2020_RegisteredVoters_Topline.pdf,2020-03-24 00:00:00,2020-03-26 00:00:00,2410,RV,2.0,55.0,45.0
+National,ABC News/Wash Post,https://www.washingtonpost.com/politics/poll-shows-trump-and-biden-in-a-competitive-race-for-the-white-house/2020/03/28/515cb8ba-7037-11ea-b148-e4ce3fbd85b5_story.html,2020-03-22 00:00:00,2020-03-25 00:00:00,845,RV,3.5,49.0,47.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/bfiid7tfh3/econTabReport.pdf,2020-03-22 00:00:00,2020-03-24 00:00:00,1170,RV,3.4,46.0,42.0
+National,FOX News,https://www.foxnews.com/politics/fox-news-poll-march-21-24-2020,2020-03-21 00:00:00,2020-03-24 00:00:00,1011,RV,3.0,49.0,40.0
+National,Monmouth,https://www.monmouth.edu/polling-institute/reports/monmouthpoll_us_032420/,2020-03-18 00:00:00,2020-03-22 00:00:00,754,RV,3.6,48.0,45.0
+National,Emerson,https://emersonpolling.reportablenews.com/pr/march-national-poll-70-of-americans-worried-about-catching-coronavirus,2020-03-18 00:00:00,2020-03-19 00:00:00,1100,RV,2.9,53.0,47.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/fcdckgt368/econTabReport.pdf,2020-03-15 00:00:00,2020-03-17 00:00:00,1129,RV,3.5,48.0,41.0
+National,NBC News/Wall St. Jrnl,https://www.documentcloud.org/documents/6810602-200149-NBCWSJ-March-Poll-Final-3-14-20-Release.html,2020-03-11 00:00:00,2020-03-13 00:00:00,900,RV,3.3,52.0,43.0
+National,Economist/YouGov,https://docs.cdn.yougov.com/vrbl9mmctz/econTabReport.pdf,2020-03-08 00:00:00,2020-03-10 00:00:00,1191,RV,2.9,47.0,43.0
+National,CNN,https://cdn.cnn.com/cnn/2020/images/03/09/rel2a.-.2020.pdf,2020-03-04 00:00:00,2020-03-07 00:00:00,1084,RV,3.5,53.0,43.0
+National,Quinnipiac,https://poll.qu.edu/national/release-detail?ReleaseID=3657,2020-03-05 00:00:00,2020-03-08 00:00:00,1261,RV,2.8,52.0,41.0
+National,Harvard-Harris,https://mcusercontent.com/ca678077bc522bd7bd74bacbf/files/6677acd8-4be1-4a78-92e1-dbbd51036f1d/HHP_Feb20.pdf,2020-02-26 00:00:00,2020-02-28 00:00:00,2592,RV,,55.0,45.0
+National,IBD/TIPP,https://www.investors.com/bernie-sanders-leads-joe-biden-super-tuesday-march-2020-ibd-tipp-poll/,2020-02-20 00:00:00,2020-02-29 00:00:00,839,RV,3.5,49.0,46.0
+National,FOX News,https://www.foxnews.com/politics/fox-news-poll-february-23-26-2020,2020-02-23 00:00:00,2020-02-26 00:00:00,1000,RV,3.0,49.0,41.0
+National,CBS News/YouGov,https://drive.google.com/file/d/1OpQxzzYY4MXgQMfo2j_XicB_tEUtt7eI/view,2020-02-20 00:00:00,2020-02-22 00:00:00,10000,RV,1.2,47.0,45.0
+National,ABC News/Wash Post,https://www.langerresearch.com/wp-content/uploads/1211a12020Politics.pdf,2020-02-14 00:00:00,2020-02-17 00:00:00,913,RV,4.0,52.0,45.0
+National,Emerson,https://emersonpolling.reportablenews.com/pr/february-national-poll-sanders-takes-the-lead-for-democratic-nomination-bloomberg-on-the-rise,2020-02-16 00:00:00,2020-02-18 00:00:00,1250,RV,2.7,48.0,52.0
+National,NBC News/Wall St. Jrnl,https://www.documentcloud.org/documents/6779408-200085-NBCWSJ-February-Poll.html,2020-02-14 00:00:00,2020-02-17 00:00:00,900,RV,3.3,52.0,44.0
+National,NPR/PBS/Marist,http://maristpoll.marist.edu/wp-content/uploads/2020/02/UPDATED_Tuesday-Release_NPR_PBS-NewsHour_Marist-Poll_USA-NOS-and-Tables_2002171446.pdf,2020-02-13 00:00:00,2020-02-16 00:00:00,1164,RV,3.7,50.0,44.0
+National,Quinnipiac,https://poll.qu.edu/national/release-detail?ReleaseID=3655,2020-02-05 00:00:00,2020-02-09 00:00:00,1519,RV,2.5,50.0,43.0
+National,NBC News/Wall St. Jrnl,https://www.nbcnews.com/politics/meet-the-press/nbc-wsj-poll-country-remains-divided-over-trump-s-impeachment-n1128326,2020-01-26 00:00:00,2020-01-29 00:00:00,1000,RV,3.1,50.0,44.0
+National,IBD/TIPP,https://www.investors.com/politics/trump-impeachment-trial-americans-oppose-removal-ibd-tipp/,2020-01-23 00:00:00,2020-01-30 00:00:00,856,RV,3.3,49.0,48.0
+National,Emerson,https://emersonpolling.reportablenews.com/pr/national-2020-biden-and-sanders-battle-in-two-way-race-for-democratic-nomination,2020-01-21 00:00:00,2020-01-23 00:00:00,1128,RV,2.8,50.0,50.0
+National,ABC News/Wash Post,https://www.washingtonpost.com/politics/trump-begins-reelection-year-more-competitive-against-democrats-than-he-was-three-months-ago-post-abc-poll-finds/2020/01/26/e5718616-3fc7-11ea-baca-eb7ace0a3455_story.html,2020-01-20 00:00:00,2020-01-23 00:00:00,880,RV,4.0,50.0,46.0
+National,LA Times/USC,https://www.latimes.com/politics/story/2020-01-31/joe-biden-holds-lead-in-national-poll-is-it-a-firewall-against-iowa-new-hampshire-losses,2020-01-15 00:00:00,2020-01-28 00:00:00,4869,RV,2.0,49.0,40.0
+National,FOX News,https://www.foxnews.com/politics/fox-news-poll-record-economy-ratings-as-half-say-senate-should-remove-trump,2020-01-19 00:00:00,2020-01-22 00:00:00,1005,RV,3.0,50.0,41.0
+National,CNN,https://cdn.cnn.com/cnn/2020/images/01/22/rel1b.-.2020.pdf,2020-01-16 00:00:00,2020-01-19 00:00:00,1051,RV,3.6,53.0,44.0
+National,IBD/TIPP,https://www.investors.com/politics/trump-impeachment-support-dips-americans-back-trump-on-iran-economy/,2020-01-03 00:00:00,2020-01-11 00:00:00,846,RV,3.3,48.0,46.0
+National,Emerson,https://emersonpolling.reportablenews.com/pr/december-national-poll-biden-and-sanders-pull-away-from-the-pack-as-warren-falls,2020-12-15 00:00:00,2020-12-17 00:00:00,1222,RV,2.7,52.0,48.0
+National,CNN,"https://cdn.cnn.com/cnn/2019/images/12/20/rel14c.-.economy,.general.election.pdf",2020-12-12 00:00:00,2020-12-15 00:00:00,888,RV,4.0,49.0,44.0
+National,USA Today/Suffolk,https://www.usatoday.com/story/news/politics/elections/2019/12/16/trump-impeachment-2020-election-leads-democratic-rivals/2663659001/,2020-12-10 00:00:00,2020-12-14 00:00:00,1000,RV,3.0,41.0,44.0
+National,IBD/TIPP,https://www.investors.com/news/joe-biden-leads-democrats-president-trump-tops-elizabeth-warren-bernie-sanders-ibd-tipp-poll/,2020-12-05 00:00:00,2020-12-14 00:00:00,849,RV,3.5,50.0,45.0
+National,FOX News,https://www.foxnews.com/politics/fox-news-poll-results-december-8-11-2019,2020-12-08 00:00:00,2020-12-11 00:00:00,1000,RV,3.0,48.0,41.0
+National,Quinnipiac,https://poll.qu.edu/national/release-detail?ReleaseID=3651,2020-12-04 00:00:00,2020-12-09 00:00:00,1553,RV,2.5,51.0,42.0
+National,SurveyUSA,http://www.surveyusa.com/client/PollReport.aspx?g=5128ee79-1b59-4146-bf80-54906bb24d4b,2020-11-20 00:00:00,2020-11-21 00:00:00,3850,RV,1.7,52.0,39.0
+National,Emerson,https://emersonpolling.reportablenews.com/pr/november-national-poll-support-for-impeachment-declines-biden-and-sanders-lead-democratic-primary,2020-11-17 00:00:00,2020-11-20 00:00:00,1092,RV,2.9,49.0,51.0
+National,NBC News/Wall St. Jrnl,https://www.documentcloud.org/documents/6538104-19433-NBCWSJ-Late-October-Poll.html,2020-10-27 00:00:00,2020-10-30 00:00:00,720,RV,3.7,50.0,41.0
+National,ABC News/Wash Post,https://www.washingtonpost.com/politics/trump-trails-democratic-rivals-in-national-survey-as-independents-move-away/2019/11/04/e068afac-ff38-11e9-9518-1e76abc088b6_story.html,2020-10-27 00:00:00,2020-10-30 00:00:00,876,RV,4.0,56.0,39.0
+National,FOX News,https://www.foxnews.com/politics/fox-news-poll-biden-leads-nomination-race-tops-trump-by-12-points-in-matchup,2020-10-27 00:00:00,2020-10-30 00:00:00,1040,RV,3.0,51.0,39.0
+National,IBD/TIPP,https://www.investors.com/news/joe-biden-leads-elizabeth-warren-both-beat-trump-2020-election-ibd-tipp/,2020-10-24 00:00:00,2020-10-31 00:00:00,863,RV,3.5,53.0,43.0
+National,Emerson,https://emersonpolling.reportablenews.com/pr/october-national-poll-biden-sanders-warren-maintain-front-runner-status-in-democratic-primary,2020-10-18 00:00:00,2020-10-21 00:00:00,1000,RV,3.0,51.0,49.0
+National,CNN,https://cdn.cnn.com/cnn/2019/images/10/22/rel12b.-.2020.pdf,2020-10-17 00:00:00,2020-10-20 00:00:00,892,RV,4.0,53.0,43.0
+National,SurveyUSA,http://www.surveyusa.com/client/PollReport.aspx?g=be45282e-0f2b-4aea-9431-c8dd46a3082f,2020-10-15 00:00:00,2020-10-16 00:00:00,3080,RV,2.1,52.0,41.0
+National,FOX News,https://www.scribd.com/document/429686638/Fox-News-Poll-October-6-8-2019,2020-10-06 00:00:00,2020-10-08 00:00:00,1003,RV,3.0,50.0,40.0
+National,Quinnipiac,https://poll.qu.edu/national/release-detail?ReleaseID=3643,2020-10-04 00:00:00,2020-10-07 00:00:00,1483,RV,3.1,51.0,40.0
+National,IBD/TIPP,https://www.investors.com/politics/americans-back-trump-impeachment-ukraine-scandal-biden-probe/,2020-09-26 00:00:00,2020-10-03 00:00:00,863,RV,3.5,51.0,44.0
+National,Rasmussen Reports,http://www.rasmussenreports.com/public_content/politics/elections/election_2020/trump_47_biden_43,2020-09-23 00:00:00,2020-09-24 00:00:00,1000,LV,3.0,43.0,47.0
+National,Emerson,https://emersonpolling.reportablenews.com/pr/september-national-poll-warren-surges-biden-slips-and-sanders-holds-creating-three-way-dead-heat-for-the-nomination,2020-09-21 00:00:00,2020-09-23 00:00:00,1019,RV,3.0,50.0,49.0
+National,FOX News,https://www.foxnews.com/politics/fox-news-poll-september-15-17-2019,2020-09-15 00:00:00,2020-09-17 00:00:00,1008,RV,3.0,52.0,38.0
+National,SurveyUSA,http://www.surveyusa.com/client/PollReport.aspx?g=6189a2c3-4801-46e4-898a-f512d9ed5d17,2020-09-13 00:00:00,2020-09-16 00:00:00,4520,RV,1.6,49.0,41.0
+National,ABC News/Wash Post,https://www.washingtonpost.com/context/sept-2-5-2019-washington-post-abc-news-poll/d4e18b36-79bf-492d-91e3-d1c7a49d37e2/,2020-09-02 00:00:00,2020-09-05 00:00:00,877,RV,4.0,55.0,40.0
+National,IBD/TIPP,https://www.investors.com/news/elizabeth-warren-joe-biden-sanders-democratic-race-biden-vs-trump/,2020-08-22 00:00:00,2020-08-30 00:00:00,848,RV,3.5,54.0,42.0
+National,Emerson,https://emersonpolling.reportablenews.com/pr/august-national-poll-sanders-closing-gap-with-biden-mayor-pete-fades,2020-08-24 00:00:00,2020-08-26 00:00:00,1458,RV,2.5,54.0,46.0
+National,Quinnipiac,https://poll.qu.edu/national/release-detail?ReleaseID=3638,2020-08-21 00:00:00,2020-08-26 00:00:00,1422,RV,4.6,54.0,38.0
+National,FOX News,https://www.foxnews.com/politics/fox-news-poll-8-15,2020-08-11 00:00:00,2020-08-13 00:00:00,1013,RV,3.0,50.0,38.0
+National,SurveyUSA,http://www.surveyusa.com/client/PollReport.aspx?g=e05bf5ae-982d-4f96-b0ae-671cdfe56aab,2020-08-01 00:00:00,2020-08-05 00:00:00,5459,RV,1.6,50.0,42.0
+National,IBD/TIPP,https://www.investors.com/politics/joe-biden-has-big-lead-president-trump-job-approval-slides-ibd-tipp-poll/,2020-07-25 00:00:00,2020-08-01 00:00:00,856,RV,3.5,54.0,41.0
+National,Emerson,https://emersonpolling.reportablenews.com/pr/july-national-poll-biden-extends-support-while-bernie-bounces-back,2020-07-27 00:00:00,2020-07-29 00:00:00,1233,RV,2.7,51.0,49.0
+National,FOX News,https://www.foxnews.com/politics/fox-news-poll-biden-holds-commanding-lead-for-democratic-nomination,2020-07-21 00:00:00,2020-07-23 00:00:00,1004,RV,3.0,49.0,39.0
+National,NBC News/Wall St. Jrnl,https://www.documentcloud.org/documents/6192907-NBCWSJ-July-Poll.html,2020-07-07 00:00:00,2020-07-09 00:00:00,800,RV,3.5,51.0,42.0
+National,Emerson,https://emersonpolling.reportablenews.com/pr/july-national-poll-biden-extends-lead-in-democratic-primary-trump-closes-the-gap-in-the-general-election,2020-07-06 00:00:00,2020-07-08 00:00:00,1100,RV,2.9,53.0,47.0
+National,ABC News/Wash Post,https://www.washingtonpost.com/politics/aided-by-a-strong-economy-trump-approval-rises-but-a-majority-also-see-him-as-unpresidential/2019/07/04/c9c42c54-9d9f-11e9-b27f-ed2942f73d70_story.html,2020-06-28 00:00:00,2020-07-01 00:00:00,875,RV,4.0,53.0,43.0
+National,Rasmussen Reports,http://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_jul05,2020-06-23 00:00:00,2020-07-02 00:00:00,4500,LV,1.5,48.0,44.0
+National,Emerson,https://emersonpolling.reportablenews.com/pr/june-national-poll-all-eyes-on-the-democratic-debates-biden-sanders-and-warren-separate-from-the-field,2020-06-21 00:00:00,2020-06-24 00:00:00,1096,RV,2.9,55.0,45.0
+National,FOX News,https://www.foxnews.com/politics/fox-news-poll-6-16,2020-06-09 00:00:00,2020-06-12 00:00:00,1001,RV,3.0,49.0,39.0
+National,Quinnipiac,https://poll.qu.edu/national/release-detail?ReleaseID=2627,2020-06-06 00:00:00,2020-06-10 00:00:00,1214,RV,3.5,53.0,40.0
+National,FOX News,https://www.foxnews.com/politics/fox-news-poll-biden-up-by-double-digits-in-democratic-race,2020-05-11 00:00:00,2020-05-14 00:00:00,1001,RV,3.0,49.0,38.0
+National,Emerson,https://emersonpolling.reportablenews.com/pr/may-national-poll-biden-back-in-the-lead-for-the-democratic-nomination,2020-05-10 00:00:00,2020-05-13 00:00:00,1006,RV,3.0,54.0,46.0
+National,CNN,https://cdn.cnn.com/cnn/2019/images/05/01/rel6d.-.trump.and.2020.pdf,2020-04-25 00:00:00,2020-04-29 00:00:00,470,RV,5.5,51.0,45.0
+National,The Hill/HarrisX,https://thehill.com/hilltv/what-americas-thinking/440845-biden-leads-trump-by-6-points-in-first-post-announcement-poll,2020-04-25 00:00:00,2020-04-26 00:00:00,1000,RV,3.1,43.0,37.0
+National,Politico/Morning Consult,https://morningconsult.com/wp-content/uploads/2019/04/190452_crosstabs_POLITICO_RVs_v1.pdf,2020-04-19 00:00:00,2020-04-21 00:00:00,1992,RV,2.0,42.0,34.0
+National,Emerson,http://emersonpolling.com/2019/04/15/april-national-poll-bernie-takes-lead-for-democratic-nomination-mayor-pete-on-the-move/,2020-04-11 00:00:00,2020-04-14 00:00:00,914,RV,3.2,53.0,47.0
+National,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2019/04/PPP_Release_National_40119.pdf,2020-03-27 00:00:00,2020-03-28 00:00:00,846,RV,3.4,53.0,40.0
+National,Rasmussen Reports,http://www.rasmussenreports.com/public_content/politics/elections/election_2020/white_house_watch_mar29,2020-03-17 00:00:00,2020-03-21 00:00:00,5000,LV,1.5,49.0,44.0
+National,FOX News,https://www.foxnews.com/politics/fox-news-poll-biden-sanders-top-democratic-preference,2020-03-17 00:00:00,2020-03-20 00:00:00,1002,RV,3.0,47.0,40.0
+National,Emerson,http://emersonpolling.com/2019/03/19/national-poll-sanders-tied-with-biden-beto-gets-post-announcement-bump/,2020-03-17 00:00:00,2020-03-18 00:00:00,1153,RV,2.8,55.0,45.0
+National,Emerson,http://emersonpolling.com/2019/02/16/majority-of-americans-disagree-with-trumps-national-emergency-despite-a-plurality-agreeing-with-border-wall-extension/,2020-02-14 00:00:00,2020-02-16 00:00:00,1000,RV,3.3,55.0,45.0
+National,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2019/01/PPP_Release_National_12219.pdf,2020-01-19 00:00:00,2020-01-21 00:00:00,760,RV,3.6,53.0,41.0
+National,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2018/06/PPP_Release_National_61318.pdf,2020-06-08 00:00:00,2020-06-10 00:00:00,679,RV,3.8,53.0,39.0
+National,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2018/03/PPP_Release_National_32718.pdf,2020-03-23 00:00:00,2020-03-25 00:00:00,846,RV,3.4,56.0,39.0
+National,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2018/02/PPP_Release_National_21418.pdf,2020-02-09 00:00:00,2020-02-11 00:00:00,687,RV,3.7,51.0,42.0
+National,CNN,http://cdn.cnn.com/cnn/2018/images/01/23/rel1e.-.2020.pdf,2020-01-14 00:00:00,2020-01-18 00:00:00,918,RV,3.8,57.0,40.0
+National,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2017/12/PPP_Release_National_121417.pdf,2020-12-11 00:00:00,2020-12-12 00:00:00,862,RV,3.3,54.0,40.0
+National,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2017/10/PPP_Release_National_103117.pdf,2020-10-27 00:00:00,2020-10-29 00:00:00,572,RV,4.1,56.0,38.0
+National,Emerson,http://www.emerson.edu/sites/default/files/Files/Academics/ecp-10.16-national.press_.release.pdf,2020-10-12 00:00:00,2020-10-14 00:00:00,820,RV,3.4,51.0,42.0
+National,PPP (D),http://www.publicpolicypolling.com/pdf/2017/PPP_Release_National_92817.pdf,2020-09-22 00:00:00,2020-09-25 00:00:00,865,RV,3.3,53.0,40.0
+National,PPP (D),http://www.publicpolicypolling.com/pdf/2017/PPP_Release_National_82317.pdf,2020-08-18 00:00:00,2020-08-21 00:00:00,887,RV,3.3,51.0,39.0
+National,PPP (D),http://www.publicpolicypolling.com/pdf/2017/PPP_Release_National_71817.pdf,2020-07-14 00:00:00,2020-07-17 00:00:00,836,RV,3.4,54.0,39.0
+National,PPP (D),http://www.publicpolicypolling.com/pdf/2017/PPP_Release_National_61217.pdf,2020-06-09 00:00:00,2020-06-11 00:00:00,811,RV,3.4,54.0,41.0
+National,PPP (D),http://www.publicpolicypolling.com/pdf/2017/PPP_Release_National_51617.pdf,2020-05-12 00:00:00,2020-05-14 00:00:00,692,RV,3.7,54.0,40.0
+National,PPP (D),http://www.publicpolicypolling.com/pdf/2017/PPP_Release_National_42017.pdf,2020-04-17 00:00:00,2020-04-18 00:00:00,648,RV,3.9,54.0,40.0
+National,PPP (D),http://www.publicpolicypolling.com/pdf/2017/PPP_Release_National_33017.pdf,2020-03-27 00:00:00,2020-03-28 00:00:00,677,RV,3.8,54.0,40.0
+Delaware,University of Delaware*,https://www.udel.edu/udaily/2020/october/poll--democrats-lead-by-big-margins-in-delaware/,2020-09-21 00:00:00,2020-09-27 00:00:00,847,LV,4.0,54.0,33.0
+Delaware,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2020/08/DelawareAugust2020Results.pdf,2020-08-21 00:00:00,2020-08-22 00:00:00,710,RV,3.7,58.0,37.0
+Delaware,Gonzales Research,https://www.realclearpolitics.com/docs/2020/Gonzales_Poll_-_Delaware_January_2020.pdf,2020-01-16 00:00:00,2020-01-19 00:00:00,410,RV,5.0,56.0,40.0
+Texas,Rasmussen Reports,https://crosswindpr.com/texas-statewide-poll-shows-trump-leading-biden-7-among-likely-voters/,2020-10-05 00:00:00,2020-10-06 00:00:00,1000,LV,3.0,44.0,51.0
+Texas,UT/Texas Tribune*,https://static.texastribune.org/media/files/922524cf3ab155eb04b70075f96948ab/uttt-2020-10-day1topline.pdf?_ga=2.167788513.1578857801.1602243186-1274457702.1602243185,2020-09-25 00:00:00,2020-10-04 00:00:00,908,LV,4.1,45.0,50.0
+Texas,UMass Lowell,https://www.uml.edu/docs/2020-Texas-Sept-Topline_tcm18-330588.pdf,2020-09-18 00:00:00,2020-09-25 00:00:00,882,LV,4.3,46.0,50.0
+Texas,Quinnipiac,https://poll.qu.edu/images/polling/oh/oh09242020_bgfx53.pdf,2020-09-17 00:00:00,2020-09-21 00:00:00,1078,LV,3.0,45.0,50.0
+Texas,NY Times/Siena*,https://int.nyt.com/data/documenttools/ga-ia-tx-crosstabs/ca61e64eaef883ac/full.pdf,2020-09-16 00:00:00,2020-09-21 00:00:00,653,LV,4.3,43.0,46.0
+Texas,CBS News/YouGov,https://drive.google.com/file/d/12KO6RXYt9519HgwvDB9SRlS5tqZ9OG8S/view,2020-09-15 00:00:00,2020-09-18 00:00:00,1205,LV,,46.0,48.0
+Texas,Dallas Morning News*,https://www.scribd.com/document/474962250/DMN-UTTyler-2020-Poll-Codebook-2,2020-08-28 00:00:00,2020-09-02 00:00:00,901,LV,3.3,46.0,48.0
+Texas,Rice Univ./YouGov*,https://www.txhpf.org/wp-content/uploads/2020/08/THPFFinalAug17.pdf,2020-08-04 00:00:00,2020-08-13 00:00:00,846,RV,,41.0,48.0
+Texas,Trafalgar Group (R)*,https://www.thetrafalgargroup.org/news/tx-pres-0820/,2020-08-01 00:00:00,2020-08-05 00:00:00,1015,LV,3.0,43.0,49.0
+Texas,Quinnipiac,https://poll.qu.edu/images/polling/tx/tx07222020_tfmd13.pdf,2020-07-16 00:00:00,2020-07-20 00:00:00,880,RV,3.3,45.0,44.0
+Texas,CBS News/YouGov,https://drive.google.com/file/d/18HFC79lmRr1KVcbrUysfJd6XpLZxZxaP/view,2020-07-07 00:00:00,2020-07-10 00:00:00,1212,RV,3.3,45.0,46.0
+Texas,OAN/Gravis,https://www.oann.com/president-trump-carries-momentum-in-new-oan-gravis-marketing-poll-for-texas-georgia/,2020-07-07 00:00:00,2020-07-07 00:00:00,591,LV,4.3,44.0,46.0
+Texas,Dallas Morning News,https://www.realclearpolitics.com/docs/2020/Dallas_Morning_News_July_12_2020.pdf,2020-06-29 00:00:00,2020-07-07 00:00:00,1677,LV,2.4,48.0,43.0
+Texas,University of Texas,https://texaspolitics.utexas.edu/blog/pre-4th-july-preview-new-uttexas-politics-project-poll,2020-06-19 00:00:00,2020-06-29 00:00:00,1200,RV,2.8,44.0,48.0
+Texas,FOX News,https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Fox_June-20-23-2020_Complete_Texas_Topline_June-25-Release.pdf,2020-06-20 00:00:00,2020-06-23 00:00:00,1001,RV,3.0,45.0,44.0
+Texas,Quinnipiac,https://poll.qu.edu/texas/release-detail?ReleaseID=3662,2020-05-28 00:00:00,2020-06-01 00:00:00,1166,RV,2.9,43.0,44.0
+Texas,Emerson,https://emersonpolling.reportablenews.com/pr/ohio-texas-and-california-2020-trump-with-narrow-leads-in-ohio-and-texas-but-has-widespread-expectation-of-being-re-elected,2020-05-08 00:00:00,2020-05-10 00:00:00,800,RV,3.4,41.0,47.0
+Texas,PPP (D),https://www.realclearpolitics.com/docs/2020/PPP_Texas_April_2020.pdf,2020-04-27 00:00:00,2020-04-28 00:00:00,1032,RV,,47.0,46.0
+Texas,Dallas Morning News,https://www.dallasnews.com/news/public-health/2020/05/02/texans-wary-of-flying-because-of-coronavirus-cautious-about-in-person-shopping-dallas-news-ut-tyler-poll-shows/,2020-04-18 00:00:00,2020-04-27 00:00:00,1183,RV,2.9,43.0,43.0
+Texas,UT/Texas Tribune,https://www.texastribune.org/2020/04/25/trump-biden-texas-coronavirus-poll/,2020-04-10 00:00:00,2020-04-19 00:00:00,1200,RV,2.8,44.0,49.0
+Texas,NBC News/Marist,http://maristpoll.marist.edu/wp-content/uploads/2020/02/NBC-News_Marist-Poll-TX-NOS-and-Tables_2002281546.pdf,2020-02-23 00:00:00,2020-02-27 00:00:00,2409,RV,2.5,45.0,49.0
+Texas,CNN,https://cdn.cnn.com/cnn/2020/images/02/28/rel1_tx.pdf,2020-02-22 00:00:00,2020-02-26 00:00:00,1003,RV,3.0,48.0,47.0
+Texas,Dallas Morning News,https://www.scribd.com/document/449521374/DMN-UTTyler-Poll-February-2020-Registered-voters,2020-02-17 00:00:00,2020-02-26 00:00:00,1221,RV,2.8,44.0,45.0
+Texas,UT/Texas Tribune,https://www.texastribune.org/2020/02/14/bernie-sanders-leading-texas-ahead-super-tuesday-uttt-poll-says/,2020-01-31 00:00:00,2020-02-09 00:00:00,1200,RV,2.8,43.0,47.0
+Texas,Dallas Morning News,https://www.uttyler.edu/politicalscience/files/texas-survey-likely-voters-2020.pdf,2020-01-21 00:00:00,2020-01-30 00:00:00,915,LV,3.2,44.0,46.0
+Texas,Texas Lyceum,https://www.texaslyceum.org/assets/docs/Poll/2020/2020%20Lyceum%20Day%201%20Executive%20Summary.pdf,2020-01-10 00:00:00,2020-01-19 00:00:00,520,LV,4.3,46.0,51.0
+Texas,CNN,https://cdn.cnn.com/cnn/2019/images/12/11/rel1_tx.pdf,2020-12-04 00:00:00,2020-12-08 00:00:00,1003,RV,3.7,47.0,48.0
+Texas,UT/Texas Tribune,https://www.texastribune.org/2019/11/04/democrats-dont-have-candidate-who-would-beat-trump-texas-today-poll/,2020-10-18 00:00:00,2020-10-27 00:00:00,1200,LV,2.8,39.0,46.0
+Texas,DMN/Emerson,https://www.dallasnews.com/news/elections-2020/2019/08/06/new-poll-biden-leads-orourke-texas-presidential-primary-race-sen-john-cornyn-wide-open,2020-08-01 00:00:00,2020-08-03 00:00:00,1033,RV,3.0,51.0,49.0
+Texas,Quinnipiac,https://poll.qu.edu/texas/release-detail?ReleaseID=2625,2020-05-29 00:00:00,2020-06-04 00:00:00,1159,RV,3.4,48.0,44.0
+Texas,Emerson,https://emersonpolling.reportablenews.com/pr/2020-texas-biden-and-beto-in-dead-heat-in-democratic-primary,2020-04-25 00:00:00,2020-04-28 00:00:00,799,RV,3.4,50.0,49.0
+Texas,Quinnipiac,https://poll.qu.edu/texas/release-detail?ReleaseID=2602,2020-02-20 00:00:00,2020-02-25 00:00:00,1222,RV,3.4,46.0,47.0
+Kentucky,Quinnipiac,https://poll.qu.edu/kentucky/release-detail?ReleaseID=3673,2020-09-10 00:00:00,2020-09-14 00:00:00,1164,LV,2.9,38.0,58.0
+Kentucky,Quinnipiac,https://poll.qu.edu/2020-presidential-swing-state-polls/release-detail?ReleaseID=3670,2020-07-30 00:00:00,2020-08-03 00:00:00,909,RV,3.3,41.0,50.0
+Kentucky,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2020/05/KentuckyResultsMay2020.pdf,2020-05-14 00:00:00,2020-05-15 00:00:00,1104,RV,3.0,39.0,55.0
+Missouri,Missouri Scout,https://www.realclearpolitics.com/docs/2020/Missouri_Scout_October_2020.pdf,2020-09-30 00:00:00,2020-10-01 00:00:00,980,LV,3.3,46.0,51.0
+Missouri,Missouri Scout,https://www.realclearpolitics.com/docs/2020/MO_Scout_September_2020.pdf,2020-09-16 00:00:00,2020-09-17 00:00:00,1046,LV,3.0,45.0,53.0
+Missouri,WeAskAmerica,http://www.weaskamerica.com/surveys/missouri-statewide-general-election-survey-results-el9mz,2020-09-01 00:00:00,2020-09-03 00:00:00,500,LV,4.4,44.0,49.0
+Missouri,Trafalgar Group (R)*,https://www.thetrafalgargroup.org/news/mo-pres-0820/,2020-08-26 00:00:00,2020-08-28 00:00:00,1015,LV,3.0,41.0,52.0
+Missouri,SLU/YouGov,https://www.slu.edu/research/research-institute/big-ideas/slu-poll/june-2020-poll/trump-biden.php,2020-06-23 00:00:00,2020-07-01 00:00:00,900,LV,4.0,43.0,50.0
+Missouri,Missouri Scout,https://www.realclearpolitics.com/docs/2020/Missouri_Scout_June_2020.pdf,2020-06-10 00:00:00,2020-06-11 00:00:00,1152,LV,2.9,43.0,51.0
+Missouri,WeAskAmerica,http://www.weaskamerica.com/surveys/missouri-statewide-general-election-survey-results,2020-05-26 00:00:00,2020-05-27 00:00:00,500,LV,4.4,44.0,48.0
+Georgia,WSB-TV/Landmark*,https://www.realclearpolitics.com/docs/2020/WSB_Landmark_Senate_Poll_10.9_.20__.pdf,2020-10-07 00:00:00,2020-10-07 00:00:00,600,LV,4.0,47.0,49.0
+Georgia,Atlanta Journal-Constitution*,https://s.wsj.net/public/resources/documents/spia-election-survey-10-08-2020.pdf,2020-09-27 00:00:00,2020-10-06 00:00:00,1106,LV,2.9,46.0,48.0
+Georgia,WSB-TV/Landmark*,https://www.wsbtv.com/news/local/atlanta/following-rocky-debate-biden-takes-lead-over-trump-latest-exclusive-channel-2-poll/LFMKYZZ2C5DVFE3J7HKNK2653U/,2020-09-30 00:00:00,2020-09-30 00:00:00,500,LV,4.0,47.0,45.0
+Georgia,Quinnipiac,https://poll.qu.edu/images/polling/ga/ga09292020_gwko66.pdf,2020-09-23 00:00:00,2020-09-27 00:00:00,1125,LV,2.9,50.0,47.0
+Georgia,CBS News/YouGov,https://drive.google.com/file/d/1CMKhu311KFRSdUoDnlqldhZYFE-S5XvV/view,2020-09-22 00:00:00,2020-09-25 00:00:00,1142,LV,3.4,46.0,47.0
+Georgia,Monmouth*,https://www.monmouth.edu/polling-institute/reports/monmouthpoll_GA_092320/,2020-09-17 00:00:00,2020-09-21 00:00:00,402,LV,4.9,46.0,48.0
+Georgia,NY Times/Siena*,https://int.nyt.com/data/documenttools/ga-ia-tx-crosstabs/ca61e64eaef883ac/full.pdf,2020-09-16 00:00:00,2020-09-21 00:00:00,523,LV,4.9,45.0,45.0
+Georgia,Univ. of Georgia*,https://www.ajc.com/politics/ajc-poll-race-for-president-senate-contests-in-georgia-too-close-to-call/FCIZO2M5ZNH2XAQBRMAXJLFQVE/,2020-09-11 00:00:00,2020-09-20 00:00:00,1150,LV,4.0,47.0,47.0
+Georgia,WSB-TV/Landmark*,https://www.ajc.com/politics/politics-blog/wsb-poll-trump-builds-lead-over-biden-in-georgia-after-rnc/B7XVX4WYHJG4BIQMVTM2AJEEQM/,2020-08-29 00:00:00,2020-08-31 00:00:00,500,LV,4.4,41.0,48.0
+Georgia,WSB-TV/Landmark*,https://www.realclearpolitics.com/docs/2020/Landmark_Communications_Georgia_Poll_August_2020.pdf,2020-08-14 00:00:00,2020-08-15 00:00:00,500,LV,4.4,45.0,47.0
+Georgia,WXIA-TV/SurveyUSA,http://www.surveyusa.com/client/PollReport.aspx?g=4b9009c4-ef1d-4774-a211-0c4402738ec8,2020-08-06 00:00:00,2020-08-08 00:00:00,623,LV,5.3,46.0,44.0
+Georgia,CBS News/YouGov,https://drive.google.com/file/d/1oa8SqHJAq6hBII_8LjgY0PjPwAgBWzpO/view,2020-07-28 00:00:00,2020-07-31 00:00:00,1109,LV,,46.0,45.0
+Georgia,Monmouth*,https://www.monmouth.edu/polling-institute/reports/monmouthpoll_GA_072920/,2020-07-23 00:00:00,2020-07-27 00:00:00,402,LV,4.9,47.0,48.0
+Georgia,Trafalgar Group (R)*,https://www.thetrafalgargroup.org/news/ga-pres-0720/,2020-07-15 00:00:00,2020-07-18 00:00:00,1023,LV,3.0,43.0,50.0
+Georgia,OAN/Gravis,https://www.realclearpolitics.com/docs/2020/Gravis_Marketing_Georgia.pdf,2020-07-02 00:00:00,2020-07-02 00:00:00,513,RV,4.3,45.0,48.0
+Georgia,FOX News,https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Fox_June-20-23-2020_Complete_Georgia_Topline_June-25-Release.pdf,2020-06-20 00:00:00,2020-06-23 00:00:00,1013,RV,3.0,47.0,45.0
+Georgia,Univ. of Georgia,https://assets.documentcloud.org/documents/6793459/SPIA-GE-Poll-Results.pdf,2020-02-24 00:00:00,2020-03-02 00:00:00,1117,RV,2.9,43.0,51.0
+Georgia,Mason-Dixon,https://www.realclearpolitics.com/docs/2020/Mason-Dixon_GA.pdf,2020-12-19 00:00:00,2020-12-23 00:00:00,615,RV,4.0,44.0,51.0
+Georgia,WXIA-TV/SurveyUSA,http://www.surveyusa.com/client/PollReport.aspx?g=128c319e-4d47-4e41-827c-c67900e8414b,2020-11-15 00:00:00,2020-11-18 00:00:00,1303,LV,3.2,47.0,43.0
+Georgia,Atlanta Journal-Constitution,https://www.ajc.com/news/state--regional-govt--politics/ajc-poll-trump-faces-tough-election-fight-georgia/gqTRms8eLIL1TEFW2r8pKN/,2020-10-30 00:00:00,2020-11-08 00:00:00,1028,RV,3.0,51.0,43.0
+Pennsylvania,Emerson,https://emersonpolling.reportablenews.com/pr/pennsylvania-2020-biden-holds-edge-in-home-state-trump-closing-gap,2020-10-04 00:00:00,2020-10-05 00:00:00,688,LV,3.7,50.0,45.0
+Pennsylvania,CNBC/Change Research (D),https://www.cnbc.com/2020/10/06/2020-election-polls-biden-leads-trump-after-debate-coronavirus-diagnosis.html,2020-10-02 00:00:00,2020-10-04 00:00:00,,LV,,50.0,46.0
+Pennsylvania,Quinnipiac,https://poll.qu.edu/florida/release-detail?ReleaseID=3678,2020-10-01 00:00:00,2020-10-05 00:00:00,1211,LV,2.8,54.0,41.0
+Pennsylvania,Reuters/Ipsos,https://www.reuters.com/article/us-usa-election-battlegrounds-poll/reuters-ipsos-poll-shows-biden-leading-in-pennsylvania-wisconsin-idUSKBN26Q2ZT,2020-09-29 00:00:00,2020-10-05 00:00:00,605,LV,5.0,50.0,45.0
+Pennsylvania,Monmouth*,https://www.monmouth.edu/polling-institute/reports/monmouthpoll_PA_100620/,2020-09-30 00:00:00,2020-10-04 00:00:00,500,LV,4.4,54.0,43.0
+Pennsylvania,CBS News/YouGov,https://drive.google.com/file/d/1hSdIHlv2MgUGngDTUCG4UK2D_11Asbfk/view,2020-09-30 00:00:00,2020-10-02 00:00:00,1187,LV,3.2,51.0,44.0
+Pennsylvania,NY Times/Siena*,https://int.nyt.com/data/documenttools/flpa-0930-crosstabs/16c21b7ab34ed4d1/full.pdf,2020-09-30 00:00:00,2020-10-02 00:00:00,706,LV,4.1,49.0,42.0
+Pennsylvania,NY Times/Siena,https://www.nytimes.com/2020/09/28/us/politics/supreme-court-pennsylvania-poll.html,2020-09-25 00:00:00,2020-09-27 00:00:00,711,LV,4.3,49.0,40.0
+Pennsylvania,TIPP,https://www.scribd.com/document/477721916/The-Federalist-TIPP-Pennsylvania-Poll-Sept-24-26-2020,2020-09-24 00:00:00,2020-09-26 00:00:00,774,LV,3.6,50.0,45.0
+Pennsylvania,ABC News/Wash Post,https://www.langerresearch.com/wp-content/uploads/1216a32020StateBattlegrounds-PA.pdf,2020-09-21 00:00:00,2020-09-26 00:00:00,567,LV,4.5,54.0,45.0
+Pennsylvania,FOX News,https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Fox_September-20-23-2020_Complete_Pennsylvania_Topline_September-24-Rel....pdf,2020-09-20 00:00:00,2020-09-23 00:00:00,856,LV,3.0,51.0,44.0
+Pennsylvania,CNBC/Change Research (D),https://changeresearch.com/post/states-of-play-battleground-wave-14/,2020-09-18 00:00:00,2020-09-20 00:00:00,579,LV,,49.0,45.0
+Pennsylvania,Trafalgar Group (R)*,https://drive.google.com/file/d/10w6DzQtjbRcFFqpnsGIwmRstjY7fDa5e/view,2020-09-15 00:00:00,2020-09-17 00:00:00,1006,LV,3.0,47.0,45.0
+Pennsylvania,Univ. of Wis/YouGov,https://madison.com/news/local/govt-and-politics/new-poll-finds-big-gulf-on-top-issues-between-biden-trump-voters-in-battleground-states/article_e6b561d5-c142-535e-8354-139805638fb6.html,2020-09-10 00:00:00,2020-09-21 00:00:00,642,LV,,49.0,45.0
+Pennsylvania,Franklin & Marshall,https://www.citizensvoice.com/news/election/new-f-m-poll-shows-biden-up-6-points-in-pennsylvania/article_8e3ef5b5-ecd4-597b-9f86-9af2928c3dc4.html,2020-09-14 00:00:00,2020-09-20 00:00:00,480,LV,7.8,48.0,42.0
+Pennsylvania,Reuters/Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/topline_reuters_pennsylvania_state_poll_w1_09_21_2020.pdf,2020-09-11 00:00:00,2020-09-16 00:00:00,611,LV,4.5,49.0,46.0
+Pennsylvania,CNBC/Change Research (D),https://www.cnbc.com/2020/09/09/2020-election-polls-trump-leads-biden-in-az-fl-mi-nc-pa-and-wi.html,2020-09-04 00:00:00,2020-09-06 00:00:00,,LV,,50.0,46.0
+Pennsylvania,NBC News/Marist,http://maristpoll.marist.edu/wp-content/uploads/2020/09/NBC-News_Marist-Poll_PA-Likely-Voters_NOS-and-Tables_202009081145.pdf,2020-08-31 00:00:00,2020-09-07 00:00:00,771,LV,4.4,53.0,44.0
+Pennsylvania,Susquehanna,https://susquehannapolling.com/wp-content/uploads/2020/09/Toplines-PAStatewide-FallOmnibus-Sept2020.pdf,2020-08-26 00:00:00,2020-09-04 00:00:00,498,LV,4.3,44.0,42.0
+Pennsylvania,Monmouth*,https://www.monmouth.edu/polling-institute/reports/monmouthpoll_PA_090220/,2020-08-28 00:00:00,2020-08-31 00:00:00,400,RV,4.9,49.0,46.0
+Pennsylvania,Quinnipiac,https://poll.qu.edu/2020-presidential-swing-state-polls/release-detail?ReleaseID=3672,2020-08-28 00:00:00,2020-08-31 00:00:00,1107,LV,3.0,52.0,44.0
+Pennsylvania,Rasmussen Reports,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/pennsylvania_trump_46_biden_46,2020-08-25 00:00:00,2020-08-27 00:00:00,1000,LV,3.0,46.0,46.0
+Pennsylvania,CNBC/Change Research (D),https://changeresearch.com/wp-content/uploads/2020/08/CNBC-CR_Battleground-Toplines_Wave-12_August-21-23-Wave-12_-8_21-8_23.pdf,2020-08-21 00:00:00,2020-08-23 00:00:00,984,LV,2.0,49.0,46.0
+Pennsylvania,Franklin & Marshall,https://www.fandm.edu/uploads/files/166320825519932897-f-m-poll-release-aug-2020.pdf,2020-08-17 00:00:00,2020-08-23 00:00:00,681,RV,5.2,49.0,42.0
+Pennsylvania,Morning Call,https://www.muhlenberg.edu/aug2020election/,2020-08-11 00:00:00,2020-08-17 00:00:00,416,LV,5.5,49.0,45.0
+Pennsylvania,Emerson,https://emersonpolling.reportablenews.com/pr/north-carolina-pennsylvania-and-arizona-2020-tight-races-in-battleground-states-leading-into-party-conventions,2020-08-08 00:00:00,2020-08-10 00:00:00,843,LV,3.4,52.0,43.0
+Pennsylvania,CNBC/Change Research (D),https://9b1b5e59-cb8d-4d7b-8493-111f8aa90329.usrfiles.com/ugd/9b1b5e_41d9f1b0245c4c138aa26d496625d005.pdf,2020-08-07 00:00:00,2020-08-09 00:00:00,456,LV,,48.0,44.0
+Pennsylvania,CBS News/YouGov,https://www.cbsnews.com/news/biden-leads-wisconsin-pennsylvania-opinion-poll-covid-countrys-direction-09-08-2020/,2020-08-04 00:00:00,2020-08-07 00:00:00,1211,LV,3.7,49.0,43.0
+Pennsylvania,Univ. of Wis/YouGov,https://drive.google.com/file/d/1fqH-jLCyrO5lZ6Mugvj_77fXDc9aVHtc/view,2020-07-26 00:00:00,2020-08-06 00:00:00,742,RV,4.9,50.0,41.0
+Pennsylvania,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-10,2020-07-24 00:00:00,2020-07-26 00:00:00,382,LV,,48.0,46.0
+Pennsylvania,Franklin & Marshall,https://www.fandm.edu/uploads/files/90560429767618014-f-m-poll-release-july-2020.pdf,2020-07-20 00:00:00,2020-07-26 00:00:00,667,RV,5.5,50.0,41.0
+Pennsylvania,Gravis,https://www.gravismarketing.com/pa-poll-results/,2020-07-22 00:00:00,2020-07-24 00:00:00,1006,LV,3.1,48.0,45.0
+Pennsylvania,FOX News,https://static.foxnews.com/foxnews.com/content/uploads/2020/07/Fox_July-18-20-2020_Complete_Pennsylvania_Topline_July-23-Release.pdf,2020-07-18 00:00:00,2020-07-20 00:00:00,793,RV,3.5,50.0,39.0
+Pennsylvania,Rasmussen Reports,https://kittyhawk.amgreatness.com/app/uploads/2020/07/Toplines-American-Greatness-Pennsylvania-July-15-16%5EJ-2020.pdf,2020-07-15 00:00:00,2020-07-16 00:00:00,750,LV,3.5,51.0,46.0
+Pennsylvania,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-9,2020-07-10 00:00:00,2020-07-12 00:00:00,743,LV,,50.0,42.0
+Pennsylvania,Monmouth,https://www.monmouth.edu/polling-institute/reports/monmouthpoll_PA_071520/,2020-07-09 00:00:00,2020-07-13 00:00:00,401,LV,4.9,52.0,42.0
+Pennsylvania,Trafalgar Group (R),https://www.thetrafalgargroup.org/news/pa-pres-0620/,2020-06-29 00:00:00,2020-07-02 00:00:00,1062,LV,2.9,48.0,43.0
+Pennsylvania,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-8,2020-06-26 00:00:00,2020-06-28 00:00:00,760,LV,,50.0,44.0
+Pennsylvania,Susquehanna,https://www.fox43.com/article/news/biden-leads-trump-by-five-points-in-fox43-susquehanna-polling-and-research-survey/521-3944bc02-f008-49d5-9318-76a5a5436611,2020-06-15 00:00:00,2020-06-23 00:00:00,715,LV,3.8,46.0,41.0
+Pennsylvania,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-states-of-play-battleground-wave-7,2020-06-12 00:00:00,2020-06-14 00:00:00,491,LV,,49.0,46.0
+Pennsylvania,NY Times/Siena,https://www.nytimes.com/2020/06/25/upshot/poll-2020-biden-battlegrounds.html,2020-06-08 00:00:00,2020-06-16 00:00:00,651,RV,4.2,50.0,40.0
+Pennsylvania,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-6,2020-05-29 00:00:00,2020-05-31 00:00:00,579,LV,,46.0,50.0
+Pennsylvania,Harper (R),http://www.harperpolling.com/docs/default-source/default-document-library/20-04-harper-polling-pa-statewide-results.pdf,2020-04-21 00:00:00,2020-04-26 00:00:00,644,LV,3.9,49.0,43.0
+Pennsylvania,FOX News,https://www.foxnews.com/politics/fox-news-poll-biden-tops-trump-in-michigan-where-gov-whitmer-is-more-popular-than-president,2020-04-18 00:00:00,2020-04-21 00:00:00,803,RV,3.5,50.0,42.0
+Pennsylvania,Susquehanna,https://www.fox43.com/article/news/fox43-poll-majority-approve-wolf-biden-leads-trump/521-f7d7fd42-1e39-43fd-864f-0ede71dfc711,2020-04-14 00:00:00,2020-04-20 00:00:00,693,LV,3.7,48.0,42.0
+Pennsylvania,Yahoo News/YouGov,https://news.yahoo.com/new-yahoo-news-you-gov-poll-shows-biden-crushing-sanders-in-michigan-and-other-battleground-states-ahead-of-tuesdays-primary-180347138.html,2020-03-06 00:00:00,2020-03-08 00:00:00,,RV,,46.0,40.0
+Pennsylvania,Morning Call,https://assets.documentcloud.org/documents/6786445/FULL-RESULTS-Morning-Call-Muhlenberg-College.pdf,2020-02-12 00:00:00,2020-02-20 00:00:00,424,RV,5.5,47.0,47.0
+Pennsylvania,Univ. of Wis/YouGov,https://news.wisc.edu/battleground-state-poll-1/,2020-02-11 00:00:00,2020-02-20 00:00:00,1249,LV,3.5,46.0,45.0
+Pennsylvania,Quinnipiac,https://poll.qu.edu/2020-presidential-swing-state-polls/release-detail?ReleaseID=3656,2020-02-12 00:00:00,2020-02-18 00:00:00,845,RV,3.4,50.0,42.0
+Pennsylvania,Morning Call,https://www.muhlenberg.edu/media/contentassets/pdf/academics/polisci/PA_Pres_Nov_2019__Report_%20(1).pdf,2020-11-04 00:00:00,2020-11-09 00:00:00,410,RV,6.0,52.0,43.0
+Pennsylvania,NY Times/Siena,https://github.com/ndcohn/battleground-poll-2019/blob/master/PA110419%20Crosstabs.pdf,2020-10-13 00:00:00,2020-10-26 00:00:00,661,LV,4.4,46.0,45.0
+Pennsylvania,Quinnipiac,https://poll.qu.edu/pennsylvania/release-detail?ReleaseID=2620,2020-05-09 00:00:00,2020-05-14 00:00:00,978,RV,4.2,53.0,42.0
+Pennsylvania,Emerson,https://emersonpolling.reportablenews.com/pr/pennsylvania-2020-biden-leads-democratic-field-in-pennsylvania-biden-and-sanders-lead-trump-by-10-points-in-general-election,2020-03-26 00:00:00,2020-03-28 00:00:00,808,RV,3.4,55.0,45.0
+Montana,Emerson,https://emersonpolling.reportablenews.com/pr/montana-2020-republicans-hold-advantages-in-presidential-us-senate-and-governor-races,2020-10-05 00:00:00,2020-10-07 00:00:00,500,LV,4.3,43.0,56.0
+Montana,NY Times/Siena*,https://int.nyt.com/data/documenttools/mt-crosstabs/4da3e297acefb561/full.pdf,2020-09-14 00:00:00,2020-09-16 00:00:00,625,LV,4.8,42.0,49.0
+Montana,Emerson,https://emersonpolling.reportablenews.com/pr/montana-2020-trump-holds-strong-as-biden-coalesces-support,2020-07-31 00:00:00,2020-08-02 00:00:00,584,LV,4.0,42.0,53.0
+Montana,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2020/07/MontanaPoll071220.pdf,2020-07-09 00:00:00,2020-07-10 00:00:00,1224,RV,2.8,42.0,51.0
+Oregon,DHM Research,https://www.dhmresearch.com/joe-biden-leads-by-12-points-among-oregon-voters-worry-about-covid-19-spread-remains-high/,2020-09-03 00:00:00,2020-09-08 00:00:00,502,LV,4.4,51.0,39.0
+Utah,Y2 Analytics,https://www.sltrib.com/news/politics/2020/10/05/new-utah-poll-has-trump/,2020-09-26 00:00:00,2020-10-04 00:00:00,1214,LV,2.8,40.0,50.0
+Utah,Deseret News/Hinckley Inst.*,https://www.deseret.com/utah/2020/9/16/21439705/poll-are-you-better-off-than-you-were-4-years-ago-what-about-the-country-trump-biden-race,2020-09-07 00:00:00,2020-09-12 00:00:00,1000,LV,3.1,35.0,53.0
+Utah,Deseret News/Hinckley Inst.*,https://www.deseret.com/utah/2020/8/6/21357209/donald-trump-holding-onto-lead-over-joe-biden-in-utah-deseret-news-hinckley-institute-poll,2020-07-27 00:00:00,2020-08-01 00:00:00,1000,RV,3.1,31.0,50.0
+Utah,KUTV-2/Y2 Analytics*,https://www.utpoliticaltrends.com/thedeeperstate/the-importance-of-weighting,2020-05-09 00:00:00,2020-05-15 00:00:00,1078,LV,3.0,40.0,46.0
+Utah,Deseret News/Hinckley Inst.*,https://www.deseret.com/utah/2020/4/28/21240213/donald-trump-joe-biden-utah-leads-poll-new-utahns-vote-2020-presidential-election-president-race,2020-04-15 00:00:00,2020-04-21 00:00:00,964,RV,3.2,32.0,51.0
+Utah,KUTV-2/Y2 Analytics*,https://kutv.com/news/election/poll-trump-leads-biden-by-just-5-points-in-utah,2020-03-21 00:00:00,2020-03-30 00:00:00,1331,LV,2.8,41.0,46.0
+Utah,Deseret News/Hinckley Inst.*,https://www.deseret.com/utah/2020/3/4/21164798/donald-trump-joe-biden-bernie-sanders-election-president-democratic-poll-deseret-news-super-tuesday,2020-02-24 00:00:00,2020-03-01 00:00:00,1000,RV,3.1,33.0,50.0
+Utah,Deseret News/Hinckley Inst.*,https://www.deseret.com/utah/2020/1/29/21112311/hillary-clinton-poll-president-donald-trump-impeachment-joe-biden-better-worse,2020-01-15 00:00:00,2020-01-22 00:00:00,1017,RV,3.1,31.0,49.0
+Michigan,Emerson,https://emersonpolling.reportablenews.com/pr/michigan-2020-democrats-hold-10-point-leads-in-presidential-and-us-senate-races,2020-10-06 00:00:00,2020-10-07 00:00:00,716,LV,3.6,52.0,42.0
+Michigan,CNBC/Change Research (D),https://www.cnbc.com/2020/10/06/2020-election-polls-biden-leads-trump-after-debate-coronavirus-diagnosis.html,2020-10-02 00:00:00,2020-10-04 00:00:00,,LV,,51.0,43.0
+Michigan,Reuters/Ipsos,https://www.reuters.com/article/us-usa-election-battlegrounds-poll/reuters-ipsos-poll-shows-biden-widening-lead-over-trump-in-michigan-tied-in-north-carolina-idUSKBN26R3ED,2020-09-29 00:00:00,2020-10-06 00:00:00,709,LV,4.0,51.0,43.0
+Michigan,Detroit News/WDIV-TV,https://www.clickondetroit.com/decision-2020/2020/10/06/poll-biden-bolsters-lead-over-trump-in-michigan-after-first-debate/,2020-09-30 00:00:00,2020-10-03 00:00:00,600,LV,4.0,48.0,39.0
+Michigan,Trafalgar Group (R)*,https://www.thetrafalgargroup.org/news/mi-pres-0920/,2020-09-20 00:00:00,2020-09-22 00:00:00,1015,LV,3.0,46.0,47.0
+Michigan,NBC News/Marist,http://maristpoll.marist.edu/wp-content/uploads/2020/09/NBC-News_Marist-Poll_MI-Likely-Voters_NOS-and-Tables_202009251227.pdf,2020-09-19 00:00:00,2020-09-22 00:00:00,799,LV,4.3,52.0,44.0
+Michigan,CNBC/Change Research (D),https://changeresearch.com/post/states-of-play-battleground-wave-14/,2020-09-18 00:00:00,2020-09-20 00:00:00,568,LV,,51.0,43.0
+Michigan,MRG,https://www.realclearpolitics.com/docs/2020/MRG_Michigan_September_2020.pdf,2020-09-14 00:00:00,2020-09-19 00:00:00,600,LV,4.0,46.0,41.0
+Michigan,Univ. of Wis/YouGov,https://madison.com/news/local/govt-and-politics/new-poll-finds-big-gulf-on-top-issues-between-biden-trump-voters-in-battleground-states/article_e6b561d5-c142-535e-8354-139805638fb6.html,2020-09-10 00:00:00,2020-09-21 00:00:00,641,LV,,51.0,45.0
+Michigan,Reuters/Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/topline_reuters_michigan_state_poll_w1_09_22_2020.pdf,2020-09-11 00:00:00,2020-09-16 00:00:00,637,LV,4.4,49.0,44.0
+Michigan,EPIC-MRA,https://www.woodtv.com/wp-content/uploads/sites/51/2020/09/September-Statewide-EPIC-MRA-poll-091820.pdf,2020-09-10 00:00:00,2020-09-15 00:00:00,600,LV,4.0,48.0,40.0
+Michigan,CNBC/Change Research (D),https://www.cnbc.com/2020/09/09/2020-election-polls-trump-leads-biden-in-az-fl-mi-nc-pa-and-wi.html,2020-09-04 00:00:00,2020-09-06 00:00:00,,LV,,49.0,43.0
+Michigan,Rasmussen Reports,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/michigan_biden_51_trump_43,2020-09-02 00:00:00,2020-09-03 00:00:00,1000,LV,3.0,51.0,43.0
+Michigan,Detroit News/WDIV-TV,https://www.detroitnews.com/story/news/politics/2020/09/08/poll-biden-lead-michigan-narrows-but-trumps-support-flat/5745071002/,2020-09-01 00:00:00,2020-09-03 00:00:00,600,LV,4.0,47.0,42.0
+Michigan,CNBC/Change Research (D),https://changeresearch.com/wp-content/uploads/2020/08/CNBC-CR_Battleground-Toplines_Wave-12_August-21-23-Wave-12_-8_21-8_23.pdf,2020-08-21 00:00:00,2020-08-23 00:00:00,809,LV,,50.0,44.0
+Michigan,Trafalgar Group (R),https://www.thetrafalgargroup.org/news/mi-pres-0820/,2020-08-14 00:00:00,2020-08-23 00:00:00,1048,LV,3.0,45.0,47.0
+Michigan,CNBC/Change Research (D),https://9b1b5e59-cb8d-4d7b-8493-111f8aa90329.usrfiles.com/ugd/9b1b5e_41d9f1b0245c4c138aa26d496625d005.pdf,2020-08-07 00:00:00,2020-08-09 00:00:00,413,LV,,48.0,43.0
+Michigan,Univ. of Wis/YouGov,https://drive.google.com/file/d/1fqH-jLCyrO5lZ6Mugvj_77fXDc9aVHtc/view,2020-07-26 00:00:00,2020-08-06 00:00:00,761,RV,5.1,47.0,43.0
+Michigan,EPIC-MRA*,https://www.woodtv.com/wp-content/uploads/sites/51/2020/08/JULY-2020_EPIC-MRA-SURVEY.pdf,2020-07-25 00:00:00,2020-07-30 00:00:00,600,LV,4.0,51.0,40.0
+Michigan,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-10,2020-07-24 00:00:00,2020-07-26 00:00:00,382,LV,,46.0,42.0
+Michigan,CBS News/YouGov,https://drive.google.com/file/d/1Ohx4niA_F_s-Lrn9Dsr79Gu4kwhX8x6U/view,2020-07-21 00:00:00,2020-07-24 00:00:00,1156,LV,3.4,48.0,42.0
+Michigan,Gravis,https://www.gravismarketing.com/michigan-poll-results/,2020-07-22 00:00:00,2020-07-22 00:00:00,754,RV,3.6,51.0,42.0
+Michigan,CNN,https://cdn.cnn.com/cnn/2020/images/07/26/rel1_mi.pdf,2020-07-18 00:00:00,2020-07-24 00:00:00,927,RV,3.8,52.0,40.0
+Michigan,FOX News,https://static.foxnews.com/foxnews.com/content/uploads/2020/07/Fox_July-18-20-2020_Complete_Michigan_Topline_July-23-Release.pdf,2020-07-18 00:00:00,2020-07-20 00:00:00,756,RV,3.5,49.0,40.0
+Michigan,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-9,2020-07-10 00:00:00,2020-07-12 00:00:00,824,LV,,48.0,42.0
+Michigan,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-8,2020-06-26 00:00:00,2020-06-28 00:00:00,699,LV,,48.0,43.0
+Michigan,Trafalgar Group (R),https://drive.google.com/file/d/1F4fied1xg_S7mIBdgHQHC1t98cYys2ez/view,2020-06-16 00:00:00,2020-06-18 00:00:00,1101,LV,3.0,46.0,45.0
+Michigan,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-states-of-play-battleground-wave-7,2020-06-12 00:00:00,2020-06-14 00:00:00,353,LV,,47.0,45.0
+Michigan,NY Times/Siena,https://www.nytimes.com/2020/06/25/upshot/poll-2020-biden-battlegrounds.html,2020-06-08 00:00:00,2020-06-17 00:00:00,610,RV,4.3,47.0,36.0
+Michigan,TIPP,https://www.realclearpolitics.com/docs/2020/TIPP_MI_Crosstabs_June_2020.pdf,2020-06-09 00:00:00,2020-06-12 00:00:00,859,LV,,51.0,38.0
+Michigan,EPIC-MRA,https://www.freep.com/story/news/politics/elections/2020/06/16/michigan-poll-biden-trump/3190077001/,2020-05-31 00:00:00,2020-06-04 00:00:00,600,LV,4.0,55.0,39.0
+Michigan,EPIC-MRA,https://www.freep.com/story/news/politics/elections/2020/06/07/michigan-poll-biden-leading-trump-12-points/3153501001/,2020-05-30 00:00:00,2020-06-03 00:00:00,600,LV,4.0,53.0,41.0
+Michigan,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-6,2020-05-29 00:00:00,2020-05-31 00:00:00,620,LV,,48.0,46.0
+Michigan,Change Research (D),https://www.changeresearch.com/post/pollercoaster-2020-michigan-voters-on-covid-and-trump-biden,2020-05-11 00:00:00,2020-05-17 00:00:00,3070,LV,1.9,49.0,46.0
+Michigan,FOX News,https://www.foxnews.com/politics/fox-news-poll-biden-tops-trump-in-michigan-where-gov-whitmer-is-more-popular-than-president,2020-04-18 00:00:00,2020-04-21 00:00:00,801,RV,3.5,49.0,41.0
+Michigan,MRG,https://www.mrgmi.com/2020/03/25/ballot-test-race-for-the-white-house-within-the-margin-of-error-with-biden-on-top/,2020-03-16 00:00:00,2020-03-20 00:00:00,600,LV,4.0,44.0,41.0
+Michigan,Yahoo News/YouGov,https://news.yahoo.com/new-yahoo-news-you-gov-poll-shows-biden-crushing-sanders-in-michigan-and-other-battleground-states-ahead-of-tuesdays-primary-180347138.html,2020-03-06 00:00:00,2020-03-08 00:00:00,,RV,,45.0,41.0
+Michigan,Monmouth,https://www.monmouth.edu/polling-institute/reports/monmouthpoll_MI_030920/,2020-03-05 00:00:00,2020-03-08 00:00:00,977,RV,3.1,48.0,41.0
+Michigan,Univ. of Wis/YouGov,https://news.wisc.edu/battleground-state-poll-1/,2020-02-11 00:00:00,2020-02-20 00:00:00,1249,LV,3.0,47.0,43.0
+Michigan,Quinnipiac,https://poll.qu.edu/2020-presidential-swing-state-polls/release-detail?ReleaseID=3656,2020-02-12 00:00:00,2020-02-18 00:00:00,845,RV,3.4,47.0,43.0
+Michigan,EPIC-MRA,https://www.freep.com/story/news/politics/elections/2020/01/15/mike-bloomberg-other-democrats-lead-donald-trump-michigan-poll/4469175002/,2020-01-09 00:00:00,2020-01-12 00:00:00,600,LV,4.0,50.0,44.0
+Michigan,Detroit News/WDIV-TV,https://www.detroitnews.com/story/news/politics/2020/01/09/biden-bloomberg-have-largest-leads-against-trump-michigan-poll/2846700001/,2020-01-03 00:00:00,2020-01-07 00:00:00,600,LV,4.0,50.0,43.0
+Michigan,Emerson,https://emersonpolling.reportablenews.com/pr/michigan-2020-democrats-aim-to-take-back-the-state,2020-10-31 00:00:00,2020-11-03 00:00:00,1051,RV,3.0,56.0,44.0
+Michigan,NY Times/Siena,https://github.com/ndcohn/battleground-poll-2019/blob/master/MI110419%20Crosstabs.pdf,2020-10-13 00:00:00,2020-10-25 00:00:00,501,LV,5.1,45.0,44.0
+Michigan,EPIC-MRA,https://www.woodtv.com/news/elections/mi-poll-dems-top-trump-but-undecideds-could-tip-scale/,2020-08-17 00:00:00,2020-08-21 00:00:00,600,LV,4.0,51.0,41.0
+Michigan,EPIC-MRA,https://www.freep.com/story/news/local/michigan/2019/06/14/donald-trump-behind-joe-biden-michigan-poll/1446377001/,2020-06-08 00:00:00,2020-06-12 00:00:00,600,LV,4.0,52.0,41.0
+Michigan,Detroit News/WDIV-TV,https://www.detroitnews.com/story/news/politics/2019/06/05/biden-sanders-democrats-lead-trump-michigan-poll/1330277001/,2020-05-28 00:00:00,2020-05-30 00:00:00,600,LV,4.0,53.0,41.0
+Michigan,Emerson,https://emersonpolling.reportablenews.com/pr/michigan-2020-primary-biden-with-strong-lead-but-sanders-waiting-in-the-wings,2020-03-07 00:00:00,2020-03-10 00:00:00,743,RV,3.5,54.0,46.0
+Michigan,Detroit News/WDIV-TV,https://www.clickondetroit.com/michigan-politics/wdivdetroit-news-poll-trump-faces-uphill-re-election-battle-in-michigan,2020-01-24 00:00:00,2020-01-26 00:00:00,600,LV,4.0,53.0,40.0
+Michigan,EPIC-MRA,https://ssl2002.webhosting.comcast.net/epic-mra/press/Stwd_Survey_Apr2018_Media_Freq.pdf,2020-04-28 00:00:00,2020-04-30 00:00:00,600,RV,4.0,52.0,39.0
+New York,Siena*,https://files.constantcontact.com/9c83fb30501/a5a33ee6-4149-4124-9959-f7b0dbaf4514.pdf,2020-09-27 00:00:00,2020-09-29 00:00:00,504,LV,4.4,61.0,29.0
+New York,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2020/08/NewYorkAugust2020Results.pdf,2020-08-21 00:00:00,2020-08-22 00:00:00,1029,RV,3.1,63.0,32.0
+New York,Siena,https://scri.siena.edu/wp-content/uploads/2020/06/SNY0620-Crosstabs_642642.pdf,2020-06-23 00:00:00,2020-06-25 00:00:00,806,RV,3.9,57.0,32.0
+New York,Siena,https://scri.siena.edu/wp-content/uploads/2020/05/SNY0520-Crosstabs052720.pdf,2020-05-17 00:00:00,2020-05-21 00:00:00,796,RV,3.7,57.0,32.0
+New York,Quinnipiac,https://poll.qu.edu/images/polling/ct/tri05062020_bgfz62.pdf,2020-04-30 00:00:00,2020-05-04 00:00:00,915,RV,3.2,55.0,32.0
+New York,Siena,https://scri.siena.edu/wp-content/uploads/2020/04/SNY0420-Crosstabs.pdf,2020-04-19 00:00:00,2020-04-23 00:00:00,803,RV,3.7,65.0,29.0
+New York,Siena,https://scri.siena.edu/wp-content/uploads/2020/03/SNY0320-Crosstabs.pdf,2020-03-22 00:00:00,2020-03-26 00:00:00,566,RV,4.5,58.0,33.0
+New York,Siena,https://scri.siena.edu/wp-content/uploads/2020/02/SNY0220-Crosstabs-1.pdf,2020-02-16 00:00:00,2020-02-20 00:00:00,658,RV,4.5,55.0,36.0
+North Carolina,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2020/10/NorthCarolinaResultsOctober2020.pdf,2020-10-04 00:00:00,2020-10-05 00:00:00,911,LV,3.3,50.0,46.0
+North Carolina,East Carolina U.,https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-of-likely-voters-in-north-carolina-biden-leads-trump-by-four-points-tillis-leads-cunningham-by-one-cooper-leads-forest-by-thirteen-points-other-statewide-races-competitive,2020-10-02 00:00:00,2020-10-04 00:00:00,1232,LV,3.2,50.0,46.0
+North Carolina,CNBC/Change Research (D),https://www.cnbc.com/2020/10/06/2020-election-polls-biden-leads-trump-after-debate-coronavirus-diagnosis.html,2020-10-02 00:00:00,2020-10-04 00:00:00,,LV,,49.0,47.0
+North Carolina,Reuters/Ipsos,https://www.reuters.com/article/us-usa-election-battlegrounds-poll/reuters-ipsos-poll-shows-biden-widening-lead-over-trump-in-michigan-tied-in-north-carolina-idUSKBN26R3ED,2020-09-29 00:00:00,2020-10-06 00:00:00,693,LV,4.0,47.0,47.0
+North Carolina,CBS News/YouGov,https://drive.google.com/file/d/1otTCxbc9Bni2tWcuBG0ZX7TnIUmnxhdm/view,2020-09-22 00:00:00,2020-09-25 00:00:00,1194,LV,3.6,48.0,46.0
+North Carolina,UMass Lowell,https://www.uml.edu/docs/2020-NC-Sept-Topline_tcm18-330590.pdf,2020-09-18 00:00:00,2020-09-25 00:00:00,921,LV,4.1,48.0,49.0
+North Carolina,CNBC/Change Research (D),https://changeresearch.com/post/states-of-play-battleground-wave-14/,2020-09-18 00:00:00,2020-09-20 00:00:00,579,LV,,48.0,46.0
+North Carolina,Civitas/Harper (R)*,https://www.nccivitas.org/polling/trump-biden-dead-heat/,2020-09-17 00:00:00,2020-09-20 00:00:00,612,LV,4.0,44.0,45.0
+North Carolina,Emerson,https://emersonpolling.reportablenews.com/pr/north-carolina-2020-biden-and-trump-in-dead-heat,2020-09-16 00:00:00,2020-09-18 00:00:00,717,LV,3.6,50.0,49.0
+North Carolina,Reuters/Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/topline_reuters_michigan_state_poll_w1_09_22_2020.pdf,2020-09-11 00:00:00,2020-09-16 00:00:00,586,LV,4.6,47.0,47.0
+North Carolina,NY Times/Siena*,https://int.nyt.com/data/documenttools/az-me-nc-0920-crosstabs/72d074246b272695/full.pdf,2020-09-11 00:00:00,2020-09-16 00:00:00,653,LV,4.3,45.0,44.0
+North Carolina,USA Today/Suffolk*,https://www.suffolk.edu/academics/research-at-suffolk/political-research-center/polls/other-states,2020-09-11 00:00:00,2020-09-14 00:00:00,500,LV,4.4,46.0,43.0
+North Carolina,WRAL-TV/SurveyUSA,https://wwwcache.wral.com/asset/news/state/nccapitol/2020/09/14/19286159/PollPrint-DMID1-5o6uj4sqc.pdf,2020-09-10 00:00:00,2020-09-13 00:00:00,596,LV,5.6,47.0,47.0
+North Carolina,CNN*,http://cdn.cnn.com/cnn/2020/images/09/15/rel1_nc.pdf,2020-09-09 00:00:00,2020-09-13 00:00:00,787,LV,4.4,49.0,46.0
+North Carolina,Trafalgar Group (R)*,https://www.thetrafalgargroup.org/news/nc-pres-0920/,2020-09-09 00:00:00,2020-09-11 00:00:00,1046,LV,3.0,46.0,48.0
+North Carolina,Rasmussen Reports,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/north_carolina_trump_48_biden_46,2020-09-07 00:00:00,2020-09-08 00:00:00,1000,LV,3.0,46.0,48.0
+North Carolina,CNBC/Change Research (D),https://www.cnbc.com/2020/09/09/2020-election-polls-trump-leads-biden-in-az-fl-mi-nc-pa-and-wi.html,2020-09-04 00:00:00,2020-09-06 00:00:00,,LV,,49.0,47.0
+North Carolina,Monmouth*,https://www.monmouth.edu/polling-institute/reports/monmouthpoll_NC_090320/,2020-08-29 00:00:00,2020-09-01 00:00:00,401,,4.9,48.0,46.0
+North Carolina,FOX News*,https://static.foxnews.com/foxnews.com/content/uploads/2020/09/North-Carolina.pdf,2020-08-29 00:00:00,2020-09-01 00:00:00,722,LV,3.5,50.0,46.0
+North Carolina,East Carolina U.,https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-of-likely-voters-in-north-carolina-trump-leads-biden-by-two-points-tillis-and-cunningham-tied-cooper-leads-forest-by-ten-points-other-statewide-races-competitive,2020-08-29 00:00:00,2020-08-30 00:00:00,1101,LV,3.4,47.0,49.0
+North Carolina,CNBC/Change Research (D),https://changeresearch.com/wp-content/uploads/2020/08/CNBC-CR_Battleground-Toplines_Wave-12_August-21-23-Wave-12_-8_21-8_23.pdf,2020-08-21 00:00:00,2020-08-23 00:00:00,560,LV,,48.0,47.0
+North Carolina,East Carolina U.,https://surveyresearch-ecu.reportablenews.com/pr/latest-ecu-poll-shows-trump-and-biden-tied-in-north-carolina-democrats-leading-in-contests-for-governor-and-u-s-senate-kamala-harris-selection-draws-mixed-reaction,2020-08-12 00:00:00,2020-08-13 00:00:00,1255,RV,3.2,47.0,47.0
+North Carolina,Emerson,https://emersonpolling.reportablenews.com/pr/north-carolina-pennsylvania-and-arizona-2020-tight-races-in-battleground-states-leading-into-party-conventions,2020-08-08 00:00:00,2020-08-10 00:00:00,673,LV,3.8,46.0,48.0
+North Carolina,CNBC/Change Research (D),https://9b1b5e59-cb8d-4d7b-8493-111f8aa90329.usrfiles.com/ugd/9b1b5e_41d9f1b0245c4c138aa26d496625d005.pdf,2020-08-07 00:00:00,2020-08-09 00:00:00,491,LV,,47.0,48.0
+North Carolina,Civitas/Harper (R)*,https://www.nccivitas.org/polling/biden-cunningham-slim-leads/,2020-08-06 00:00:00,2020-08-10 00:00:00,600,LV,4.0,45.0,44.0
+North Carolina,Rasmussen Reports,https://amgreatness.com/2020/08/10/trump-beating-biden-in-north-carolina-per-new-cag-rasmussen-poll/,2020-08-06 00:00:00,2020-08-07 00:00:00,750,LV,4.0,47.0,48.0
+North Carolina,CBS News/YouGov,https://drive.google.com/file/d/1jDu_IMRdUTbdmA-VfpP-neMT3-lYw969/view,2020-07-28 00:00:00,2020-07-31 00:00:00,1129,LV,3.9,48.0,44.0
+North Carolina,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-10,2020-07-24 00:00:00,2020-07-26 00:00:00,284,LV,,49.0,46.0
+North Carolina,NBC News/Marist,https://assets.documentcloud.org/documents/7007170/NBC-News-Marist-Poll-NC-Annotated-Questionnaire.pdf,2020-07-14 00:00:00,2020-07-22 00:00:00,882,RV,4.0,51.0,44.0
+North Carolina,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-9,2020-07-10 00:00:00,2020-07-12 00:00:00,655,LV,,47.0,46.0
+North Carolina,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2020/07/NorthCarolinaResults7920.pdf,2020-07-07 00:00:00,2020-07-08 00:00:00,881,RV,3.4,50.0,46.0
+North Carolina,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-8,2020-06-26 00:00:00,2020-06-28 00:00:00,597,LV,3.9,51.0,44.0
+North Carolina,East Carolina U.,https://surveyresearch-ecu.reportablenews.com/pr/presidential-and-senate-elections-remain-highly-competitive-in-battleground-north-carolina-cooper-continues-to-lead-forest-in-race-for-governor,2020-06-22 00:00:00,2020-06-25 00:00:00,1149,RV,3.4,45.0,44.0
+North Carolina,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2020/06/NC62420Results.pdf,2020-06-22 00:00:00,2020-06-23 00:00:00,1230,RV,2.9,48.0,46.0
+North Carolina,FOX News,https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Fox_June-20-23-2020_Complete_North-Carolina_Topline_June-25-Release.pdf,2020-06-20 00:00:00,2020-06-23 00:00:00,1012,RV,3.0,47.0,45.0
+North Carolina,Gravis,https://www.realclearpolitics.com/docs/2020/North_Carolina_OAN_Gravis_June_2020.pdf,2020-06-17 00:00:00,2020-06-17 00:00:00,631,RV,3.9,43.0,46.0
+North Carolina,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-states-of-play-battleground-wave-7,2020-06-12 00:00:00,2020-06-14 00:00:00,378,LV,,47.0,45.0
+North Carolina,NY Times/Siena,https://www.nytimes.com/2020/06/25/upshot/poll-2020-biden-battlegrounds.html,2020-06-08 00:00:00,2020-06-18 00:00:00,653,RV,4.1,49.0,40.0
+North Carolina,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2020/06/NCResultsJune2020.pdf,2020-06-02 00:00:00,2020-06-03 00:00:00,949,RV,3.2,49.0,45.0
+North Carolina,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-6,2020-05-29 00:00:00,2020-05-31 00:00:00,806,LV,,46.0,45.0
+North Carolina,Civitas/Harper (R),https://www.nccivitas.org/2020/gov-roy-coopers-job-approval-takes-dip-president-trumps-job-disapproval-climbs/,2020-05-26 00:00:00,2020-05-28 00:00:00,500,LV,4.4,44.0,47.0
+North Carolina,East Carolina U.,https://surveyresearch-ecu.reportablenews.com/pr/presidential-and-senate-races-remain-close-in-north-carolina-cooper-leads-forest-and-earns-high-approval-for-state-s-coronavirus-response,2020-05-07 00:00:00,2020-05-09 00:00:00,1111,RV,3.4,43.0,46.0
+North Carolina,WRAL-TV/SurveyUSA,https://www.wral.com/coronavirus/wral-poll-pandemic-becoming-factor-in-fall-elections/19075477/,2020-04-23 00:00:00,2020-04-26 00:00:00,580,LV,5.5,50.0,45.0
+North Carolina,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2020/04/NCResultsApril2020.pdf,2020-04-14 00:00:00,2020-04-15 00:00:00,1318,RV,2.7,48.0,47.0
+North Carolina,Civitas/Harper (R),https://www.nccivitas.org/polling/headed-status-quo-election/,2020-04-05 00:00:00,2020-04-07 00:00:00,500,LV,4.4,42.0,49.0
+North Carolina,East Carolina U.,https://surveyresearch-ecu.reportablenews.com/pr/biden-and-sanders-in-close-race-in-north-carolina-presidential-primary-potential-general-election-matchups-competitive,2020-02-27 00:00:00,2020-02-28 00:00:00,1288,RV,3.2,48.0,46.0
+North Carolina,NBC News/Marist,http://maristpoll.marist.edu/wp-content/uploads/2020/02/NBC-News_Marist-Poll-NC-NOS-and-Tables_2002281453.pdf,2020-02-23 00:00:00,2020-02-27 00:00:00,1733,RV,2.9,49.0,45.0
+North Carolina,WRAL-TV/SurveyUSA,http://www.surveyusa.com/client/PollReport.aspx?g=c1f1548c-ce9c-4435-87d0-3c70e8348c9a,2020-02-13 00:00:00,2020-02-16 00:00:00,2366,RV,2.5,49.0,45.0
+North Carolina,FOX News,https://www.foxnews.com/politics/fox-news-poll-close-races-between-trump-and-democrats-in-north-carolina,2020-11-10 00:00:00,2020-11-13 00:00:00,1504,RV,2.5,45.0,43.0
+North Carolina,NY Times/Siena,https://github.com/ndcohn/battleground-poll-2019/blob/master/NC110419%20Crosstabs.pdf,2020-10-13 00:00:00,2020-10-26 00:00:00,651,LV,4.4,46.0,48.0
+North Carolina,East Carolina U.,https://surveyresearch.ecu.edu/wp-content/pv-uploads/sites/1566/2018/06/ECU_Poll_Report_Impeachment_Election_October_2019.pdf,2020-10-02 00:00:00,2020-10-09 00:00:00,1076,RV,3.0,50.0,46.0
+North Carolina,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2019/10/PPP_Release_NC_100919.pdf,2020-10-04 00:00:00,2020-10-06 00:00:00,963,RV,3.2,51.0,46.0
+North Carolina,Civitas/SurveyUSA,http://www.surveyusa.com/client/PollReport.aspx?g=29ae3168-9e12-474f-a207-f9a662509d55,2020-08-01 00:00:00,2020-08-05 00:00:00,2113,RV,2.7,49.0,41.0
+North Carolina,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2019/06/PPP_Release_NC_62019.pdf,2020-06-17 00:00:00,2020-06-18 00:00:00,610,RV,4.0,49.0,46.0
+North Carolina,Emerson,https://emersonpolling.reportablenews.com/pr/north-carolina-2020-biden-with-early-lead-on-trump-and-democratic-primary-field,2020-05-31 00:00:00,2020-06-03 00:00:00,932,RV,3.1,56.0,44.0
+North Carolina,Civitas/Harper (R),https://gallery.mailchimp.com/259a50ef0a1608ab2bc2cf891/files/5d7077ad-cc75-4b73-a403-1eb607dc7a1b/Election2020_2.19_XTabs.pdf?utm_source=Contacts&utm_campaign=4c13b6213d-EMAIL_CAMPAIGN_2018_02_09_COPY_01&utm_medium=email&utm_term=0_7a6c958a22-4c13b6213d-429150105&mc_cid=4c13b6213d&mc_eid=30a8aa38d9,2020-02-11 00:00:00,2020-02-13 00:00:00,500,LV,4.4,39.0,43.0
+North Carolina,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2019/01/PPP_Release_NC_10919.pdf,2020-01-04 00:00:00,2020-01-07 00:00:00,750,RV,3.6,49.0,44.0
+Alabama,Auburn Univ.,https://www.aum.edu/aum-poll-tommy-tuberville-leads-doug-jones-by-12-points-in-closing-weeks-of-alabama-senate-race/,2020-09-30 00:00:00,2020-10-03 00:00:00,1072,RV,4.0,37.0,57.0
+Alabama,AL Daily News/Mason-Dixon,https://www.aldailynews.com/new-alabama-poll-shows-tight-race-for-u-s-senate/,2020-02-04 00:00:00,2020-02-06 00:00:00,625,RV,4.0,38.0,58.0
+Florida,FOX 35/InsiderAdvantage*,https://www.fox35orlando.com/news/fox-35-exclusive-insideradvantage-poll-gives-trump-3-point-edge-over-biden-in-florida,2020-10-06 00:00:00,2020-10-07 00:00:00,400,LV,4.9,43.0,46.0
+Florida,Reuters/Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_florida_state_poll_w2_10_07_2020.pdf,2020-09-29 00:00:00,2020-10-07 00:00:00,678,LV,4.3,49.0,45.0
+Florida,CNBC/Change Research (D),https://www.cnbc.com/2020/10/06/2020-election-polls-biden-leads-trump-after-debate-coronavirus-diagnosis.html,2020-10-02 00:00:00,2020-10-04 00:00:00,,LV,,50.0,46.0
+Florida,Quinnipiac,https://poll.qu.edu/florida/release-detail?ReleaseID=3678,2020-10-01 00:00:00,2020-10-05 00:00:00,1256,LV,2.8,51.0,40.0
+Florida,USA Today/Suffolk*,https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2020/10_6_2020_marginals_pdftxt.pdf?la=en&hash=947AE66560F84E40184B280F9636A8B37F90CD3E,2020-10-01 00:00:00,2020-10-04 00:00:00,500,LV,4.4,45.0,45.0
+Florida,UNF,https://www.unf.edu/uploadedFiles/aa/coas/porl/UNF%20PORL%20Statewide%20October%20Press%20Release.pdf,2020-10-01 00:00:00,2020-10-04 00:00:00,3134,LV,1.8,51.0,45.0
+Florida,NY Times/Siena*,https://int.nyt.com/data/documenttools/flpa-0930-crosstabs/16c21b7ab34ed4d1/full.pdf,2020-09-30 00:00:00,2020-10-01 00:00:00,710,LV,4.2,47.0,42.0
+Florida,Susquehanna,https://amgreatness.com/2020/09/28/new-poll-biden-leads-trump-in-tight-florida-race-trump-ahead-with-hispanics/,2020-09-23 00:00:00,2020-09-26 00:00:00,500,LV,4.3,46.0,43.0
+Florida,St. Pete Polls,http://stpetepolls.org/files/StPetePolls_2020_State_President_September22_U5GDL.pdf,2020-09-21 00:00:00,2020-09-22 00:00:00,2906,LV,1.8,50.0,47.0
+Florida,CNBC/Change Research (D),https://changeresearch.com/post/states-of-play-battleground-wave-14/,2020-09-18 00:00:00,2020-09-20 00:00:00,702,LV,,49.0,46.0
+Florida,ABC News/Wash Post,https://www.langerresearch.com/wp-content/uploads/1216a22020StateBattlegrounds-FLAZ.pdf,2020-09-15 00:00:00,2020-09-20 00:00:00,613,LV,4.5,47.0,51.0
+Florida,CBS News/YouGov,https://drive.google.com/file/d/12KO6RXYt9519HgwvDB9SRlS5tqZ9OG8S/view,2020-09-15 00:00:00,2020-09-18 00:00:00,1205,LV,,48.0,46.0
+Florida,Reuters/Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/topline_reuters_florida_state_poll_w1_09_23_2020.pdf,2020-09-11 00:00:00,2020-09-16 00:00:00,586,LV,4.6,47.0,47.0
+Florida,Florida Atlantic University,https://business.fau.edu/news/economics/bepi/2020-09-15-trump-gains-on-biden-in-florida.php,2020-09-11 00:00:00,2020-09-12 00:00:00,631,RV,3.8,50.0,50.0
+Florida,Monmouth*,https://www.monmouth.edu/polling-institute/reports/monmouthpoll_FL_091520/,2020-09-10 00:00:00,2020-09-13 00:00:00,428,LV,4.7,50.0,45.0
+Florida,St. Pete Polls,http://stpetepolls.org/files/StPetePolls_2020_State_President_September8_O3DH1.pdf,2020-09-07 00:00:00,2020-09-08 00:00:00,2689,LV,1.9,50.0,47.0
+Florida,CNBC/Change Research (D),https://www.cnbc.com/2020/09/09/2020-election-polls-trump-leads-biden-in-az-fl-mi-nc-pa-and-wi.html,2020-09-04 00:00:00,2020-09-06 00:00:00,,LV,,49.0,46.0
+Florida,NBC News/Marist,https://www.nbcnews.com/news/amp/ncna1239510,2020-08-31 00:00:00,2020-09-06 00:00:00,766,LV,4.5,48.0,48.0
+Florida,Trafalgar Group (R)*,https://drive.google.com/file/d/1sO8P6BXoAAgz-FIHh44bxwVg_8rP43AQ/view,2020-09-01 00:00:00,2020-09-03 00:00:00,1022,LV,3.0,46.0,49.0
+Florida,Quinnipiac,https://poll.qu.edu/2020-presidential-swing-state-polls/release-detail?ReleaseID=3672,2020-08-28 00:00:00,2020-09-01 00:00:00,1235,LV,2.8,48.0,45.0
+Florida,CNBC/Change Research (D),https://changeresearch.com/wp-content/uploads/2020/08/CNBC-CR_Battleground-Toplines_Wave-12_August-21-23-Wave-12_-8_21-8_23.pdf,2020-08-21 00:00:00,2020-08-23 00:00:00,1262,LV,,49.0,46.0
+Florida,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2020/08/FloridaAugust2020Results.pdf,2020-08-21 00:00:00,2020-08-22 00:00:00,671,RV,3.8,48.0,44.0
+Florida,CNBC/Change Research (D),https://9b1b5e59-cb8d-4d7b-8493-111f8aa90329.usrfiles.com/ugd/9b1b5e_41d9f1b0245c4c138aa26d496625d005.pdf,2020-08-07 00:00:00,2020-08-09 00:00:00,469,LV,,50.0,44.0
+Florida,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-10,2020-07-24 00:00:00,2020-07-26 00:00:00,685,LV,,48.0,45.0
+Florida,Mason-Dixon,https://mason-dixon.com/2020-state-polling-1,2020-07-20 00:00:00,2020-07-23 00:00:00,625,RV,4.0,50.0,46.0
+Florida,CNN,https://cdn.cnn.com/cnn/2020/images/07/26/rel1_fl.pdf,2020-07-18 00:00:00,2020-07-24 00:00:00,880,RV,3.8,51.0,46.0
+Florida,Quinnipiac,https://poll.qu.edu/images/polling/fl/fl07232020_fwhb62.pdf,2020-07-16 00:00:00,2020-07-20 00:00:00,924,RV,3.2,51.0,38.0
+Florida,St. Pete Polls*,https://floridapolitics.com/archives/351214-poll-joe-biden-leads-in-florida-with-more-than-50-of-the-vote,2020-07-13 00:00:00,2020-07-14 00:00:00,3018,LV,1.8,50.0,44.0
+Florida,Gravis,https://www.scribd.com/document/469124461/Florida-July-13-2020,2020-07-13 00:00:00,2020-07-13 00:00:00,529,RV,4.3,53.0,43.0
+Florida,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-9,2020-07-10 00:00:00,2020-07-12 00:00:00,1128,LV,,50.0,43.0
+Florida,CBS News/YouGov,https://drive.google.com/file/d/1-C5RyFI1LE1weFlOqBTBW9IM-7poynst/view,2020-07-07 00:00:00,2020-07-10 00:00:00,1299,RV,3.5,48.0,42.0
+Florida,Trafalgar Group (R),https://www.thetrafalgargroup.org/news/fl-pres-0720/,2020-06-29 00:00:00,2020-07-02 00:00:00,1072,LV,2.9,46.0,46.0
+Florida,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-8,2020-06-26 00:00:00,2020-06-28 00:00:00,951,LV,,50.0,45.0
+Florida,FOX News,https://static.foxnews.com/foxnews.com/content/uploads/2020/06/Fox_June-20-23-2020_Complete_Florida_Topline_June-25-Release.pdf,2020-06-20 00:00:00,2020-06-23 00:00:00,1010,RV,3.0,49.0,40.0
+Florida,NY Times/Siena,https://www.nytimes.com/2020/06/25/upshot/poll-2020-biden-battlegrounds.html,2020-06-08 00:00:00,2020-06-18 00:00:00,651,RV,4.6,47.0,41.0
+Florida,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-states-of-play-battleground-wave-7,2020-06-12 00:00:00,2020-06-14 00:00:00,731,LV,,50.0,43.0
+Florida,TIPP,https://www.realclearpolitics.com/docs/2020/TIPP_FL_June_2020.pdf,2020-06-09 00:00:00,2020-06-12 00:00:00,875,LV,,51.0,40.0
+Florida,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-6,2020-05-29 00:00:00,2020-05-31 00:00:00,1186,LV,,48.0,45.0
+Florida,St. Pete Polls,http://stpetepolls.org/files/StPetePolls_2020_State_President-Gen_May27_M17DA.pdf,2020-05-26 00:00:00,2020-05-27 00:00:00,4763,RV,1.4,48.0,47.0
+Florida,Florida Atlantic University,https://business.fau.edu/departments/economics/business-economics-polling/bepi-polls/bepi-polls-2020/biden-leads-trump-in-florida.php,2020-05-08 00:00:00,2020-05-12 00:00:00,928,RV,3.1,53.0,47.0
+Florida,FOX News,https://www.foxnews.com/politics/fox-news-poll-biden-and-trump-in-tight-race-in-florida,2020-04-18 00:00:00,2020-04-21 00:00:00,1004,RV,3.0,46.0,43.0
+Florida,Quinnipiac,https://poll.qu.edu/images/polling/fl/fl04222020_fkhc64.pdf,2020-04-16 00:00:00,2020-04-20 00:00:00,1385,RV,2.6,46.0,42.0
+Florida,St. Pete Polls,http://stpetepolls.org/files/StPetePolls_2020_State_President_April17_G84JW.pdf,2020-04-16 00:00:00,2020-04-17 00:00:00,5659,RV,1.3,48.0,48.0
+Florida,UNF,https://www.unf.edu/uploadedFiles/aa/coas/porl/UNF%20PORL%20COVID-19%20Survey.pdf,2020-03-31 00:00:00,2020-04-04 00:00:00,3244,RV,1.7,46.0,40.0
+Florida,Univision,https://st1.uvnimg.com/11/92/701333304b6daa2b6b01e98571db/univisionpolling-march-florida-statewide-final.pdf,2020-03-06 00:00:00,2020-03-12 00:00:00,1071,LV,3.0,45.0,48.0
+Florida,Florida Atlantic University,https://business.fau.edu/departments/economics/business-economics-polling/bepi-polls/bepi-polls-2020/biden-way-ahead-in-sunshine-state.php,2020-03-05 00:00:00,2020-03-07 00:00:00,1216,RV,2.7,49.0,51.0
+Florida,UNF,https://www.unf.edu/uploadedFiles/aa/coas/porl/Feb20.2020.pdf,2020-02-10 00:00:00,2020-02-18 00:00:00,725,RV,3.6,49.0,48.0
+Florida,Florida Atlantic University,https://www.realclearpolitics.com/docs/2020/FAU_Florida_Jan_2020.pdf,2020-01-09 00:00:00,2020-01-12 00:00:00,1285,RV,2.6,51.0,49.0
+Florida,Mason-Dixon,https://www.realclearpolitics.com/docs/2019/Mason_Dixon_FL_December_2019.pdf,2020-12-11 00:00:00,2020-12-16 00:00:00,625,RV,4.0,47.0,45.0
+Florida,NY Times/Siena,https://github.com/ndcohn/battleground-poll-2019/blob/master/FL110419%20Crosstabs.pdf,2020-10-13 00:00:00,2020-10-26 00:00:00,650,LV,4.4,46.0,44.0
+Florida,UNF,https://www.unf.edu/coas/porl/Recent_Polls.aspx,2020-10-14 00:00:00,2020-10-18 00:00:00,644,RV,3.8,48.0,43.0
+Florida,Florida Atlantic University,https://business.fau.edu/departments/economics/business-economics-polling/bepi-polls/,2020-09-12 00:00:00,2020-09-15 00:00:00,934,RV,3.1,49.0,50.0
+Florida,St. Pete Polls,https://floridapolitics.com/archives/299121-biden-edges-trump-st-pete-polls,2020-06-15 00:00:00,2020-06-16 00:00:00,3095,LV,1.8,47.0,47.0
+Florida,Quinnipiac,https://poll.qu.edu/national/release-detail?ReleaseID=2629,2020-06-12 00:00:00,2020-06-17 00:00:00,1279,RV,3.3,50.0,41.0
+Florida,Florida Atlantic University,https://business.fau.edu/departments/economics/business-economics-polling/bepi-polls/bepi-polls-2019/florida-poll-finds-trump-popular-in-the-sunshine-state-while-biden-dominates-democratic-field.php,2020-05-16 00:00:00,2020-05-19 00:00:00,1007,RV,3.0,50.0,50.0
+Arizona,Trafalgar Group (R)*,https://www.thetrafalgargroup.org/news/az-pres-1020/,2020-10-06 00:00:00,2020-10-08 00:00:00,1087,LV,2.9,44.0,48.0
+Arizona,Reuters/Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_arizona_state_poll_w2_10_07_2020.pdf,2020-09-29 00:00:00,2020-10-07 00:00:00,633,LV,4.3,48.0,46.0
+Arizona,CNBC/Change Research (D),https://www.cnbc.com/2020/10/06/2020-election-polls-biden-leads-trump-after-debate-coronavirus-diagnosis.html,2020-10-02 00:00:00,2020-10-04 00:00:00,,LV,,51.0,45.0
+Arizona,NY Times/Siena*,https://int.nyt.com/data/documenttools/az100120-crosstabs/a77605c32cd8f31e/full.pdf,2020-10-01 00:00:00,2020-10-03 00:00:00,655,LV,4.2,49.0,41.0
+Arizona,USA Today/Suffolk*,https://www.azcentral.com/story/news/politics/elections/2020/10/02/joe-bidens-lead-over-donald-trump-holding-battleground-arizona/5880048002/,2020-09-26 00:00:00,2020-09-30 00:00:00,500,LV,4.4,50.0,46.0
+Arizona,Susquehanna,https://amgreatness.com/2020/09/29/trump-and-biden-tied-in-new-arizona-poll/,2020-09-25 00:00:00,2020-09-28 00:00:00,500,LV,4.3,47.0,47.0
+Arizona,CNBC/Change Research (D),https://changeresearch.com/post/states-of-play-battleground-wave-14/,2020-09-18 00:00:00,2020-09-20 00:00:00,262,LV,,49.0,43.0
+Arizona,ABC News/Wash Post,https://www.langerresearch.com/wp-content/uploads/1216a22020StateBattlegrounds-FLAZ.pdf,2020-09-15 00:00:00,2020-09-20 00:00:00,579,LV,4.5,48.0,49.0
+Arizona,Reuters/Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-09/topline_reuters_arizona_state_poll_w1_09_23_2020.pdf,2020-09-11 00:00:00,2020-09-17 00:00:00,565,LV,4.7,47.0,46.0
+Arizona,NY Times/Siena*,https://int.nyt.com/data/documenttools/az-me-nc-0920-crosstabs/72d074246b272695/full.pdf,2020-09-11 00:00:00,2020-09-16 00:00:00,653,LV,4.1,49.0,40.0
+Arizona,Monmouth*,https://www.monmouth.edu/polling-institute/reports/monmouthpoll_AZ_091720/,2020-09-11 00:00:00,2020-09-15 00:00:00,420,LV,4.8,48.0,46.0
+Arizona,Gravis,https://gravismarketing.com/wp-content/uploads/2020/09/Arizona-September-11-2020.pdf,2020-09-10 00:00:00,2020-09-11 00:00:00,684,LV,3.8,50.0,48.0
+Arizona,CBS News/YouGov,https://drive.google.com/file/d/1hr0WLAZhvP2k_BOL7sRwEifQgu2JAOTU/view,2020-09-09 00:00:00,2020-09-11 00:00:00,1106,LV,,47.0,44.0
+Arizona,OH Predictive Insights,https://f.hubspotusercontent40.net/hubfs/7453540/200908%20AZPOP/AZPOP%20Presidential%20Crosstabs.pdf,2020-09-08 00:00:00,2020-09-10 00:00:00,600,LV,4.0,52.0,42.0
+Arizona,CNBC/Change Research (D),https://www.cnbc.com/2020/09/09/2020-election-polls-trump-leads-biden-in-az-fl-mi-nc-pa-and-wi.html,2020-09-04 00:00:00,2020-09-06 00:00:00,,LV,,49.0,45.0
+Arizona,FOX News*,https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Arizona.pdf,2020-08-29 00:00:00,2020-09-01 00:00:00,772,LV,3.5,49.0,40.0
+Arizona,CNBC/Change Research (D),https://changeresearch.com/wp-content/uploads/2020/08/CNBC-CR_Battleground-Toplines_Wave-12_August-21-23-Wave-12_-8_21-8_23.pdf,2020-08-21 00:00:00,2020-08-23 00:00:00,344,LV,,49.0,47.0
+Arizona,Emerson,https://emersonpolling.reportablenews.com/pr/north-carolina-pennsylvania-and-arizona-2020-tight-races-in-battleground-states-leading-into-party-conventions,2020-08-08 00:00:00,2020-08-10 00:00:00,661,LV,3.8,49.0,45.0
+Arizona,CNBC/Change Research (D),https://9b1b5e59-cb8d-4d7b-8493-111f8aa90329.usrfiles.com/ugd/9b1b5e_41d9f1b0245c4c138aa26d496625d005.pdf,2020-08-07 00:00:00,2020-08-09 00:00:00,428,LV,,45.0,44.0
+Arizona,Trafalgar Group (R)*,https://www.thetrafalgargroup.org/news/az-pres-0820/,2020-08-05 00:00:00,2020-08-08 00:00:00,1013,LV,3.0,45.0,46.0
+Arizona,OH Predictive Insights,https://twitter.com/OHPredictive/status/1292823312297611267,2020-08-03 00:00:00,2020-08-04 00:00:00,603,LV,4.0,49.0,45.0
+Arizona,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-10,2020-07-24 00:00:00,2020-07-26 00:00:00,365,LV,,47.0,45.0
+Arizona,CNN,https://cdn.cnn.com/cnn/2020/images/07/26/rel1_az.pdf,2020-07-18 00:00:00,2020-07-24 00:00:00,873,RV,3.8,49.0,45.0
+Arizona,NBC News/Marist,http://maristpoll.marist.edu/wp-content/uploads/2020/07/NBC-News_Marist-Poll-AZ-NOS-and-Tables_202007231249.pdf,2020-07-14 00:00:00,2020-07-22 00:00:00,826,RV,4.1,50.0,45.0
+Arizona,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-9,2020-07-10 00:00:00,2020-07-12 00:00:00,345,LV,,51.0,45.0
+Arizona,CBS News/YouGov,https://drive.google.com/file/d/1NdvAi60uPh_3x7OMA1S_ZtFCMBB7y8X_/view,2020-07-07 00:00:00,2020-07-10 00:00:00,1099,RV,3.8,46.0,46.0
+Arizona,OH Predictive Insights,https://f.hubspotusercontent40.net/hubfs/7453540/200706_AZPOP/Arizona%20Public%20Opinion%20Pulse%20--%20Presidential%20Toplines.pdf,2020-07-06 00:00:00,2020-07-07 00:00:00,600,LV,4.0,49.0,44.0
+Arizona,Gravis,https://www.realclearpolitics.com/docs/2020/Gravis_Arizona_June_2020.pdf,2020-06-27 00:00:00,2020-06-27 00:00:00,527,LV,4.3,45.0,49.0
+Arizona,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-8,2020-06-26 00:00:00,2020-06-28 00:00:00,1119,LV,,51.0,44.0
+Arizona,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-states-of-play-battleground-wave-7,2020-06-12 00:00:00,2020-06-14 00:00:00,201,LV,,45.0,44.0
+Arizona,NY Times/Siena,https://www.nytimes.com/2020/06/25/upshot/poll-2020-biden-battlegrounds.html,2020-06-08 00:00:00,2020-06-16 00:00:00,650,RV,4.3,48.0,41.0
+Arizona,FOX News,https://static.foxnews.com/foxnews.com/content/uploads/2020/06/35199d36-Fox_May-30-June-2-2020_Complete_Arizona_Topline_June-3-Release.pdf,2020-05-30 00:00:00,2020-06-02 00:00:00,1002,RV,3.0,46.0,42.0
+Arizona,CNBC/Change Research (D),https://www.changeresearch.com/post/states-of-play-battleground-wave-6,2020-05-29 00:00:00,2020-05-31 00:00:00,329,LV,,44.0,45.0
+Arizona,OH Predictive Insights,https://cdn2.hubspot.net/hubfs/7453540/Arizona%20Public%20Opinion%20Pulse%20-%20Presidential.pdf,2020-05-09 00:00:00,2020-05-11 00:00:00,600,LV,4.0,50.0,43.0
+Arizona,OH Predictive Insights,https://ohpredictiveinsights.cmail19.com/t/ViewEmail/i/0639AAE631CB7AE22540EF23F30FEDED/5C93F9ED58F90D146A4D3D471B02C3D7,2020-04-07 00:00:00,2020-04-08 00:00:00,600,LV,4.0,52.0,43.0
+Arizona,NBC News/Marist,http://maristpoll.marist.edu/wp-content/uploads/2020/03/NBC-News_Marist-Poll_AZ-NOS-and-Tables_2003160825.pdf,2020-03-10 00:00:00,2020-03-15 00:00:00,2523,RV,2.7,47.0,46.0
+Arizona,Monmouth,https://www.monmouth.edu/polling-institute/reports/monmouthpoll_AZ_031620/,2020-03-11 00:00:00,2020-03-14 00:00:00,847,RV,3.4,46.0,43.0
+Arizona,Univision/ASU,https://st1.uvnimg.com/07/2e/d0d9a91c4000996d8bcc95b85319/univisionpolling-march-arizona.pdf,2020-03-06 00:00:00,2020-03-11 00:00:00,1036,RV,3.0,50.0,42.0
+Arizona,OH Predictive Insights,https://ohpredictiveinsights.cmail19.com/t/ViewEmail/i/0F5B83CC85AF5F812540EF23F30FEDED/BD86063377B5C14A16FB8100885F948E,2020-03-03 00:00:00,2020-03-04 00:00:00,600,LV,4.0,49.0,43.0
+Arizona,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2020/03/ArizonaResults.pdf,2020-03-02 00:00:00,2020-03-03 00:00:00,666,RV,3.8,48.0,47.0
+Arizona,PPP (D),https://www.publicpolicypolling.com/wp-content/uploads/2020/01/ArizonaJanuary2020.pdf,2020-01-02 00:00:00,2020-01-04 00:00:00,760,RV,3.6,46.0,46.0
+Arizona,OH Predictive Insights,https://www.dropbox.com/s/6rhlttfgxw5gk95/Presidental%20Report.pdf,2020-12-03 00:00:00,2020-12-04 00:00:00,628,LV,3.9,44.0,46.0
+Arizona,Emerson,https://emersonpolling.reportablenews.com/pr/arizona-2020-toss-ups-in-presidential-and-senate-races,2020-10-25 00:00:00,2020-10-28 00:00:00,901,RV,3.2,50.0,50.0
+Arizona,NY Times/Siena,https://github.com/ndcohn/battleground-poll-2019/blob/master/AZ110419%20Crosstabs.pdf,2020-10-13 00:00:00,2020-10-23 00:00:00,652,LV,4.4,49.0,46.0
+Arizona,OH Predictive Insights,https://ohpredictive.com/uncategorized/poll-trumps-job-approval-decreases/,2020-08-13 00:00:00,2020-08-14 00:00:00,600,LV,4.0,45.0,43.0
+Arizona,OH Predictive Insights,https://ohpredictive.com/press-releases/biden-bumps-trump-to-take-the-lead-in-arizona/,2020-05-01 00:00:00,2020-05-02 00:00:00,600,LV,4.0,49.0,44.0
+Arizona,OH Predictive Insights,https://ohpredictive.com/promotional-content/2020-presidential-race-insights/,2020-02-12 00:00:00,2020-02-13 00:00:00,600,LV,4.0,46.0,46.0
+Nevada,NY Times/Siena*,https://int.nyt.com/data/documenttools/oh-nv-crosstabs/d91c22da8b8953eb/full.pdf,2020-10-02 00:00:00,2020-10-06 00:00:00,660,LV,4.3,48.0,42.0
+Nevada,Rasmussen Reports,https://amgreatness.com/2020/09/26/trump-surging-with-hispanic-and-black-voters-in-critical-states/,2020-09-23 00:00:00,2020-09-25 00:00:00,750,LV,,49.0,48.0
+Nevada,FOX News,https://static.foxnews.com/foxnews.com/content/uploads/2020/09/Fox_September-20-23-2020_Complete_Nevada_Topline_September-24-Release.pdf,2020-09-20 00:00:00,2020-09-23 00:00:00,911,LV,3.0,52.0,41.0
+Nevada,NY Times/Siena*,https://int.nyt.com/data/documenttools/crosstabs-MN-NH-NV-WI.pdf/80f8e4634fe6f880/full.pdf,2020-09-08 00:00:00,2020-09-10 00:00:00,462,LV,5.3,46.0,42.0
+Nevada,FOX News,https://www.foxnews.com/politics/fox-news-poll-biden-and-sanders-vie-for-lead-in-nevada-biden-tops-trump,2020-01-05 00:00:00,2020-01-08 00:00:00,1505,RV,2.5,47.0,39.0
+Nevada,FOX News,https://www.foxnews.com/politics/fox-news-poll-biden-has-edge-over-dems-in-nevada-bests-trump-by-7-points,2020-11-10 00:00:00,2020-11-13 00:00:00,1506,RV,2.5,47.0,40.0
+Nevada,Emerson,https://emersonpolling.reportablenews.com/pr/nevada-2020-biden-extends-lead-warren-jumps-to-second,2020-10-31 00:00:00,2020-11-02 00:00:00,1089,RV,2.9,49.0,51.0
+Nevada,Gravis,http://orlando-politics.com/wp-content/uploads/2019/08/Nevada-General-and-Democratic-Caucus-August-16-2019.pdf,2020-08-14 00:00:00,2020-08-16 00:00:00,926,RV,3.2,49.0,43.0
+Nevada,Emerson,http://emersonpolling.com/2019/03/31/nevada-2020-biden-and-sanders-lead-democratic-primary-field-trump-looks-to-flip-the-silver-state-red/,2020-03-28 00:00:00,2020-03-30 00:00:00,719,RV,3.6,52.0,48.0
+New Hampshire,St. Anselm,https://www.anselm.edu/sites/default/files/Documents/NHIOP/Polls/October%202020%20FullResults.pdf,2020-10-01 00:00:00,2020-10-04 00:00:00,1147,LV,2.9,53.0,41.0
+New Hampshire,Emerson,https://emersonpolling.reportablenews.com/pr/new-hampshire-2020-biden-leads-trump-independents-splitting-their-ticket,2020-09-30 00:00:00,2020-10-01 00:00:00,700,LV,3.6,52.0,45.0
+New Hampshire,UNH*,https://scholars.unh.edu/cgi/viewcontent.cgi?article=1609&context=survey_center_polls,2020-09-24 00:00:00,2020-09-28 00:00:00,972,LV,3.1,53.0,44.0
+New Hampshire,Rasmussen Reports,https://amgreatness.com/2020/09/29/biden-leads-in-new-hampshire-poll/,2020-09-23 00:00:00,2020-09-25 00:00:00,850,LV,4.0,56.0,42.0
+New Hampshire,UMass Lowell,https://www.uml.edu/docs/2020-NH-Sept-Topline_tcm18-330589.pdf,2020-09-17 00:00:00,2020-09-25 00:00:00,657,LV,4.6,53.0,44.0
+New Hampshire,NY Times/Siena*,https://int.nyt.com/data/documenttools/crosstabs-MN-NH-NV-WI.pdf/80f8e4634fe6f880/full.pdf,2020-09-08 00:00:00,2020-09-11 00:00:00,445,LV,5.5,45.0,42.0
+New Hampshire,St. Anselm,https://htv-prod-media.s3.amazonaws.com/files/saintanselmpollaugust20-1597956431.pdf,2020-08-15 00:00:00,2020-08-17 00:00:00,1042,RV,3.0,51.0,43.0
+New Hampshire,UNH,https://scholars.unh.edu/cgi/viewcontent.cgi?article=1599&context=survey_center_polls,2020-07-16 00:00:00,2020-07-28 00:00:00,1893,LV,,53.0,40.0
+New Hampshire,St. Anselm,https://www.anselm.edu/sites/default/files/Documents/NHIOP/Polls/June%202020%20Survey.pdf,2020-06-13 00:00:00,2020-06-16 00:00:00,1072,RV,3.0,49.0,42.0
+New Hampshire,UNH,https://scholars.unh.edu/cgi/viewcontent.cgi?article=1599&context=survey_center_polls,2020-06-18 00:00:00,2020-06-22 00:00:00,936,LV,,52.0,39.0
+New Hampshire,UNH,https://scholars.unh.edu/cgi/viewcontent.cgi?article=1599&context=survey_center_polls,2020-05-14 00:00:00,2020-05-18 00:00:00,790,LV,,44.0,46.0
+New Hampshire,St. Anselm,https://htv-prod-media.s3.amazonaws.com/files/stanselmpollapril2020-1588192419.pdf,2020-04-23 00:00:00,2020-04-27 00:00:00,820,RV,3.4,50.0,42.0
+New Hampshire,UNH,https://scholars.unh.edu/cgi/viewcontent.cgi?article=1575&context=survey_center_polls,2020-02-19 00:00:00,2020-02-25 00:00:00,576,LV,4.1,44.0,46.0
+New Hampshire,NBC News/Marist,http://maristpoll.marist.edu/wp-content/uploads/2020/01/NBC-News_Marist-Poll_NH-NOS-and-Tables_2001241124.pdf,2020-01-20 00:00:00,2020-01-23 00:00:00,2223,RV,2.6,51.0,43.0
+New Hampshire,WHDH/Emerson,https://emersonpolling.reportablenews.com/pr/new-hampshire-2020-sanders-jumps-to-lead-buttigieg-surges-while-warren-and-biden-falter,2020-11-22 00:00:00,2020-11-26 00:00:00,547,RV,4.2,52.0,48.0
+New Hampshire,St. Anselm,https://www.anselm.edu/sites/default/files/Documents/NHIOP/Polls/1119%20Topline%20Summary.pdf,2020-11-13 00:00:00,2020-11-18 00:00:00,512,RV,4.3,51.0,43.0
+New Hampshire,Emerson,http://emersonpolling.com/2019/09/10/sanders-slips-in-new-hampshire-biden-warren-take-lead/,2020-09-06 00:00:00,2020-09-09 00:00:00,1041,RV,2.9,55.0,45.0
+New Hampshire,Emerson,http://emersonpolling.com/2019/02/23/bernie-takes-early-lead-in-new-hampshire-democratic-primary-potential-tight-us-senate-race-if-gov-sununu-takes-on-sen-shaheen/,2020-02-21 00:00:00,2020-02-22 00:00:00,910,RV,3.2,55.0,45.0
+Maryland,Goucher College*,https://www.goucher.edu/hughes-center/documents/Goucher-College-Poll-Oct-2020-Part-1.pdf,2020-09-30 00:00:00,2020-10-04 00:00:00,776,LV,3.5,61.0,30.0
+Maryland,OpinionWorks,https://www.realclearpolitics.com/docs/2020/Opinionworks_MD_Poll_Sept_2020.pdf,2020-09-04 00:00:00,2020-09-11 00:00:00,753,LV,,62.0,30.0
+Maryland,Gonzales Research,https://www.realclearpolitics.com/docs/2020/20200526_MD.pdf,2020-05-19 00:00:00,2020-05-23 00:00:00,810,LV,3.5,59.0,35.0
+Nebraska CD2,NY Times/Siena,https://int.nyt.com/data/documenttools/ne020920-crosstabs/38a068b5366d4c08/full.pdf,2020-09-25 00:00:00,2020-09-27 00:00:00,420,LV,5.3,48.0,41.0
+South Carolina,Quinnipiac,https://poll.qu.edu/images/polling/sc/sc09302020_skyg73.pdf,2020-09-23 00:00:00,2020-09-27 00:00:00,1123,LV,2.9,47.0,48.0
+South Carolina,CBS News/YouGov,https://drive.google.com/file/d/122Kxor66z4VwLsTqtckpgfBG-hCxZXwS/view,2020-09-22 00:00:00,2020-09-25 00:00:00,1065,LV,3.8,42.0,52.0
+South Carolina,Quinnipiac,https://poll.qu.edu/kentucky/release-detail?ReleaseID=3673,2020-09-10 00:00:00,2020-09-14 00:00:00,969,LV,3.2,45.0,51.0
+South Carolina,Quinnipiac,https://poll.qu.edu/2020-presidential-swing-state-polls/release-detail?ReleaseID=3670,2020-07-30 00:00:00,2020-08-03 00:00:00,914,RV,3.3,42.0,47.0
+South Carolina,Gravis,https://www.gravismarketing.com/south-carolina-poll-results-gravis-marketing-2020/,2020-07-17 00:00:00,2020-07-17 00:00:00,604,LV,4.0,46.0,50.0
+South Carolina,East Carolina U.,https://surveyresearch-ecu.reportablenews.com/pr/south-carolina-poll-biden-leads-presidential-primary-among-likely-democratic-voters-but-many-open-to-changing-their-mind-before-election-day-trump-and-graham-lead-comfortably-in-general-election-matchups,2020-01-31 00:00:00,2020-02-02 00:00:00,1756,RV,2.7,40.0,52.0
+South Carolina,Emerson,https://emersonpolling.reportablenews.com/pr/south-carolina-2020-poll-biden-leads-primary-field-by-wide-margin-president-trump-popular-with-base,2020-02-28 00:00:00,2020-03-02 00:00:00,755,RV,3.5,48.0,52.0

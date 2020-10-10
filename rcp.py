@@ -1,3 +1,5 @@
+# dates are wrong for some polls because rcp doesn't provide the year, don't use
+
 from datetime import datetime
 
 from bs4 import BeautifulSoup
@@ -10,7 +12,7 @@ soup = BeautifulSoup(requests.get("https://www.realclearpolitics.com/epolls/late
 for t in soup.find_all('td', {'class': 'lp-race'}):
 	races.add('https://www.realclearpolitics.com' + t.findChild('a').attrs['href'])
 
-with open('polls.csv', 'w', newline='') as f:
+with open('rcp.csv', 'w', newline='') as f:
 	writer = csv.writer(f)
 	columns = ['State', 'Poll', 'Source', 'Start Date', 'End Date', 'Sample Size', 'Sample Type', 'MoE', 'Biden', 'Trump']
 	writer.writerow(columns)
