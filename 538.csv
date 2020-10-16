@@ -1,5 +1,6 @@
 State,Poll,Source,Start Date,End Date,Sample Size,Sample Type,Biden,Trump
 South Carolina,Siena College/The New York Times Upshot,https://int.nyt.com/data/documenttools/sc100920-crosstabs/7b3ac01b2be42e57/full.pdf,10/9/20,10/15/20,605,lv,41.0,49.0
+North Carolina,Emerson College,https://emersonpolling.reportablenews.com/pr/north-carolina-2020-biden-and-trump-neck-and-neck-as-republicans-close-gap-in-u-s-senate-and-governor-races,10/13/20,10/14/20,721,lv,49.2,49.2
 Virginia,Civiqs,https://civiqs.com/documents/Civiqs_DailyKos_VA_banner_book_2020_10_48z9k2.pdf,10/11/20,10/14/20,1231,lv,55.0,42.0
 Colorado,Civiqs,https://civiqs.com/documents/Civiqs_DailyKos_CO_banner_book_2020_10_mk0d15.pdf,10/11/20,10/14/20,1013,lv,54.0,42.0
 North Carolina,Civiqs,https://civiqs.com/documents/Civiqs_DailyKos_NC_banner_book_2020_10_g32na7.pdf,10/11/20,10/14/20,1211,lv,51.0,46.0
@@ -15,7 +16,7 @@ North Carolina,Siena College/The New York Times Upshot,https://int.nyt.com/data/
 Arizona,Monmouth University,https://www.monmouth.edu/polling-institute/documents/monmouthpoll_az_101520.pdf/,10/9/20,10/13/20,502,rv,50.0,44.0
 Indiana,SurveyUSA,http://www.surveyusa.com/client/PollReport.aspx?g=b43d4853-1fb2-40f3-9d2d-9ccee830cd99,10/8/20,10/13/20,685,lv,42.0,49.0
 Michigan,RMG Research,http://politicaliq.com/2020/10/15/battleground-mi-biden-48-trump-42/,10/8/20,10/13/20,800,lv,48.0,42.0
-Colorado,Keating Research/OnSight Public Affairs/Melanson,https://twitter.com/blairmiller/status/1316782776922722304,10/8/20,10/13/20,519,lv,54.0,39.0
+Colorado,Keating Research/OnSight Public Affairs/Melanson,http://onsightpublicaffairs.com/web/wp-content/uploads/2020/10/KOM20Colorado20Poll20-20October20202020-20Topline20Results20-20For20Release20-2010-15-2020.pdf,10/8/20,10/13/20,519,lv,54.0,39.0
 Michigan,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_michigan_state_poll_w3_10_13_2020.pdf,10/7/20,10/13/20,620,lv,51.0,44.0
 North Carolina,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_north_carolina_state_poll_w3_10_13_20.pdf,10/7/20,10/13/20,660,lv,48.0,48.0
 Florida,St. Pete Polls,http://stpetepolls.org/files/StPetePolls_2020_State_President_October12_H5NX8.pdf,10/11/20,10/12/20,2215,lv,49.2,47.2
@@ -32,9 +33,13 @@ Pennsylvania,RMG Research,http://politicaliq.com/2020/10/14/pa-biden-49-trump-43
 Wisconsin,Siena College/The New York Times Upshot,https://int.nyt.com/data/documenttools/miwi1020-crosstabs/b0a09cd1cd0048df/full.pdf,10/8/20,10/11/20,789,lv,51.0,41.0
 North Carolina,SurveyUSA,https://wwwcache.wral.com/asset/news/state/nccapitol/2020/10/13/19334272/PollPrint-DMID1-5oiabcwp9.pdf,10/8/20,10/11/20,669,lv,50.0,45.0
 North Carolina,Monmouth University,https://www.monmouth.edu/polling-institute/documents/monmouthpoll_nc_101320.pdf/,10/8/20,10/11/20,500,rv,49.0,46.0
-Georgia,Data for Progress,https://filesforprogress.org/memos/2020-senate-project/week-4/GA.pdf,10/8/20,10/11/20,782,lv,46.0,46.0
-South Carolina,Data for Progress,https://filesforprogress.org/memos/2020-senate-project/week-4/SC.pdf,10/8/20,10/11/20,801,lv,43.0,52.0
-Iowa,Data for Progress,https://filesforprogress.org/memos/2020-senate-project/week-4/IA.pdf,10/8/20,10/11/20,822,lv,47.0,48.0
+Georgia,Data for Progress,https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/dfp_psp_ga_week_4_toplines.pdf,10/8/20,10/11/20,782,lv,46.0,46.0
+South Carolina,Data for Progress,https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/dfp_psp_sc_week_4_toplines.pdf,10/8/20,10/11/20,801,lv,43.0,52.0
+Iowa,Data for Progress,https://filesforprogress.org/memos/2020-senate-project/week-4/toplines/dfp_psp_ia_week_4_toplines.pdf,10/8/20,10/11/20,822,lv,47.0,48.0
+Ohio,Civiqs,https://drive.google.com/file/d/1SiBrhpzSQ8OoNVPbI-YdVZalG4MaPVDO/view,10/8/20,10/11/20,586,lv,47.0,50.0
+Wisconsin,Civiqs,https://drive.google.com/file/d/1dfFWrhyponUB4qf3gWklaNNlWy1OhWJR/view,10/8/20,10/11/20,560,lv,53.0,45.0
+Michigan,Civiqs,https://drive.google.com/file/d/191PrxEKwpYvRBlp0qfofqUwB9tlQvxgE/view,10/8/20,10/11/20,543,lv,52.0,43.0
+Pennsylvania,Civiqs,https://drive.google.com/file/d/1kioj7cMIsxOhN81x_i1ZPNrgbClGmy95/view,10/8/20,10/11/20,600,lv,52.0,45.0
 Nevada,WPA Intelligence (WPAi),https://www.reviewjournal.com/news/politics-and-government/nevada/the-nevada-poll-trump-biden-virtually-tied-2148801/,10/7/20,10/11/20,512,lv,44.0,42.0
 North Carolina,RMG Research,http://politicaliq.com/2020/10/13/north-carolina-biden-47-trump-45/,10/7/20,10/11/20,800,lv,47.0,45.0
 North Carolina,Susquehanna Polling & Research Inc.,https://amgreatness.com/2020/10/14/north-carolina-race-tightens-according-to-new-poll/,10/7/20,10/11/20,500,lv,48.0,46.0
@@ -125,6 +130,7 @@ Pennsylvania,YouGov,https://drive.google.com/file/d/1hSdIHlv2MgUGngDTUCG4UK2D_11
 Ohio,YouGov,https://drive.google.com/file/d/1zlfkGVj_8gdcyNPvQ5hTCDtpZXkJDyxB/view,9/30/20,10/2/20,1114,lv,47.0,47.0
 Missouri,Garin-Hart-Yang Research Group,https://static1.squarespace.com/static/59015f4b37c581b2ce01e5b3/t/5f7da30aae0dc50f899426db/1602069258463/Garin+Hart+Yang+Recent+MO+statewide+survey+Memo_FINAL.pdf,9/28/20,10/2/20,600,lv,48.0,50.0
 Florida,Saint Leo University,http://polls.saintleo.edu/recent-saint-leo-university-polling-results-for-florida-give-biden-an-edge-over-trump/,9/27/20,10/2/20,500,rv,49.2,43.4
+Arizona,Targoz Market Research,https://www.pollsmartmr.com/latest-polls-1/trump-kelly-lead-in-arizona,9/23/20,10/2/20,1045,lv,45.0,46.0
 New Hampshire,Emerson College,https://emersonpolling.reportablenews.com/pr/new-hampshire-2020-biden-leads-trump-independents-splitting-their-ticket,9/30/20,10/1/20,700,lv,53.1,45.3
 Missouri,Remington Research Group,https://moscout.com/s/MOSCOUT-Statewide-General-Election-Survey-Deck-100220.pptx,9/30/20,10/1/20,980,lv,46.0,51.0
 Florida,Siena College/The New York Times Upshot,https://int.nyt.com/data/documenttools/flpa-0930-crosstabs/16c21b7ab34ed4d1/full.pdf,9/30/20,10/1/20,710,lv,47.0,42.0
