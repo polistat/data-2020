@@ -1,12 +1,17 @@
 State,Poll,Source,Start Date,End Date,Sample Size,Sample Type,Biden,Trump
-South Carolina,Siena College/The New York Times Upshot,https://int.nyt.com/data/documenttools/sc100920-crosstabs/7b3ac01b2be42e57/full.pdf,10/9/20,10/15/20,605,lv,41.0,49.0
+Florida,Harris Insights & Analytics,https://thehill.com/homenews/campaign/521417-exclusive-poll-trump-and-biden-deadlocked-in-florida,10/12/20,10/15/20,965,lv,48.0,48.0
+Michigan,Harris Insights & Analytics,https://thehill.com/homenews/campaign/521415-biden-holds-9-point-lead-over-in-michigan-poll,10/12/20,10/15/20,1289,lv,54.0,43.0
+Pennsylvania,Harris Insights & Analytics,https://thehill.com/homenews/campaign/521421-biden-holds-five-point-lead-over-trump-in-pennsylvania-poll,10/12/20,10/15/20,992,lv,51.0,46.0
 North Carolina,Emerson College,https://emersonpolling.reportablenews.com/pr/north-carolina-2020-biden-and-trump-neck-and-neck-as-republicans-close-gap-in-u-s-senate-and-governor-races,10/13/20,10/14/20,721,lv,49.2,49.2
 Virginia,Civiqs,https://civiqs.com/documents/Civiqs_DailyKos_VA_banner_book_2020_10_48z9k2.pdf,10/11/20,10/14/20,1231,lv,55.0,42.0
 Colorado,Civiqs,https://civiqs.com/documents/Civiqs_DailyKos_CO_banner_book_2020_10_mk0d15.pdf,10/11/20,10/14/20,1013,lv,54.0,42.0
 North Carolina,Civiqs,https://civiqs.com/documents/Civiqs_DailyKos_NC_banner_book_2020_10_g32na7.pdf,10/11/20,10/14/20,1211,lv,51.0,46.0
+Michigan,Trafalgar Group,https://www.thetrafalgargroup.org/news/mi-pres-1020/,10/11/20,10/14/20,1025,lv,45.9,46.5
+South Carolina,Siena College/The New York Times Upshot,https://int.nyt.com/data/documenttools/sc100920-crosstabs/7b3ac01b2be42e57/full.pdf,10/9/20,10/14/20,605,lv,41.0,49.0
+Alaska,Siena College/The New York Times Upshot,https://int.nyt.com/data/documenttools/ak100920-crosstabs1/722c27f1f660cf21/full.pdf,10/9/20,10/14/20,423,lv,39.0,45.0
 Florida,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_florida_state_poll_w3_10_14_2020_.pdf,10/7/20,10/14/20,653,lv,50.0,47.0
 Arizona,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_arizona_state_poll_w3_10_14_2020_1.pdf,10/7/20,10/14/20,667,lv,49.0,47.0
-Pennsylvania,Opinion Savvy/InsiderAdvantage,https://overland.amgreatness.com/app/uploads/2020/10/Insider-Advantage_Center-for-American-Greatness-PA-POll-.pdf,10/12/20,10/13/20,400,lv,45.8,42.6
+Pennsylvania,Opinion Savvy/InsiderAdvantage,https://projects.fivethirtyeight.com/polls/20201016_PA_InsiderAdvantage.pdf,10/12/20,10/13/20,400,lv,45.8,42.6
 Florida,Trafalgar Group,https://drive.google.com/file/d/1Qu-33_lbge1B0e2q1viGRZzVQpQkFqSq/view,10/11/20,10/13/20,1051,lv,46.1,48.4
 Wisconsin,Trafalgar Group,https://d3n8a8pro7vhmx.cloudfront.net/restoration/pages/973/attachments/original/1602772706/RSTP_WI_'20_Oct_Press_Report.pdf?1602772706,10/11/20,10/13/20,1043,lv,47.3,45.4
 Iowa,David Binder Research,https://www.focusonruralamerica.com/2020/10/14/heartland-poll-biden-leads-in-midwest-2/,10/10/20,10/13/20,200,lv,44.0,50.0
@@ -19,6 +24,7 @@ Michigan,RMG Research,http://politicaliq.com/2020/10/15/battleground-mi-biden-48
 Colorado,Keating Research/OnSight Public Affairs/Melanson,http://onsightpublicaffairs.com/web/wp-content/uploads/2020/10/KOM20Colorado20Poll20-20October20202020-20Topline20Results20-20For20Release20-2010-15-2020.pdf,10/8/20,10/13/20,519,lv,54.0,39.0
 Michigan,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_michigan_state_poll_w3_10_13_2020.pdf,10/7/20,10/13/20,620,lv,51.0,44.0
 North Carolina,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_north_carolina_state_poll_w3_10_13_20.pdf,10/7/20,10/13/20,660,lv,48.0,48.0
+New Jersey,Stockton University,https://stockton.edu/hughes-center/polling/documents/2020-1016-full-poll-results.pdf,10/7/20,10/13/20,721,lv,56.3,35.8
 Florida,St. Pete Polls,http://stpetepolls.org/files/StPetePolls_2020_State_President_October12_H5NX8.pdf,10/11/20,10/12/20,2215,lv,49.2,47.2
 Florida,Emerson College,https://emersonpolling.reportablenews.com/pr/florida-2020-biden-holds-slight-edge-three-weeks-out,10/10/20,10/12/20,690,lv,50.6,48.4
 Pennsylvania,Trafalgar Group,https://drive.google.com/file/d/1zZdYPhVEQQ9ZATepZLjVA-RZbwMCoLuQ/view,10/10/20,10/12/20,1034,lv,47.4,45.1
@@ -29,6 +35,7 @@ Michigan,EPIC-MRA,https://www.woodtv.com/wp-content/uploads/sites/51/2020/10/202
 Georgia,SurveyUSA,http://www.surveyusa.com/client/PollReport.aspx?g=b396b793-781d-4382-9ada-fc4cc50dacb6,10/8/20,10/12/20,677,lv,48.0,46.0
 Ohio,Quinnipiac University,https://poll.qu.edu/georgia/release-detail?ReleaseID=3679,10/8/20,10/12/20,1160,lv,48.0,47.0
 Georgia,Quinnipiac University,https://poll.qu.edu/georgia/release-detail?ReleaseID=3679,10/8/20,10/12/20,1040,lv,51.0,44.0
+Florida,Mason-Dixon Polling & Strategy,https://www.scribd.com/document/480302681/Mason-Dixon-Poll-of-Florida-October-16#from_embed,10/8/20,10/12/20,625,lv,48.0,45.0
 Pennsylvania,RMG Research,http://politicaliq.com/2020/10/14/pa-biden-49-trump-43/,10/7/20,10/12/20,800,lv,49.0,43.0
 Wisconsin,Siena College/The New York Times Upshot,https://int.nyt.com/data/documenttools/miwi1020-crosstabs/b0a09cd1cd0048df/full.pdf,10/8/20,10/11/20,789,lv,51.0,41.0
 North Carolina,SurveyUSA,https://wwwcache.wral.com/asset/news/state/nccapitol/2020/10/13/19334272/PollPrint-DMID1-5oiabcwp9.pdf,10/8/20,10/11/20,669,lv,50.0,45.0
@@ -73,6 +80,7 @@ Georgia,Landmark Communications,https://assets.documentcloud.org/documents/72245
 Florida,Opinion Savvy/InsiderAdvantage,https://insideradvantage.com/wp-content/uploads/2020/10/FLAPREZOCT6_7.pdf,10/6/20,10/7/20,400,lv,43.0,46.0
 Michigan,Emerson College,https://emersonpolling.reportablenews.com/pr/michigan-2020-democrats-hold-10-point-leads-in-presidential-and-us-senate-races,10/6/20,10/7/20,716,lv,54.2,43.4
 Montana,Emerson College,https://emersonpolling.reportablenews.com/pr/montana-2020-republicans-hold-advantages-in-presidential-us-senate-and-governor-races,10/5/20,10/7/20,500,lv,43.6,56.4
+Hawaii,MRG Research,https://www.civilbeat.org/2020/10/civil-beat-hnn-poll-hawaii-voters-embrace-biden-for-us-president/,10/2/20,10/7/20,988,rv,61.0,28.0
 Florida,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_florida_state_poll_w2_10_07_2020.pdf,9/29/20,10/7/20,678,lv,49.0,45.0
 Arizona,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_arizona_state_poll_w2_10_07_2020.pdf,9/29/20,10/7/20,633,lv,48.0,46.0
 Missouri,YouGov,https://www.dropbox.com/s/8k0pvsrbbzcy8p6/slu-poll-october2020-toplineresults.pdf?dl=0,9/24/20,10/7/20,931,lv,43.2,51.8
