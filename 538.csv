@@ -1,7 +1,12 @@
 State,Poll,Source,Start Date,End Date,Sample Size,Sample Type,Biden,Trump
+Michigan,Mitchell Research & Communications,https://projects.fivethirtyeight.com/polls/20201019_MI_Mitchell.pdf,10/18/20,10/18/20,900,lv,51.0,41.0
+Wisconsin,Trafalgar Group,https://www.thetrafalgargroup.org/news/wi-pres-1020/,10/14/20,10/16/20,1051,lv,47.6,46.3
 Arizona,YouGov,https://drive.google.com/file/d/1j9uJnxfT1x8spYhW2QmAq6OkSMd06wJG/view,10/13/20,10/16/20,1074,lv,50.0,47.0
 Wisconsin,YouGov,https://drive.google.com/file/d/1DNqE5ac9gNwx_B7A-VKfMwzGoNSXguI0/view,10/13/20,10/16/20,1112,lv,51.0,46.0
+Colorado,RBI Strategies & Research,http://www.rbistrategies.com/wp-content/uploads/2020/10/Statewide-Polling-Memo-October-2020.pdf,10/12/20,10/16/20,502,lv,55.0,38.0
 Missouri,Remington Research Group,https://projects.fivethirtyeight.com/polls/20201017_MO_Remington.pdf,10/14/20,10/15/20,1010,lv,45.0,51.0
+Washington,Public Policy Polling,https://www.nwprogressive.org/weblog/2020/10/three-out-of-five-washingtonians-surveyed-are-voting-for-joe-biden-npi-poll-finds.html,10/14/20,10/15/20,610,lv,60.0,37.0
+Pennsylvania,Trafalgar Group,https://d3n8a8pro7vhmx.cloudfront.net/restoration/pages/991/attachments/original/1603117915/RSTP_PA_'20_Oct_Press_Report.pdf?1603117915,10/13/20,10/15/20,1041,lv,47.5,46.4
 Florida,Harris Insights & Analytics,https://thehill.com/homenews/campaign/521417-exclusive-poll-trump-and-biden-deadlocked-in-florida,10/12/20,10/15/20,965,lv,48.0,48.0
 Michigan,Harris Insights & Analytics,https://thehill.com/homenews/campaign/521415-biden-holds-9-point-lead-over-in-michigan-poll,10/12/20,10/15/20,1289,lv,54.0,43.0
 Pennsylvania,Harris Insights & Analytics,https://thehill.com/homenews/campaign/521421-biden-holds-five-point-lead-over-trump-in-pennsylvania-poll,10/12/20,10/15/20,992,lv,51.0,46.0
@@ -40,6 +45,7 @@ Ohio,Quinnipiac University,https://poll.qu.edu/georgia/release-detail?ReleaseID=
 Georgia,Quinnipiac University,https://poll.qu.edu/georgia/release-detail?ReleaseID=3679,10/8/20,10/12/20,1040,lv,51.0,44.0
 Florida,Mason-Dixon Polling & Strategy,https://www.scribd.com/document/480302681/Mason-Dixon-Poll-of-Florida-October-16#from_embed,10/8/20,10/12/20,625,lv,48.0,45.0
 Pennsylvania,RMG Research,http://politicaliq.com/2020/10/14/pa-biden-49-trump-43/,10/7/20,10/12/20,800,lv,49.0,43.0
+Virginia,Cygnal,https://martinsvillebulletin.com/news/local/govt-and-politics/election-2020-republican-senate-candidate-daniel-gade-criticizes-mark-warner-and-the-democratic-party-during/article_62a1a626-6a8a-51cb-9c2f-562effcfa3db.html,10/9/20,10/11/20,607,lv,51.2,42.2
 Wisconsin,Siena College/The New York Times Upshot,https://int.nyt.com/data/documenttools/miwi1020-crosstabs/b0a09cd1cd0048df/full.pdf,10/8/20,10/11/20,789,lv,51.0,41.0
 North Carolina,SurveyUSA,https://wwwcache.wral.com/asset/news/state/nccapitol/2020/10/13/19334272/PollPrint-DMID1-5oiabcwp9.pdf,10/8/20,10/11/20,669,lv,50.0,45.0
 North Carolina,Monmouth University,https://www.monmouth.edu/polling-institute/documents/monmouthpoll_nc_101320.pdf/,10/8/20,10/11/20,500,rv,49.0,46.0
@@ -72,6 +78,7 @@ Florida,Florida Atlantic University,https://business.fau.edu/departments/economi
 Michigan,YouGov,https://drive.google.com/file/d/1ONr-7DegyuvciqdCL7TigWCIvJ1LbSbD/view,10/6/20,10/9/20,1190,lv,52.0,46.0
 Nevada,YouGov,https://drive.google.com/file/d/1YShdAgKUTTx0fqhTfEuDJ-zwnd7YgkpD/view,10/6/20,10/9/20,1036,lv,52.0,46.0
 Iowa,YouGov,https://drive.google.com/file/d/1j1ecxNthrVLwbSmV5eSUGdeuEilTgKkd/view,10/6/20,10/9/20,1035,lv,49.0,49.0
+Colorado,YouGov,https://www.colorado.edu/lab/aprl/sites/default/files/attached-files/2020_colorado_political_climate_report_election_topline_10-19-20_.pdf,10/5/20,10/9/20,800,lv,47.0,38.0
 Arizona,Trafalgar Group,https://drive.google.com/file/d/1qUONKYDJqkz2Nk1F3BKTR_NW-wOqiZ9l/view,10/6/20,10/8/20,1087,lv,43.8,47.8
 Florida,RMG Research,http://politicaliq.com/2020/10/13/florida-biden-48-trump-46/,10/4/20,10/8/20,800,lv,48.0,46.0
 Arizona,OH Predictive Insights,https://f.hubspotusercontent40.net/hubfs/7453540/201005_AZPOP/PR_Arizona%20Public%20Opinion%20Pulse%20Toplines%20and%20Crosstabs%20(1).pdf?utm_medium=email&_hsmi=97443604&_hsenc=p2ANqtz-8YKdQGdcjhrShEJfsBc7JTFdlklT1RodoeG-nMmCGHWRDUFwNlhUCpC0Qyjh4DQGGGyPyUZaS7ikUHptXoT6cVk8q7kfO-4hRg1rAyzImJPZbVBeA&utm_content=97443604&utm_source=hs_email,10/4/20,10/8/20,608,lv,50.0,47.0
@@ -187,6 +194,7 @@ Georgia,YouGov,https://www.cbsnews.com/news/trump-biden-opinion-poll-georgia-nor
 North Carolina,YouGov,https://www.cbsnews.com/news/trump-biden-opinion-poll-georgia-north-carolina-supreme-court-09-27-2020/,9/22/20,9/25/20,1213,lv,48.0,46.0
 South Carolina,YouGov,https://www.cbsnews.com/news/trump-biden-opinion-poll-georgia-north-carolina-supreme-court-09-27-2020/,9/22/20,9/25/20,1080,lv,42.0,52.0
 Wisconsin,Trafalgar Group,https://www.thetrafalgargroup.org/news/wi-pres-0920/,9/22/20,9/25/20,1189,lv,47.7,44.9
+Virginia,Cygnal,https://gadeforvirginia.com/new-poll-shows-gade-down-by-single-digits/,9/22/20,9/25/20,600,lv,51.5,41.4
 North Carolina,University of Massachusetts Lowell,https://www.uml.edu/docs/2020-NC-Sept-Topline_tcm18-330590.pdf,9/18/20,9/25/20,921,lv,48.0,49.0
 Texas,University of Massachusetts Lowell,https://www.uml.edu/docs/2020-Texas-Sept-Topline_tcm18-330588.pdf,9/18/20,9/25/20,882,lv,46.0,50.0
 New Hampshire,University of Massachusetts Lowell,https://www.uml.edu/docs/2020-NH-Sept-Topline_tcm18-330589.pdf,9/17/20,9/25/20,657,lv,53.0,44.0
@@ -988,7 +996,7 @@ North Carolina,Meredith College,https://www.meredith.edu/assets/images/content/m
 Virginia,Virginia Commonwealth University,https://oppo.vcu.edu/media/oppo/Fall2019Release1-1.pdf,9/23/19,10/4/19,731,rv,52.0,47.0
 Ohio,Emerson College,https://emersonpolling.reportablenews.com/pr/ohio-2020-statistical-dead-heat-with-biden-sanders-and-warren-in-democratic-primary,9/29/19,10/2/19,837,rv,54.0,48.4
 Wisconsin,Fox News/Beacon Research/Shaw & Co. Research,https://www.foxnews.com/politics/fox-news-poll-results-september-29-october-2-2019-wisconsin,9/29/19,10/2/19,1512,rv,48.0,40.0
-Michigan,Target Insyght,https://twitter.com/MIRSnews/status/1178868336211431424,9/24/19,9/26/19,804,lv,54.0,35.0
+Michigan,Target Insyght,https://mirsnews.com/pdfs/poll_cross_tabs/1569853625.pdf,9/25/19,9/26/19,804,lv,54.0,35.0
 Missouri,Remington Research Group,https://moscout.com/s/MOSCOUT-092019.pptx,9/18/19,9/19/19,1046,lv,42.0,54.0
 California,Emerson College,https://emersonpolling.reportablenews.com/pr/california-2020-biden-sanders-warren-in-statistical-tie-in-democratic-primary-harris-struggles-in-home-state,9/13/19,9/16/19,830,rv,63.8,38.8
 California,SurveyUSA,http://www.surveyusa.com/client/PollReport.aspx?g=a5e19558-aca6-4cef-a5cb-33a58889d33c,9/13/19,9/15/19,1785,rv,56.0,33.0
