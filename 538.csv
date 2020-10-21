@@ -1,7 +1,29 @@
 State,Poll,Source,Start Date,End Date,Sample Size,Sample Type,Biden,Trump
+Kansas,co/efficient,https://www.politico.com/f/?id=00000175-48a3-d987-ab7f-cef7305b0000,10/18/20,10/20/20,2453,lv,39.0,56.0
+Iowa,Siena College/The New York Times Upshot,https://int.nyt.com/data/documenttools/ia101820-crosstabs/1eff04c308f3dcb1/full.pdf,10/18/20,10/20/20,753,lv,46.0,43.0
+Nevada,Civiqs,https://civiqs.com/documents/Civiqs_DailyKos_NV_banner_book_2020_10_r8597h.pdf,10/17/20,10/20/20,712,lv,52.0,43.0
+Florida,Civiqs,https://civiqs.com/documents/Civiqs_DailyKos_FL_banner_book_2020_10_6s25ck.pdf,10/17/20,10/20/20,863,lv,51.0,47.0
+Minnesota,Civiqs,https://civiqs.com/documents/Civiqs_DailyKos_MN_banner_book_2020_10_d859f5.pdf,10/17/20,10/20/20,840,lv,53.0,43.0
+Michigan,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_michigan_state_poll_w4_10_20_2020.pdf,10/14/20,10/20/20,686,lv,52.0,44.0
+North Carolina,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_north_carolina_state_poll_w4_10_20_20.pdf,10/14/20,10/20/20,660,lv,49.0,47.0
 Ohio,Rasmussen Reports/Pulse Opinion Research,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/ohio_biden_48_trump_46,10/18/20,10/19/20,800,lv,48.0,47.0
 Pennsylvania,Rasmussen Reports/Pulse Opinion Research,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/pennsylvania_biden_50_trump_45,10/18/20,10/19/20,800,lv,50.0,47.0
+Iowa,Opinion Savvy/InsiderAdvantage,https://overland.amgreatness.com/app/uploads/2020/10/IOWA-POLL-.pdf,10/18/20,10/19/20,400,lv,45.1,44.6
+Arizona,Rasmussen Reports/Pulse Opinion Research,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/arizona_biden_48_trump_46,10/18/20,10/19/20,800,lv,48.0,46.0
 Georgia,Emerson College,https://emersonpolling.reportablenews.com/pr/georgia-2020-showdown-in-presidential-and-us-senate-races,10/17/20,10/19/20,506,lv,47.0,48.4
+Arizona,Change Research,https://www.cnbc.com/2020/10/20/voters-want-senate-to-choose-coronavirus-stimulus-over-supreme-court.html,10/16/20,10/19/20,232,lv,51.0,45.0
+Florida,Change Research,https://www.cnbc.com/2020/10/20/voters-want-senate-to-choose-coronavirus-stimulus-over-supreme-court.html,10/16/20,10/19/20,547,lv,50.0,45.0
+Michigan,Change Research,https://www.cnbc.com/2020/10/20/voters-want-senate-to-choose-coronavirus-stimulus-over-supreme-court.html,10/16/20,10/19/20,718,lv,51.0,44.0
+North Carolina,Change Research,https://www.cnbc.com/2020/10/20/voters-want-senate-to-choose-coronavirus-stimulus-over-supreme-court.html,10/16/20,10/19/20,521,lv,50.0,47.0
+Pennsylvania,Change Research,https://www.cnbc.com/2020/10/20/voters-want-senate-to-choose-coronavirus-stimulus-over-supreme-court.html,10/16/20,10/19/20,574,lv,49.0,47.0
+Wisconsin,Change Research,https://www.cnbc.com/2020/10/20/voters-want-senate-to-choose-coronavirus-stimulus-over-supreme-court.html,10/16/20,10/19/20,447,lv,52.0,44.0
+Pennsylvania,Quinnipiac University,https://poll.qu.edu/pennsylvania/release-detail?ReleaseID=3680,10/16/20,10/19/20,1241,lv,51.0,43.0
+Texas,Quinnipiac University,https://poll.qu.edu/pennsylvania/release-detail?ReleaseID=3680,10/16/20,10/19/20,1145,lv,47.0,47.0
+Wisconsin,Susquehanna Polling & Research Inc.,https://overland.amgreatness.com/app/uploads/2020/10/Toplines-Wisconsin-CFAG-Oct2020.pdf,10/16/20,10/19/20,500,lv,45.0,45.0
+Pennsylvania,Suffolk University,https://www.suffolk.edu/-/media/suffolk/documents/academics/research-at-suffolk/suprc/polls/other-states/2020/10_21_2020_marginals_pdftxt.pdf?la=en&hash=F421FFD9FF52E261617E7EE0A253E6943EF64314,10/15/20,10/19/20,500,lv,48.6,42.4
+Iowa,Monmouth University,https://www.monmouth.edu/polling-institute/documents/monmouthpoll_ia_102120.pdf/,10/15/20,10/19/20,501,rv,47.0,48.0
+Arizona,RMG Research,http://politicaliq.com/2020/10/20/az-biden-47-trump-46/,10/14/20,10/19/20,800,lv,47.0,46.0
+Wisconsin,Latino Decisions,https://dfer.org/press/erna-poll-of-wi-voters-shows-biden-with-slight-lead-as-voters-say-trump-mishandled-covid-19-pandemic/,10/14/20,10/19/20,400,lv,50.0,45.0
 Pennsylvania,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_pennsylvania_state_poll_w4_10_19_20.pdf,10/13/20,10/19/20,653,lv,49.0,45.0
 Wisconsin,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_wisconsin_state_poll_w4_10_19_20.pdf,10/13/20,10/19/20,663,lv,51.0,45.0
 Georgia,Siena College/The New York Times Upshot,https://int.nyt.com/data/documenttools/ga101320-crosstabs/96723fae2a9846ed/full.pdf,10/13/20,10/19/20,759,lv,45.0,45.0
@@ -9,6 +31,7 @@ Michigan,Mitchell Research & Communications,https://projects.fivethirtyeight.com
 Arizona,Data Orbital,https://www.dataorbital.com/the-blog/breaking-in-arizona-presidential-and-us-races-still-tight-two-weeks-out-from-election-day,10/16/20,10/18/20,550,lv,47.1,41.9
 Texas,Data for Progress,https://filesforprogress.org/memos/2020-senate-project/week-5/toplines/tx.pdf,10/15/20,10/18/20,933,lv,47.0,46.0
 North Carolina,East Carolina University,https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-biden-leads-trump-by-three-points-among-likely-voters-in-north-carolina-senate-election-remains-a-toss-up-cooper-ahead-of-forest-by-nine-points-other-statewide-contests-show-small-leads-for-robinson-stein-and-folwell,10/15/20,10/18/20,1155,lv,50.6,47.4
+New Mexico,GBAO,https://benraylujan.com/wp-content/uploads/2020/10/Lujan-Poll-Memo-102020.pdf,10/14/20,10/17/20,600,lv,54.0,41.0
 North Carolina,ABC News/The Washington Post,https://www.washingtonpost.com/context/oct-12-17-2020-post-abc-poll-north-carolina/5bed58ac-8dc1-4018-857b-ab7aedeb3d2e/?tid=a_inl_manual&tidloc=8,10/12/20,10/17/20,706,rv,50.0,47.0
 Wisconsin,Trafalgar Group,https://www.thetrafalgargroup.org/news/wi-pres-1020/,10/14/20,10/16/20,1051,lv,47.6,46.3
 Arizona,YouGov,https://drive.google.com/file/d/1j9uJnxfT1x8spYhW2QmAq6OkSMd06wJG/view,10/13/20,10/16/20,1074,lv,50.0,47.0
