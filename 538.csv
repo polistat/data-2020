@@ -1,6 +1,8 @@
 State,Poll,Source,Start Date,End Date,Sample Size,Sample Type,Biden,Trump
+Pennsylvania,Gravis Marketing,https://gravismarketing.com/2020-pa-poll-results/,10/23/20,10/23/20,602,lv,51.0,44.0
 Florida,St. Pete Polls,http://stpetepolls.org/files/StPetePolls_2020_State_President_October21_U5GHV.pdf,10/21/20,10/22/20,2527,lv,48.9,47.4
-Arizona,Susquehanna Polling & Research Inc.,https://overland.amgreatness.com/app/uploads/2020/10/Toplines-ArizonaStatewide-CFAG-Oct2020.pdf,10/19/20,10/22/20,500,lv,46.0,46.0
+Arizona,Susquehanna Polling & Research Inc.,https://overland.amgreatness.com/app/uploads/2020/10/Toplines-ArizonaStatewide-CFAG-Oct2020.pdf,10/19/20,10/22/20,500,lv,46.2,46.6
+Georgia,Landmark Communications,https://www.wsbtv.com/news/local/atlanta/president-trump-widens-lead-over-joe-biden-latest-exclusive-channel-2-poll/7R643PFTRVDFHGNWHJFBVHKUCY/,10/21/20,10/21/20,500,lv,45.0,49.0
 North Carolina,Rasmussen Reports/Pulse Opinion Research,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/north_carolina_trump_48_biden_47,10/20/20,10/21/20,800,lv,48.0,49.0
 Florida,Rasmussen Reports/Pulse Opinion Research,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/florida_trump_49_biden_46,10/20/20,10/21/20,800,lv,46.0,50.0
 Iowa,Emerson College,https://emersonpolling.reportablenews.com/pr/iowa-2020-trump-holds-narrow-lead-over-biden,10/19/20,10/21/20,435,lv,48.1,48.0
@@ -21,7 +23,7 @@ Minnesota,SurveyUSA,http://www.surveyusa.com/client/PollReport.aspx?g=ab077ef6-1
 Florida,SSRS,http://cdn.cnn.com/cnn/2020/images/10/21/rel2a_fl.pdf,10/15/20,10/20/20,906,rv,48.0,46.0
 Pennsylvania,SSRS,http://cdn.cnn.com/cnn/2020/images/10/21/rel1a_pa.pdf,10/15/20,10/20/20,925,rv,50.0,45.0
 Oklahoma,SoonerPoll.com,https://www.news9.com/story/5f90b311788f4939f00759e5/news-9news-on-6-exclusive-poll:-inhofe-leads-broyles-by-20-points-in-us-senate-race,10/15/20,10/20/20,5466,lv,36.5,58.5
-Montana,Strategies 360,https://nbcmontana.com/news/beyond-the-podium/nbc-montanastrategies-360-poll-shows-extremely-tight-montana-races,10/15/20,10/20/20,500,lv,43.0,51.0
+Montana,Strategies 360,https://www.scribd.com/document/481195217/20-700-Montana-Elections-Survey-Toplines1-pdf,10/15/20,10/20/20,500,lv,43.0,51.0
 Michigan,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_michigan_state_poll_w4_10_20_2020.pdf,10/14/20,10/20/20,686,lv,52.0,44.0
 North Carolina,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_north_carolina_state_poll_w4_10_20_20.pdf,10/14/20,10/20/20,660,lv,49.0,47.0
 Florida,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_florida_state_poll_w4_10_21_2020.pdf,10/14/20,10/20/20,662,lv,51.0,46.0
@@ -65,6 +67,7 @@ Georgia,Siena College/The New York Times Upshot,https://int.nyt.com/data/documen
 Virginia,ABC News/The Washington Post,https://www.washingtonpost.com/context/oct-13-19-2020-washington-post-schar-school-poll-of-virginia-voters/2be60bb5-dff2-4440-a7c4-af4e42a86c88/?tid=a_inl_manual,10/13/20,10/19/20,908,lv,52.0,41.0
 Michigan,Mitchell Research & Communications,https://projects.fivethirtyeight.com/polls/20201019_MI_Mitchell.pdf,10/18/20,10/18/20,900,lv,51.0,41.0
 Arizona,Data Orbital,https://www.dataorbital.com/the-blog/breaking-in-arizona-presidential-and-us-races-still-tight-two-weeks-out-from-election-day,10/16/20,10/18/20,550,lv,47.1,41.9
+Montana,RMG Research,http://politicaliq.com/2020/10/24/mt-trump-50-biden-46/?utm_source=rss&utm_medium=rss&utm_campaign=mt-trump-50-biden-46,10/15/20,10/18/20,800,lv,46.0,50.0
 Texas,Data for Progress,https://filesforprogress.org/memos/2020-senate-project/week-5/toplines/tx.pdf,10/15/20,10/18/20,933,lv,47.0,46.0
 North Carolina,East Carolina University,https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-biden-leads-trump-by-three-points-among-likely-voters-in-north-carolina-senate-election-remains-a-toss-up-cooper-ahead-of-forest-by-nine-points-other-statewide-contests-show-small-leads-for-robinson-stein-and-folwell,10/15/20,10/18/20,1155,lv,50.6,47.4
 Michigan,Data for Progress,https://filesforprogress.org/memos/2020-senate-project/week-5/toplines/dfp_psp_mi_10.21.2020.pdf,10/15/20,10/18/20,830,lv,50.0,45.0
@@ -88,6 +91,7 @@ Michigan,Harris Insights & Analytics,https://thehill.com/homenews/campaign/52141
 Pennsylvania,Harris Insights & Analytics,https://thehill.com/homenews/campaign/521421-biden-holds-five-point-lead-over-trump-in-pennsylvania-poll,10/12/20,10/15/20,992,lv,51.0,46.0
 Kentucky,Mason-Dixon Polling & Strategy,https://projects.fivethirtyeight.com/polls/20201020_KY_MasonDixon.pdf,10/12/20,10/15/20,625,lv,39.0,56.0
 Minnesota,Change Research,https://docs.google.com/spreadsheets/d/1nyeMirjcRslmU8Bz4sMcxebaGGLKAuBkvyNCWSfRIPw/edit#gid=237221557,10/12/20,10/15/20,1021,lv,49.0,44.0
+Georgia,National Research Inc.,https://www.americanactionforum.org/insight/georgia-policy-priorities-and-the-election-october-update/,10/12/20,10/15/20,800,lv,49.0,45.0
 Colorado,RMG Research,http://politicaliq.com/2020/10/20/co-biden-51-trump-43/,10/9/20,10/15/20,800,lv,51.0,43.0
 North Carolina,Emerson College,https://emersonpolling.reportablenews.com/pr/north-carolina-2020-biden-and-trump-neck-and-neck-as-republicans-close-gap-in-u-s-senate-and-governor-races,10/13/20,10/14/20,721,lv,49.2,49.2
 Virginia,Civiqs,https://civiqs.com/documents/Civiqs_DailyKos_VA_banner_book_2020_10_48z9k2.pdf,10/11/20,10/14/20,1231,lv,55.0,42.0
@@ -162,6 +166,7 @@ Nevada,YouGov,https://drive.google.com/file/d/1YShdAgKUTTx0fqhTfEuDJ-zwnd7YgkpD/
 Iowa,YouGov,https://drive.google.com/file/d/1j1ecxNthrVLwbSmV5eSUGdeuEilTgKkd/view,10/6/20,10/9/20,1035,lv,49.0,49.0
 Colorado,YouGov,https://www.colorado.edu/lab/aprl/sites/default/files/attached-files/2020_colorado_political_climate_report_election_topline_10-19-20_.pdf,10/5/20,10/9/20,800,lv,47.0,38.0
 Arizona,Trafalgar Group,https://drive.google.com/file/d/1qUONKYDJqkz2Nk1F3BKTR_NW-wOqiZ9l/view,10/6/20,10/8/20,1087,lv,43.8,47.8
+Iowa,National Research Inc.,https://www.americanactionforum.org/insight/iowa-policy-priorities-and-the-election-october-update/,10/5/20,10/8/20,800,lv,47.0,45.0
 Florida,RMG Research,http://politicaliq.com/2020/10/13/florida-biden-48-trump-46/,10/4/20,10/8/20,800,lv,48.0,46.0
 Arizona,OH Predictive Insights,https://f.hubspotusercontent40.net/hubfs/7453540/201005_AZPOP/PR_Arizona%20Public%20Opinion%20Pulse%20Toplines%20and%20Crosstabs%20(1).pdf?utm_medium=email&_hsmi=97443604&_hsenc=p2ANqtz-8YKdQGdcjhrShEJfsBc7JTFdlklT1RodoeG-nMmCGHWRDUFwNlhUCpC0Qyjh4DQGGGyPyUZaS7ikUHptXoT6cVk8q7kfO-4hRg1rAyzImJPZbVBeA&utm_content=97443604&utm_source=hs_email,10/4/20,10/8/20,608,lv,50.0,47.0
 Michigan,Baldwin Wallace University,https://www.bw.edu/Assets/community-research-institute/10-2020-bw-gl-poll-4-final.pdf,9/30/20,10/8/20,1134,lv,50.2,43.2
@@ -180,6 +185,7 @@ Texas,Rasmussen Reports/Pulse Opinion Research,https://crosswindpr.com/texas-sta
 Louisiana,Trafalgar Group,https://drive.google.com/file/d/1jcW2ZbuDoGIGuGBZK330S9rC02fQeofz/view,10/4/20,10/6/20,1048,lv,35.9,54.1
 Iowa,Civiqs,https://civiqs.com/documents/Civiqs_DailyKos_IA_banner_book_2020_10_u43b2l.pdf,10/3/20,10/6/20,756,lv,48.0,47.0
 Texas,Civiqs,https://civiqs.com/documents/Civiqs_DailyKos_TX_banner_book_2020_10_cm5k3s.pdf,10/3/20,10/6/20,895,lv,48.0,48.0
+Michigan,National Research Inc.,https://www.americanactionforum.org/insight/michigan-policy-priorities-and-the-election-october-update/,10/3/20,10/6/20,800,lv,51.0,42.0
 Ohio,Siena College/The New York Times Upshot,https://int.nyt.com/data/documenttools/oh-nv-crosstabs/d91c22da8b8953eb/full.pdf,10/2/20,10/6/20,661,lv,45.0,44.0
 Nevada,Siena College/The New York Times Upshot,https://int.nyt.com/data/documenttools/oh-nv-crosstabs/d91c22da8b8953eb/full.pdf,10/2/20,10/6/20,660,lv,48.0,42.0
 Maine,Pan Atlantic Research,https://drive.google.com/file/d/1sI71fH_b6IKecmMtqlACiYc8ODAZ6R1P/view,10/2/20,10/6/20,600,lv,50.3,39.7
@@ -451,6 +457,9 @@ Florida,GQR Research (GQRR),https://projects.fivethirtyeight.com/polls/20200908_
 Wisconsin,Morning Consult,https://morningconsult.com/form/wisconsin-presidential-election-tracking/,8/25/20,9/3/20,797,lv,52.0,42.0
 Wisconsin,Rasmussen Reports/Pulse Opinion Research,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/questions/questions_wisconsin_presidential_race_september_1_2_2020,9/1/20,9/2/20,1000,lv,53.09,44.72
 Ohio,Rasmussen Reports/Pulse Opinion Research,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/questions/questions_ohio_presidential_race_september_1_2_2020,9/1/20,9/2/20,1000,lv,50.87,47.04
+Georgia,National Research Inc.,https://www.americanactionforum.org/insight/georgia-policy-priorities-and-the-election/,8/30/20,9/2/20,800,lv,46.0,46.0
+Iowa,National Research Inc.,https://www.americanactionforum.org/insight/iowa-policy-priorities-and-the-election/,8/30/20,9/2/20,800,lv,43.0,50.0
+Michigan,National Research Inc.,https://www.americanactionforum.org/insight/michigan-policy-priorities-and-the-election/,8/30/20,9/2/20,800,lv,50.0,44.0
 Texas,University of Texas at Tyler,https://www.scribd.com/document/475037655/Aug28-Sept2-DMN-UTTyler-2020-Poll-Codebook-4,8/28/20,9/2/20,1176,rv,44.0,43.0
 New Mexico,Research & Polling Inc.,https://www.abqjournal.com/1493758/biden-holds-sizable-lead-over-trump-in-nm-journal-poll-finds.html,8/26/20,9/2/20,1123,lv,54.0,39.0
 Wisconsin,Morning Consult,https://morningconsult.com/form/wisconsin-presidential-election-tracking/,8/24/20,9/2/20,810,lv,52.0,42.0
