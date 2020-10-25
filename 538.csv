@@ -1,11 +1,21 @@
 State,Poll,Source,Start Date,End Date,Sample Size,Sample Type,Biden,Trump
+Michigan,Trafalgar Group,https://drive.google.com/file/d/18MUIRqbzKFcDf2n3q1SmpEd-Kz3m7cXd/view,10/24/20,10/24/20,723,lv,46.6,49.2
+Arizona,Trafalgar Group,https://drive.google.com/file/d/1yydRu7bsuh8gdVPHqYdwtoIqVohoVpaz/view,10/24/20,10/24/20,472,lv,46.6,49.5
+Florida,Trafalgar Group,https://drive.google.com/file/d/15JN1pOklxLobpaH075CUTzSlrCN5Vyf4/view,10/24/20,10/24/20,773,lv,46.9,49.4
+Michigan,Gravis Marketing,https://gravismarketing.com/michigan-poll-results-2020/,10/24/20,10/24/20,679,lv,55.0,42.0
 Pennsylvania,Gravis Marketing,https://gravismarketing.com/2020-pa-poll-results/,10/23/20,10/23/20,602,lv,51.0,44.0
+Wisconsin,Gravis Marketing,https://gravismarketing.com/wp-content/uploads/2020/10/Wisconsin-October-23-2020.pdf,10/23/20,10/23/20,677,lv,54.0,43.0
+Florida,YouGov,https://drive.google.com/file/d/12YvPqiTHtWdC4CnV0zAtNtvj7_QO-mr9/view,10/20/20,10/23/20,1228,lv,50.0,48.0
+Georgia,YouGov,https://drive.google.com/file/d/1jZ9sY9pNj52MdJPsN9MW4KHKvDsjNC9c/view,10/20/20,10/23/20,1090,lv,49.0,49.0
+North Carolina,YouGov,https://drive.google.com/file/d/120niJzXNDssyJDgqzt-EgHEqarQgnY_8/view,10/20/20,10/23/20,1022,lv,51.0,47.0
 Florida,St. Pete Polls,http://stpetepolls.org/files/StPetePolls_2020_State_President_October21_U5GHV.pdf,10/21/20,10/22/20,2527,lv,48.9,47.4
+North Carolina,Trafalgar Group,https://drive.google.com/file/d/1F50GhQFuthpATgxIiDqADXjmgk_iNFBm/view,10/20/20,10/22/20,1098,lv,46.0,48.8
 Arizona,Susquehanna Polling & Research Inc.,https://overland.amgreatness.com/app/uploads/2020/10/Toplines-ArizonaStatewide-CFAG-Oct2020.pdf,10/19/20,10/22/20,500,lv,46.2,46.6
 Georgia,Landmark Communications,https://www.wsbtv.com/news/local/atlanta/president-trump-widens-lead-over-joe-biden-latest-exclusive-channel-2-poll/7R643PFTRVDFHGNWHJFBVHKUCY/,10/21/20,10/21/20,500,lv,45.0,49.0
 North Carolina,Rasmussen Reports/Pulse Opinion Research,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/north_carolina_trump_48_biden_47,10/20/20,10/21/20,800,lv,48.0,49.0
 Florida,Rasmussen Reports/Pulse Opinion Research,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/florida_trump_49_biden_46,10/20/20,10/21/20,800,lv,46.0,50.0
 Iowa,Emerson College,https://emersonpolling.reportablenews.com/pr/iowa-2020-trump-holds-narrow-lead-over-biden,10/19/20,10/21/20,435,lv,48.1,48.0
+South Dakota,Mason-Dixon Polling & Strategy,https://www.argusleader.com/story/news/politics/elections/2020/10/25/argus-leader-kelo-poll-president-trump-joe-biden-south-dakota/6013387002/,10/19/20,10/21/20,625,lv,40.0,51.0
 Iowa,RMG Research,http://politicaliq.com/2020/10/22/ia-toss-up-trump-47-biden-47/,10/15/20,10/21/20,800,lv,47.0,47.0
 Arizona,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_arizona_state_poll_w4_10_21_2020.pdf,10/14/20,10/21/20,658,lv,50.0,46.0
 Kansas,co/efficient,https://www.politico.com/f/?id=00000175-48a3-d987-ab7f-cef7305b0000,10/18/20,10/20/20,2453,lv,39.0,56.0
@@ -29,6 +39,7 @@ North Carolina,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents
 Florida,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_florida_state_poll_w4_10_21_2020.pdf,10/14/20,10/20/20,662,lv,51.0,46.0
 Wisconsin,RMG Research,http://politicaliq.com/2020/10/22/wi-biden-50-trump-44/,10/14/20,10/20/20,800,lv,50.0,44.0
 Pennsylvania,Muhlenberg College,https://www.muhlenberg.edu/media/contentassets/pdf/about/polling/surveys/pennsylvania/PA_ELEC2020_OCT_REPORT_1.pdf,10/13/20,10/20/20,416,lv,51.0,44.0
+Texas,University of Texas at Tyler,https://www.uttyler.edu/politicalscience/files/oct2020-rv-codebook-dmn-uttyler-poll.pdf,10/13/20,10/20/20,1012,rv,46.0,44.0
 Arizona,Morning Consult,https://morningconsult.com/form/2020-u-s-election-tracker/,10/11/20,10/20/20,1066,lv,47.0,48.0
 Colorado,Morning Consult,https://morningconsult.com/form/2020-u-s-election-tracker/,10/11/20,10/20/20,788,lv,55.0,39.0
 Florida,Morning Consult,https://morningconsult.com/form/2020-u-s-election-tracker/,10/11/20,10/20/20,4685,lv,52.0,45.0
