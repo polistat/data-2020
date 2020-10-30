@@ -1,11 +1,17 @@
 State,Poll,Source,Start Date,End Date,Sample Size,Sample Type,Biden,Trump
+North Carolina,Rasmussen Reports/Pulse Opinion Research,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/north_carolina_trump_48_biden_462,10/28/20,10/29/20,800,lv,47.0,48.0
 Arizona,Rasmussen Reports/Pulse Opinion Research,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/arizona_trump_48_biden_45,10/27/20,10/29/20,800,lv,45.0,49.0
+Florida,Harris Insights & Analytics,https://thehill.com/homenews/campaign/523477-exclusive-poll-biden-leads-in-florida-pennsylvania-and-north-carolina#.X5tNPQ_GeCQ.twitter,10/26/20,10/29/20,1148,lv,50.0,47.0
+North Carolina,Harris Insights & Analytics,https://thehill.com/homenews/campaign/523477-exclusive-poll-biden-leads-in-florida-pennsylvania-and-north-carolina#.X5tNPQ_GeCQ.twitter,10/26/20,10/29/20,903,lv,49.0,48.0
+Pennsylvania,Harris Insights & Analytics,https://thehill.com/homenews/campaign/523477-exclusive-poll-biden-leads-in-florida-pennsylvania-and-north-carolina#.X5tNPQ_GeCQ.twitter,10/26/20,10/29/20,901,lv,51.0,46.0
 Ohio,Gravis Marketing,https://www.scribd.com/document/482077606/Ohio-October-28-2020,10/27/20,10/28/20,613,lv,47.0,49.0
 Texas,RMG Research,http://politicaliq.com/2020/10/29/tx-trump-50-biden-46/,10/27/20,10/28/20,800,lv,46.0,50.0
-Nevada,Gravis Marketing,https://gravismarketing.com/nevada-poll-results/,10/27/20,10/28/20,688,lv,50.0,44.0
+Nevada,Gravis Marketing,https://www.scribd.com/document/482143746/Nevada-October-29-2020-v2#from_embed,10/27/20,10/28/20,688,lv,50.0,44.0
+North Carolina,East Carolina University,https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-biden-and-cunningham-hold-slim-leads-in-north-carolina-cooper-remains-ahead-as-election-day-nears,10/27/20,10/28/20,1103,lv,50.32,47.6
 Arizona,Gravis Marketing,https://www.scribd.com/document/481978819/Arizona-October-28-2020,10/26/20,10/28/20,704,lv,48.0,44.0
 Alaska,Gravis Marketing,https://www.scribd.com/document/482078454/Alaska-October-28-2020#from_embed,10/26/20,10/28/20,770,lv,43.0,52.0
 New Hampshire,American Research Group,https://americanresearchgroup.com/nhpoll/pres20/,10/26/20,10/28/20,600,lv,58.0,39.0
+North Carolina,Marist College,https://www.documentcloud.org/documents/7279122-Xyz-NBCNews-Marist-Poll-NC-Annotated.html,10/25/20,10/28/20,1049,rv,51.0,46.0
 Florida,Monmouth University,https://www.monmouth.edu/polling-institute/documents/monmouthpoll_fl_102920.pdf/,10/24/20,10/28/20,509,rv,50.0,45.0
 New Hampshire,University of New Hampshire,https://scholars.unh.edu/cgi/viewcontent.cgi?article=1624&context=survey_center_polls,10/24/20,10/28/20,864,lv,53.0,45.0
 North Carolina,Gravis Marketing,https://www.scribd.com/document/481968988/North-Carolina-October-28-2020-v3,10/26/20,10/27/20,614,lv,49.0,46.0
@@ -42,6 +48,7 @@ Michigan,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-
 Texas,University of Massachusetts Lowell,https://www.uml.edu/docs/2020-Texas-Oct-Topline_tcm18-331627.pdf,10/20/20,10/26/20,873,lv,47.0,48.0
 North Carolina,University of Massachusetts Lowell,https://www.uml.edu/docs/2020-NC-Oct-Topline_tcm18-331629.pdf,10/20/20,10/26/20,911,lv,48.0,48.0
 New Hampshire,University of Massachusetts Lowell,https://www.uml.edu/docs/2020-NH-Oct-Topline_tcm18-331636.pdf,10/16/20,10/26/20,757,lv,53.0,43.0
+Florida,YouGov,https://projects.fivethirtyeight.com/polls/20201030_FL_FSU.pdf,10/16/20,10/26/20,1200,lv,48.0,46.0
 Pennsylvania,Opinion Savvy/InsiderAdvantage,https://amgreatness.com/2020/10/26/trump-takes-the-lead-in-pennsylvania-3-per-new-poll/,10/25/20,10/25/20,400,lv,45.5,48.4
 Florida,Florida Atlantic University,https://business.fau.edu/departments/economics/business-economics-polling/bepi-polls/bepi-polls-2020/biden-holds-florida-edge.php,10/24/20,10/25/20,937,lv,50.16,48.13
 South Carolina,East Carolina University,https://surveyresearch-ecu.reportablenews.com/pr/ecu-poll-of-south-carolina-graham-with-a-narrow-lead-over-harrison-among-likely-voters-trump-ahead-of-biden-as-election-day-nears,10/24/20,10/25/20,763,lv,44.3,52.03
