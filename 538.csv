@@ -1,14 +1,54 @@
 State,Poll,Source,Start Date,End Date,Sample Size,Sample Type,Biden,Trump
+Pennsylvania,Susquehanna Polling & Research Inc.,https://www.realclearpolitics.com/docs/2020/SusquehannaPolling-PAStatewidePoll-Oct2020.pdf,11/1/20,11/2/20,499,lv,48.4,49.2
+Arizona,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-11/topline_reuters_arizona_state_poll_w6_11_2_2020.pdf,10/27/20,11/2/20,610,lv,50.0,47.0
+Georgia,Opinion Savvy/InsiderAdvantage,https://overland.amgreatness.com/app/uploads/2020/11/GAInsider-Advantage_Center-for-American-Greatness-Statewide-Poll.pdf,11/1/20,11/1/20,500,lv,46.1,48.1
+Illinois,Research Co.,https://researchco.ca/2020/11/02/us2020-eight-states-uspoli/,10/31/20,11/1/20,450,lv,55.0,38.0
+Michigan,Research Co.,https://researchco.ca/2020/11/02/us2020-eight-states-uspoli/,10/31/20,11/1/20,450,lv,50.0,43.0
+Minnesota,Research Co.,https://researchco.ca/2020/11/02/us2020-eight-states-uspoli/,10/31/20,11/1/20,450,lv,52.0,43.0
+New Jersey,Research Co.,https://researchco.ca/2020/11/02/us2020-eight-states-uspoli/,10/31/20,11/1/20,450,lv,56.0,38.0
+New York,Research Co.,https://researchco.ca/2020/11/02/us2020-eight-states-uspoli/,10/31/20,11/1/20,450,lv,61.0,33.0
+Ohio,Research Co.,https://researchco.ca/2020/11/02/us2020-eight-states-uspoli/,10/31/20,11/1/20,450,lv,47.0,47.0
+Pennsylvania,Research Co.,https://researchco.ca/2020/11/02/us2020-eight-states-uspoli/,10/31/20,11/1/20,450,lv,50.0,44.0
+Wisconsin,Research Co.,https://researchco.ca/2020/11/02/us2020-eight-states-uspoli/,10/31/20,11/1/20,450,lv,50.0,42.0
+Pennsylvania,Rasmussen Reports/Pulse Opinion Research,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/pennsylvania_biden_49_trump_45,10/31/20,11/1/20,800,lv,50.0,47.0
+Ohio,Rasmussen Reports/Pulse Opinion Research,https://www.rasmussenreports.com/public_content/politics/elections/election_2020/ohio_trump_48_biden_45,10/31/20,11/1/20,800,lv,45.0,49.0
 Florida,Susquehanna Polling & Research Inc.,https://overland.amgreatness.com/app/uploads/2020/11/Toplines-Florida-CFAG-Oct2020-2.pdf,10/29/20,11/1/20,400,lv,46.0,47.0
+Wisconsin,Civiqs,https://civiqs.com/documents/Civiqs_DailyKos_WI_banner_book_2020_11_5wxw4t.pdf,10/29/20,11/1/20,789,lv,51.0,47.0
+Iowa,Civiqs,https://civiqs.com/documents/Civiqs_DailyKos_IA_banner_book_2020_11_c9dhr3.pdf,10/29/20,11/1/20,853,lv,49.0,48.0
+Ohio,Civiqs,https://civiqs.com/documents/Civiqs_DailyKos_OH_banner_book_2020_11_89xh3k.pdf,10/29/20,11/1/20,1136,lv,48.0,49.0
+Colorado,Keating Research/OnSight Public Affairs/Melanson,http://onsightpublicaffairs.com/web/wp-content/uploads/2020/11/KOM20Colorado20Poll20-20Nov20202020-20Topline20Results20-20For20Release20-2011-1-2020.pdf,10/29/20,11/1/20,502,lv,53.0,41.0
+Arizona,Marist College,http://maristpoll.marist.edu/wp-content/uploads/2020/11/NBC-News_Marist-Poll_AZ-Adults-and-Registered-Voters_NOS-and-Tables_202011012355.pdf#page=3,10/29/20,11/1/20,988,rv,48.0,47.0
+Pennsylvania,Marist College,http://maristpoll.marist.edu/wp-content/uploads/2020/11/NBC-News_Marist-Poll_PA-Adults-and-Registered-Voters_NOS-and-Tables_20211012452.pdf#page=3,10/29/20,11/1/20,1020,rv,50.0,46.0
+Pennsylvania,Monmouth University,https://www.monmouth.edu/polling-institute/documents/monmouthpoll_pa_110220.pdf/,10/28/20,11/1/20,502,rv,50.0,45.0
+California,David Binder Research,https://twitter.com/davidbinder/status/1323333935133302785?s=20,10/28/20,11/1/20,800,lv,62.0,31.0
+Ohio,Quinnipiac University,https://poll.qu.edu/florida/release-detail?ReleaseID=3683,10/28/20,11/1/20,1440,lv,47.0,43.0
+Florida,Quinnipiac University,https://poll.qu.edu/florida/release-detail?ReleaseID=3683,10/28/20,11/1/20,1657,lv,47.0,42.0
 Wisconsin,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-11/topline_reuters_wisconsin_state_poll_w6_11_1_2020_.pdf,10/27/20,11/1/20,696,lv,53.0,43.0
 Pennsylvania,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-11/topline_reuters_pennsylvania_state_poll_w6_11_01_2020_.pdf,10/27/20,11/1/20,673,lv,51.0,45.0
 Michigan,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-11/topline_reuters_michigan_state_poll_w6_11_01_2020_0.pdf,10/27/20,11/1/20,654,lv,53.0,43.0
+North Carolina,Data for Progress,https://filesforprogress.org/datasets/2020/11/2020-election-polls/toplines/dfp_nc_11.1.20.pdf,10/27/20,11/1/20,908,lv,50.0,48.0
+Texas,Data for Progress,https://filesforprogress.org/datasets/2020/11/2020-election-polls/toplines/dfp_tx_11.1.20.pdf,10/27/20,11/1/20,926,lv,49.0,48.0
+Colorado,Data for Progress,https://filesforprogress.org/datasets/2020/11/2020-election-polls/toplines/dfp_co_11.1.20.pdf,10/27/20,11/1/20,709,lv,54.0,42.0
+Arizona,Data for Progress,https://filesforprogress.org/datasets/2020/11/2020-election-polls/toplines/dfp_az_11.1.20.pdf,10/27/20,11/1/20,1195,lv,50.0,47.0
+Virginia,Data for Progress,https://filesforprogress.org/datasets/2020/11/2020-election-polls/toplines/dfp_va_11.1.20.pdf,10/27/20,11/1/20,690,lv,54.0,43.0
+Alabama,Data for Progress,https://filesforprogress.org/datasets/2020/11/2020-election-polls/toplines/dfp_al_11.1.20.pdf,10/27/20,11/1/20,1045,lv,38.0,58.0
+Florida,Ipsos,https://graphics.reuters.com/USA-ELECTION/BATTLEGROUNDS/nmopawwakpa/index.html,10/27/20,11/1/20,,lv,50.0,46.0
+North Carolina,Ipsos,https://graphics.reuters.com/USA-ELECTION/BATTLEGROUNDS/nmopawwakpa/index.html,10/27/20,11/1/20,,lv,49.0,48.0
 North Carolina,Opinion Savvy/InsiderAdvantage,https://overland.amgreatness.com/app/uploads/2020/11/North-Carolina-Poll-Oct-31st.pdf,10/30/20,10/31/20,450,lv,43.6,48.0
 Arizona,AtlasIntel,https://projects.fivethirtyeight.com/polls/20201101_AZ_atlasintel.pdf,10/30/20,10/31/20,641,lv,48.1,50.4
 North Carolina,AtlasIntel,https://projects.fivethirtyeight.com/polls/20201101_NC_atlasintel.pdf,10/30/20,10/31/20,812,lv,47.5,49.5
 Wisconsin,AtlasIntel,https://projects.fivethirtyeight.com/polls/20201101_WI_atlasintel.pdf,10/30/20,10/31/20,781,lv,50.6,48.7
 Michigan,Opinion Savvy/InsiderAdvantage,https://overland.amgreatness.com/app/uploads/2020/11/MI-POll-Oct-31st-final-poll-.pdf,10/30/20,10/31/20,500,lv,48.8,46.7
 Pennsylvania,Opinion Savvy/InsiderAdvantage,https://overland.amgreatness.com/app/uploads/2020/11/PA-POll-Oct-31st-final-poll-a1-.pdf,10/30/20,10/31/20,500,lv,47.4,48.7
+Texas,AtlasIntel,https://projects.fivethirtyeight.com/polls/20201101_TX_atlasintel.pdf,10/30/20,10/31/20,962,lv,47.3,50.0
+Georgia,AtlasIntel,https://projects.fivethirtyeight.com/polls/20201101_GA_atlasintel.pdf,10/30/20,10/31/20,679,lv,46.1,48.3
+Michigan,AtlasIntel,https://projects.fivethirtyeight.com/polls/20201101_MI_atlasintel.pdf,10/30/20,10/31/20,686,lv,48.3,45.9
+Michigan,Trafalgar Group,https://drive.google.com/file/d/1MijhK0HHc4zCMF2SJ2tQdGV0BUW1AJi3/view,10/30/20,10/31/20,1033,lv,45.8,48.3
+Ohio,Trafalgar Group,https://drive.google.com/file/d/12cHF__m9ESyaLjDfYF9lRnUOUr0SRy9q/view,10/30/20,10/31/20,1041,lv,44.4,49.2
+Pennsylvania,Frederick Polls,https://competeeverywhere.com/2020/11/fresh-polling-shows-biden-poised-for-victory/,10/30/20,10/31/20,879,lv,52.0,48.0
+Florida,Frederick Polls,https://competeeverywhere.com/2020/11/fresh-polling-shows-biden-poised-for-victory/,10/30/20,10/31/20,768,lv,51.0,49.0
+North Carolina,Frederick Polls,https://competeeverywhere.com/2020/11/fresh-polling-shows-biden-poised-for-victory/,10/30/20,10/31/20,676,lv,51.0,49.0
+Pennsylvania,Trafalgar Group,https://drive.google.com/file/d/131AiIsLrqR_Ysr7ZaA2LgcCYuUkzrwTs/view,10/30/20,10/31/20,1062,lv,45.9,47.8
 Wisconsin,Susquehanna Polling & Research Inc.,https://overland.amgreatness.com/app/uploads/2020/10/Toplines-Wisconsin-CFAG-Oct2020-2.pdf,10/29/20,10/31/20,450,lv,49.0,46.0
 Michigan,Emerson College,https://emersonpolling.reportablenews.com/pr/super-poll-sunday-polling-in-the-midwest-shows-biden-ahead-in-michigan-and-tight-races-in-ohio-and-iowa,10/29/20,10/31/20,700,lv,52.0,45.5
 Ohio,Emerson College,https://emersonpolling.reportablenews.com/pr/super-poll-sunday-polling-in-the-midwest-shows-biden-ahead-in-michigan-and-tight-races-in-ohio-and-iowa,10/29/20,10/31/20,656,lv,49.6,48.7
@@ -24,6 +64,20 @@ Georgia,Emerson College,https://emersonpolling.reportablenews.com/pr/super-poll-
 Texas,Emerson College,https://emersonpolling.reportablenews.com/pr/super-poll-sunday-democrats-within-striking-distance-in-key-southern-states,10/29/20,10/31/20,763,lv,48.7,49.7
 Florida,Siena College/The New York Times Upshot,https://int.nyt.com/data/documenttools/az-fl-pa-wi/bc6b622f38350414/full.pdf,10/27/20,10/31/20,1451,lv,47.0,44.0
 Pennsylvania,Siena College/The New York Times Upshot,https://int.nyt.com/data/documenttools/az-fl-pa-wi/bc6b622f38350414/full.pdf,10/26/20,10/31/20,1862,lv,49.0,43.0
+Arizona,Morning Consult,https://morningconsult.com/form/2020-u-s-election-tracker/,10/22/20,10/31/20,1059,lv,48.4,46.1
+Colorado,Morning Consult,https://morningconsult.com/form/2020-u-s-election-tracker/,10/22/20,10/31/20,727,lv,53.8,40.9
+Florida,Morning Consult,https://morningconsult.com/form/2020-u-s-election-tracker/,10/22/20,10/31/20,4451,lv,51.5,45.4
+Georgia,Morning Consult,https://morningconsult.com/form/2020-u-s-election-tracker/,10/22/20,10/31/20,1743,lv,48.8,46.4
+Indiana,Morning Consult,https://morningconsult.com/form/2020-u-s-election-tracker/,10/22/20,10/31/20,1147,lv,42.0,53.4
+Michigan,Morning Consult,https://morningconsult.com/form/2020-u-s-election-tracker/,10/22/20,10/31/20,1736,lv,51.8,44.5
+Minnesota,Morning Consult,https://morningconsult.com/form/2020-u-s-election-tracker/,10/22/20,10/31/20,883,lv,51.7,42.4
+Missouri,Morning Consult,https://morningconsult.com/form/2020-u-s-election-tracker/,10/22/20,10/31/20,1109,lv,42.9,52.3
+North Carolina,Morning Consult,https://morningconsult.com/form/2020-u-s-election-tracker/,10/22/20,10/31/20,1982,lv,49.1,48.4
+Ohio,Morning Consult,https://morningconsult.com/form/2020-u-s-election-tracker/,10/22/20,10/31/20,2179,lv,46.6,49.2
+Pennsylvania,Morning Consult,https://morningconsult.com/form/2020-u-s-election-tracker/,10/22/20,10/31/20,2686,lv,51.9,43.2
+South Carolina,Morning Consult,https://morningconsult.com/form/2020-u-s-election-tracker/,10/22/20,10/31/20,904,lv,44.5,51.1
+Texas,Morning Consult,https://morningconsult.com/form/2020-u-s-election-tracker/,10/22/20,10/31/20,3267,lv,48.1,48.1
+Wisconsin,Morning Consult,https://morningconsult.com/form/2020-u-s-election-tracker/,10/22/20,10/31/20,1002,lv,53.8,40.5
 Iowa,Opinion Savvy/InsiderAdvantage,https://overland.amgreatness.com/app/uploads/2020/10/IOWA-POLL-102020.pdf,10/30/20,10/30/20,400,lv,46.1,47.8
 Wisconsin,Emerson College,https://emersonpolling.reportablenews.com/pr/super-poll-sunday-pregame-polls-show-midwest-shift-for-biden-in-wisconsin-nebraska-s-2nd-district-and-vigo-county-indiana,10/29/20,10/30/20,751,lv,52.7,45.4
 Nebraska CD-2,Emerson College,https://emersonpolling.reportablenews.com/pr/super-poll-sunday-pregame-polls-show-midwest-shift-for-biden-in-wisconsin-nebraska-s-2nd-district-and-vigo-county-indiana,10/29/20,10/30/20,806,lv,50.4,47.8
@@ -31,9 +85,15 @@ Pennsylvania,AtlasIntel,https://projects.fivethirtyeight.com/polls/10312020_PA_A
 Florida,St. Pete Polls,https://www.scribd.com/document/482346466/StPetePolls-2020-State-President-October30-F6JZP,10/29/20,10/30/20,2758,lv,49.2,48.1
 Pennsylvania,Emerson College,https://emersonpolling.reportablenews.com/pr/super-poll-sunday-biden-with-slight-lead-over-trump-in-pennsylvania-maine-s-second-district-competitive,10/29/20,10/30/20,823,lv,51.5,46.6
 Florida,Emerson College,https://emersonpolling.reportablenews.com/pr/super-poll-sunday-democrats-within-striking-distance-in-key-southern-states,10/29/20,10/30/20,849,lv,51.9,46.1
+Ohio,AtlasIntel,https://projects.fivethirtyeight.com/polls/20201102_OH_AtlasIntel.pdf,10/29/20,10/30/20,660,lv,46.5,50.4
 Florida,RMG Research,http://politicaliq.com/2020/11/01/florida-final-poll-biden-51-trump-47/,10/28/20,10/30/20,1200,lv,51.0,47.0
+Arizona,Data Orbital,https://www.dataorbital.com/the-blog/breaking-in-arizona-presidential-and-us-senate-races-shift-one-day-before-election-day,10/28/20,10/30/20,550,lv,45.9,45.3
 Arizona,Siena College/The New York Times Upshot,https://int.nyt.com/data/documenttools/az-fl-pa-wi/bc6b622f38350414/full.pdf,10/26/20,10/30/20,1252,lv,49.0,43.0
 Wisconsin,Siena College/The New York Times Upshot,https://int.nyt.com/data/documenttools/az-fl-pa-wi/bc6b622f38350414/full.pdf,10/26/20,10/30/20,1253,lv,52.0,41.0
+Minnesota,Targoz Market Research,https://static1.squarespace.com/static/5e28be4ccb16eb0aa6496c31/t/5f9f6c49622e88214e9ef210/1604283466396/Crosstab+-+Minnesota+2020+PollSmart+Poll+%28Demos%29.pdf,10/25/20,10/30/20,1138,lv,53.0,44.0
+Michigan,Targoz Market Research,https://static1.squarespace.com/static/5e28be4ccb16eb0aa6496c31/t/5f9f6cf4622e88214e9f0514/1604283637748/Crosstab+-+Michigan+2020+PollSmart+Poll+%28Demos%29.pdf,10/25/20,10/30/20,993,lv,53.0,39.0
+Pennsylvania,Targoz Market Research,https://static1.squarespace.com/static/5e28be4ccb16eb0aa6496c31/t/5f9f6d4d11f67f690ade11aa/1604283726251/Crosstab+-+Pennsylvania+2020+PollSmart+Poll+Demos.pdf,10/25/20,10/30/20,998,lv,56.0,42.0
+Florida,Targoz Market Research,https://static1.squarespace.com/static/5e28be4ccb16eb0aa6496c31/t/5f9f6df662349e59a50f895e/1604283895069/Crosstab+-+Florida+2020+PollSmart+Poll+%28Demos%29.pdf,10/25/20,10/30/20,1027,lv,50.8,47.1
 Wisconsin,SSRS,http://cdn.cnn.com/cnn/2020/images/10/31/rel2_wi.pdf,10/23/20,10/30/20,920,rv,51.0,44.0
 Michigan,SSRS,http://cdn.cnn.com/cnn/2020/images/10/31/rel2_mi.pdf,10/23/20,10/30/20,953,rv,54.0,40.0
 Arizona,SSRS,http://cdn.cnn.com/cnn/2020/images/10/31/rel2_az.pdf,10/23/20,10/30/20,892,rv,49.0,46.0
@@ -91,6 +151,11 @@ North Carolina,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents
 Arizona,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_arizona_state_poll_w5_10_28_2020.pdf,10/21/20,10/27/20,714,lv,47.0,47.0
 Florida,Ipsos,https://www.ipsos.com/sites/default/files/ct/news/documents/2020-10/topline_reuters_florida_state_poll_w5_10_28_2020.pdf,10/21/20,10/27/20,704,lv,48.0,47.0
 Virginia,Christopher Newport University,https://cnu.edu/wasoncenter/surveys/archive/2020-10-28.html,10/15/20,10/27/20,908,lv,53.0,41.0
+Florida,YouGov,https://bfschaffner.shinyapps.io/ces_swing/,9/29/20,10/27/20,3755,lv,49.0,47.0
+Georgia,YouGov,https://bfschaffner.shinyapps.io/ces_swing/,9/29/20,10/27/20,1456,lv,48.0,47.0
+North Carolina,YouGov,https://bfschaffner.shinyapps.io/ces_swing/,9/29/20,10/27/20,1627,lv,49.0,45.0
+Pennsylvania,YouGov,https://bfschaffner.shinyapps.io/ces_swing/,9/29/20,10/27/20,2703,lv,52.0,44.0
+Texas,YouGov,https://bfschaffner.shinyapps.io/ces_swing/,9/29/20,10/27/20,2947,lv,47.0,49.0
 South Carolina,Starboard Communications,https://twitter.com/walter_whetsell/status/1320870398410530817,10/26/20,10/26/20,800,lv,43.9,51.2
 North Carolina,RMG Research,http://politicaliq.com/2020/10/27/north-carolina-biden-48-trump-47/,10/24/20,10/26/20,800,lv,48.0,47.0
 Minnesota,Gravis Marketing,https://www.scribd.com/document/481836479/Minnesota-October-26-2020-v2,10/24/20,10/26/20,657,lv,53.0,39.0
